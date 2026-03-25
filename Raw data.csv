@@ -1,0 +1,1001 @@
+Patient ID,Patient Name,Gender,Age,Phone Number,Email,Address,Admission Date,Discharge Date,Diagnosis,Doctor Name,Department,Treatment Cost,Payment Status,Insurance Provider,Billing Amount,Medication Prescribed
+P494,,Female,,344.920.3464,,,5/24/2025,,Flu,Dr. Herrera,Ortho,4523 USD,Pending,Hygeia,942269 GBP,Ibuprofen
+P089,Elizabeth Diaz,Female,8,080-917-6364,,,April 20 1973,November 08 2009,,Dr. Stephens,General,2627 NGN,Pending,AXA,697906 USD,Aspirin
+P055,DANIELLE WALKER,Male,57,,bonniecannon@example.org,,,October 20 2009,,Dr. Nunez,Emergency,380 GBP,Paid,Hygeia,321980 NGN,Paracetamol
+P119,bryce adkins,FEMALE,,8026958539,,,July 19 1997,July 08 1989,Fracture,Dr. Johnson,Emergency,903389 NGN,Pending,AIICO,525877 GBP,Insulin
+P367,,male,,080-783-5316,xwagnerexample.com,,November 24 1996,January 02 2006,,Dr. Mcbride,General,205658 GBP,Paid,Bupa,434541 GBP,Amoxicillin
+P342,,male,,954-530-8089,,,6/13/2001,6/9/1989,Stroke,Dr. Tucker,Ortho,2278 GBP,Unpaid,,1943893 NGN,
+P105, Teresa Flores ,FEMALE,17,8099468323,,,11/9/2010,May 01 1980,Typhod,Dr. Santos,Orthopedics,1770 USD,Unpaid,AIICO,210620 GBP,Amoxicillin
+P346, Beth Patel ,Female,,,,,August 19 1991,August 03 1973,Cancer,Dr. Ingram,ER,417760 NGN,Unpaid,AIICO,1894119 NGN,
+P231,Megan Caldwell,,,,,,September 03 2015,2/18/2017,Stroke,Dr. Thompson,General,110953 USD,Pending,AIICO,1756421 USD,
+P337,kyle parker,Female,,753-237-1285x212,,,May 07 2008,,Typhod,Dr. Harding,Orthopedics,141937 NGN,Paid,Hygeia,1508214 NGN,Ibuprofen
+P230,,Female,,8027852439,harrisryanexample.org,,10/16/1980,12/5/1996,Cancer,Dr. Young,General,2356 GBP,Pending,Bupa,1968368 NGN,Ibuprofen
+P444,jamie butler,,55,,joseph10@example.net,,2/17/1972,9/25/2024,Typhod,Dr. Ingram,Orthopedics,3122 GBP,Pending,AIICO,514250 NGN,Paracetamol
+P346,Taylor Cohen,FEMALE,19,,greengregory@example.org,,3/17/2007,,Cancer,Dr. Garrett,Cardiology,495086 GBP,Unpaid,,638311 NGN,Amoxicillin
+P431,,FEMALE,,080-822-4450,,,2/5/1986,27/06/2009,Malaria,Dr. Miller,Ortho,296 GBP,Unpaid,AIICO,1669008 NGN,
+P198,lynn key,FEMALE,,+1-602-843-3071x470,,,5/27/1990,11/12/2010,Stroke,Dr. Glass,Orthopedics,753 GBP,Pending,AXA,980825 NGN,
+P333,JOSEPH YOUNG,,,,,"67248 Shaw Mills New Brittany, MT 47467",3/12/1995,,Diabetis,Dr. Gomez,Ortho,1088 GBP,,AIICO,1844386 GBP,Paracetamol
+P059, Megan Garza ,Female,,8075669932,kimberly70example.net,,May 21 2015,2/12/1974,Diabetes,Dr. Lozano,Cardio,3670 USD,Paid,Leadway,170014 USD,Ibuprofen
+P073,CHARLES HOLT,Female,,(718)631-8514x56369,,,8/16/2005,23/02/2013,Typhoid,Dr. Jennings,Orthopedics,358917 GBP,Unpaid,AXA,1870885 GBP,Aspirin
+P327, Sharon Chambers ,FEMALE,,080-965-2476,emily42example.com,,,January 12 1986,Typhoid,Dr. Perez,Orthopedics,1966 USD,,,1228387 USD,Amoxicillin
+P230,garrett jenkins,Male,,080-210-5390,,,February 11 1971,,Malaria,Dr. Norris,ER,1180 GBP,Unpaid,AIICO,689744 USD,Ibuprofen
+P435,walter leon,male,7,8087570284,ctaylor@example.org,"475 Hannah Springs Apt. 520 North Keith, UT 57927",11/16/2010,3/14/2020,Typhod,Dr. Hawkins,General,1406 USD,Pending,AIICO,720077 NGN,
+P272,JAMIE CARDENAS,Male,79,8080011371,,,15/05/2004,5/17/1974,Diabetis,Dr. Smith,Orthopedics,744119 GBP,Pending,Bupa,748327 NGN,Paracetamol
+P155,,FEMALE,23,290-669-9969,egonzalez@example.com,,3/4/2025,7/3/1982,Stroke,Dr. Hayes,Cardio,4827 NGN,Paid,AIICO,397417 GBP,Insulin
+P385,troy ingram,,,,mgonzalez@example.com,,10/6/2015,,Malaria,Dr. Garcia,ER,2466 GBP,Pending,AXA,937622 USD,Insulin
+P057,natasha thomas,Female,,328.887.6890,,"97807 Short Branch Port Paige, MA 40577",March 15 2006,7/5/1985,Stroke,Dr. Gutierrez,Emerg.,25303 NGN,Unpaid,AXA,1880028 GBP,Insulin
+P225,PATRICIA GONZALES,,73,8070146159,,,April 08 2018,June 24 2002,Typhod,Dr. Gonzalez,Ortho,1035 USD,Paid,AXA,140099 USD,Ibuprofen
+P248,Amy Wilson,Male,,345-646-5707,,,June 25 1980,March 06 1982,,Dr. Jensen,Cardiology,54584 GBP,Unpaid,Bupa,988458 USD,Ibuprofen
+P159, Brandon Cooley ,,58,080-781-2802,,,February 09 1999,6/19/2001,,Dr. Edwards,Ortho,1438 GBP,Pending,Hygeia,768184 USD,Amoxicillin
+P158,Denise Terry,,,,,"9852 Jennifer Wells Apt. 391 West Raymond, AL 84675",November 21 1986,February 15 1997,Diabetis,Dr. Brewer,Orthopedics,154329 GBP,Pending,AIICO,262416 NGN,Aspirin
+P406,LYNN CARTER,Male,,8011087868,johnnysnowexample.com,USCGC Nicholson FPO AP 76539,,,,Dr. Lopez,General,343798 NGN,Paid,,403216 NGN,Insulin
+P293,bryce humphrey,Male,,213-694-6029x31047,,,6/20/2018,30/07/2004,Fracture,Dr. Brown,Emerg.,566 GBP,Pending,,1713939 GBP,Ibuprofen
+P084,,Female,,080-910-6316,,"32252 Kelly Rapid Brandonville, CT 94865",24/01/2019,20/02/2012,Cancer,Dr. Webster,Orthopedics,187188 GBP,Paid,AIICO,1407915 NGN,Paracetamol
+P175,shane russell,,,,,,September 30 2006,,Fracture,Dr. Ochoa,Emergency,754618 GBP,Paid,Leadway,1971818 GBP,Amoxicillin
+P211,VICTORIA GONZALEZ,Female,,,,,21/07/2007,31/07/2016,Typhod,Dr. Wise,Emerg.,1582 NGN,Pending,Hygeia,670608 USD,Insulin
+P139,Kristin Grant,FEMALE,68,641-585-5481x1144,cgutierrezexample.com,,,9/27/2010,Malaria,Dr. Jordan,Cardio,682836 NGN,Pending,Leadway,611436 GBP,Insulin
+P097,Jeffrey Cunningham,Female,,,,,10/2/1974,4/17/1972,Flu,Dr. Preston,Cardio,2905 GBP,,Hygeia,1993288 USD,Aspirin
+P446, Michelle James ,male,,,nathan44example.com,"2232 Michelle Islands East David, NV 46398",18/10/1978,15/05/1972,Flu,Dr. Wilkerson,General,293434 USD,Pending,,1972267 GBP,Amoxicillin
+P263,Michael Robertson,male,,(952)971-7406x07962,paige93@example.net,,July 02 2005,March 10 1976,Diabetes,Dr. Holmes,General,319743 USD,Unpaid,Leadway,1678208 GBP,Amoxicillin
+P304,,Male,,080-817-1721,,"401 Jennifer Square Suite 750 Lake Charles, AS 11684",4/27/1991,12/30/2000,Stroke,Dr. Holloway,Emerg.,3131 GBP,Paid,Leadway,102720 NGN,
+P334, Jacqueline Curtis ,Male,,8022056662,marykimexample.net,,25/08/2010,,Flu,Dr. Tyler,Cardiology,887312 NGN,Paid,,409366 USD,Ibuprofen
+P483, Melissa Moore MD ,male,,8056878839,,"45494 William Expressway Port Jacqueline, MS 43386",March 01 1992,1/10/1978,Cancer,Dr. Adams,Ortho,2764 GBP,Unpaid,AXA,864078 USD,Aspirin
+P092,STANLEY GONZALEZ,male,76,8069328959,,,7/4/2009,10/11/2000,Typhoid,Dr. Stephens,Neuro,4114 GBP,Pending,AXA,1942644 NGN,Aspirin
+P155,Maria Fowler,Female,52,080-667-7042,,"397 William Cliff Apt. 792 Port Emily, LA 57683",October 23 1970,May 20 2019,Diabetis,Dr. Flowers,Cardio,912304 USD,Unpaid,Hygeia,957074 GBP,Amoxicillin
+P185,,FEMALE,79,080-742-6201,,,20/04/2025,,Diabetis,Dr. Macdonald,Cardio,4187 NGN,Unpaid,Hygeia,1823668 GBP,Aspirin
+P266,alan campos,Male,30,,,,3/24/2008,9/12/2021,Cancer,Dr. Schultz,General,3362 NGN,Unpaid,AIICO,1066073 NGN,
+P009,matthew curtis,,,,sean73example.net,,7/7/2003,,Malaria,Dr. Khan,Emerg.,811647 USD,Paid,Hygeia,1378038 USD,Amoxicillin
+P318, Sheri Williams ,Female,,8072972780,boydrobertexample.com,,July 15 2017,16/07/2020,Stroke,Dr. Smith,Cardio,642984 NGN,Unpaid,Hygeia,1657319 NGN,
+P451, Carrie Clark ,male,75,8090131824,,,August 20 1983,4/7/1986,Fracture,Dr. Gonzalez,Emerg.,1080 USD,Unpaid,Leadway,1510509 GBP,Aspirin
+P277,GLEN QUINN,Male,88,,kellyrasmussenexample.net,"7121 Jessica Mountains Lake Jennytown, WY 90960",May 25 1997,23/03/1991,Fracture,Dr. Moore,ER,637 USD,Unpaid,AIICO,143034 GBP,Insulin
+P130,,Male,,+1-325-892-2109x3601,hancockerica@example.org,,7/11/2018,,Typhod,Dr. Clarke,Cardio,280153 USD,,Leadway,1619141 USD,Paracetamol
+P008,,Male,64,8013021847,qhillexample.org,,31/07/1975,March 31 2014,Typhod,Dr. Garcia,General,635 NGN,Pending,Bupa,1886520 GBP,Insulin
+P279,,,41,080-377-5544,molinadeborahexample.com,,,December 05 2009,,Dr. Smith,Ortho,1241 GBP,Paid,Hygeia,410252 NGN,Amoxicillin
+P150,DAVID MORTON,male,,8068536833,,,February 03 2025,1/5/2022,Diabetes,Dr. Edwards,Orthopedics,935929 NGN,Paid,AIICO,1457870 USD,
+P088,Timothy Smith,male,13,8076803785,kimberlywalsh@example.net,"8327 Jasmine Oval New Davidtown, LA 38040",,24/09/1978,Malaria,Dr. Lopez,Emerg.,901999 NGN,Paid,Hygeia,1029106 USD,Ibuprofen
+P217, Molly White ,Female,,080-531-3708,obrienkaitlyn@example.org,,,21/04/2006,Flu,Dr. Smith,Cardiology,3496 GBP,Unpaid,Hygeia,564038 GBP,Amoxicillin
+P066,JESSICA BROWN,male,38,080-134-8064,janet67@example.com,"66662 Amanda Plains Suite 973 West Sharon, SD 09431",,March 09 2012,Typhoid,Dr. Matthews,Ortho,276138 NGN,Paid,Bupa,10761 GBP,Amoxicillin
+P127,THOMAS WELLS,,64,,,,1/23/1979,May 19 1987,Flu,Dr. Buck,Cardio,1704 USD,Pending,AIICO,403355 GBP,
+P124,MICHAEL ROLLINS,Female,,080-228-3625,murrayfernandoexample.net,,12/12/2017,,Flu,Dr. Williams,Ortho,3347 USD,Unpaid,Bupa,726145 NGN,Ibuprofen
+P389, Nicole Baird ,,,,schwartzkarenexample.net,,12/2/1994,7/5/1985,Typhoid,Dr. Romero,Cardio,339261 USD,Pending,,1954861 GBP,Insulin
+P129,Jason Fletcher,male,72,8044032786,thomas92@example.com,,30/09/1983,26/07/2021,Cancer,Dr. Thompson,Emerg.,1935 NGN,Unpaid,Hygeia,75070 GBP,Ibuprofen
+P275,Jeremy Gentry,Male,33,,,,August 30 1973,16/11/1979,Typhoid,Dr. Hunt,Ortho,2306 GBP,,,883758 USD,Aspirin
+P204,KIMBERLY ORTEGA,FEMALE,,8085726739,jessicaclarkexample.net,,16/03/1988,,,Dr. Blackburn,Cardiology,1779 NGN,Paid,Hygeia,13418 GBP,Amoxicillin
+P435,Daniel Hicks,Female,,080-773-6573,greerrobert@example.com,,,6/3/2024,Diabetes,Dr. Vargas,Cardiology,4576 GBP,Pending,AXA,502030 USD,Amoxicillin
+P262,CAROL JOHNSTON,Female,88,674-778-1942x33923,,,10/27/1989,5/6/1986,Fracture,Dr. Pope,Cardiology,4186 USD,Paid,AXA,703490 GBP,Amoxicillin
+P169,JASON RUIZ,,,8086604449,raymondtimothy@example.org,,,,Stroke,Dr. Arnold,Cardiology,4159 USD,Unpaid,Hygeia,1664307 GBP,Paracetamol
+P143,MICHAEL THOMAS,,52,8065971615,sallen@example.net,,2/24/1988,18/05/2007,Typhod,Dr. White,Neuro,4465 GBP,Paid,,395577 GBP,Paracetamol
+P322,Aaron Bell,,,,,,,August 28 1983,Flu,Dr. Patterson,Emerg.,1979 NGN,Pending,Hygeia,1943207 NGN,
+P016,Kelly Edwards,FEMALE,83,080-114-8032,,,10/18/1976,3/9/1973,Typhoid,Dr. Smith,Ortho,3510 GBP,,Bupa,1979351 USD,Insulin
+P371,robert compton,Male,39,001-223-805-8647,boltonhaleyexample.org,,,,Diabetes,Dr. Williams,Ortho,180 NGN,Unpaid,Hygeia,678961 NGN,Paracetamol
+P035, Joe Thompson ,male,,080-489-1187,,"268 Payne Cliffs Apt. 330 East Jeffrey, DC 41346",6/2/1978,4/8/1991,Typhod,Dr. Campos,Orthopedics,842462 USD,,Hygeia,1026549 GBP,Aspirin
+P039,,FEMALE,,,,,4/11/1991,January 19 2002,Flu,Dr. Morales,Emergency,1968 USD,,,899892 USD,Ibuprofen
+P362,Joan Bartlett,FEMALE,,281.519.8390x6434,,,22/06/2014,2/11/2010,Typhoid,Dr. Ibarra,Emergency,376284 GBP,Pending,AIICO,420155 USD,Aspirin
+P020,tiffany hayes,FEMALE,,080-608-7139,frederickcarter@example.org,"4914 Dougherty Burgs Lake Thomasport, WY 09510",4/4/1996,26/03/1983,Fracture,Dr. Strong,Emergency,384478 USD,,Leadway,1429463 GBP,Paracetamol
+P098, Alexander Barnes ,,,,,,,,Typhod,Dr. Parks,Orthopedics,305817 GBP,,,778757 GBP,
+P476,,FEMALE,,7868679460,,,,7/8/1998,Diabetes,Dr. Acosta,Emerg.,857 NGN,Unpaid,AXA,670910 GBP,Amoxicillin
+P320, Krista Stokes ,Male,84,,hodgesshawn@example.net,"561 Miller Shore Suite 714 Ballport, PR 79255",,,Diabetes,Dr. Robles,ER,767306 GBP,,Bupa,1658060 NGN,
+P010,ALYSSA GREENE,male,,080-607-8027,youngmitchell@example.net,"06872 Stanley Fort Suite 882 Martinfort, WI 87428",October 27 2024,4/12/1979,Flu,Dr. Martinez,Orthopedics,827548 NGN,,,1687521 USD,Ibuprofen
+P261,,male,,8060541169,,,12/5/1974,4/11/1997,,Dr. Ibarra,Emerg.,4049 GBP,Unpaid,Leadway,605459 USD,Amoxicillin
+P415, Louis Mitchell ,FEMALE,,080-690-3270,gregory31example.net,,25/06/1991,6/18/2001,Flu,Dr. Webb,General,3051 USD,Pending,Bupa,1834363 USD,Amoxicillin
+P362,Cody Jenkins,male,40,596.743.8053x4682,hudsonannaexample.org,,,,,Dr. Ball,Orthopedics,135350 USD,,Leadway,1481822 NGN,Paracetamol
+P480,,FEMALE,,279.303.5452x25834,,,,5/6/2019,Diabetes,Dr. Stevens,Cardiology,294168 USD,,AIICO,1917148 USD,Insulin
+P005,ISABELLA EATON,Female,,080-407-2955,,,July 23 1980,January 09 2007,Flu,Dr. Bailey,Orthopedics,276 GBP,Unpaid,Leadway,584337 NGN,Insulin
+P243, Dalton Cortez ,Female,,746.517.6190x4376,joshua79example.org,"598 Ross Ferry East Daniel, KS 17924",,,Flu,Dr. Smith,Emerg.,271171 NGN,,AXA,433377 USD,Ibuprofen
+P384,VICTORIA SUMMERS,male,,8029506588,,"PSC 8717, Box 4223 APO AE 92745",,May 03 2004,Diabetes,Dr. Thomas,ER,390889 GBP,Unpaid,Hygeia,75151 NGN,Amoxicillin
+P099,David Lewis,Male,88,798-403-9332,,"2157 Fernandez Cliff Lake Amandafurt, OH 56130",February 11 1987,,Stroke,Dr. Erickson,Cardio,132362 USD,,AIICO,493805 USD,Ibuprofen
+P380,,Female,84,,,,25/07/2017,January 12 2026,Typhoid,Dr. Ochoa,Ortho,2778 USD,Unpaid,AIICO,1121328 NGN,Ibuprofen
+P023,mrs. michelle houston,Female,,001-211-763-6933x787,,,June 22 1995,,Diabetes,Dr. Cunningham,General,897028 GBP,Pending,Hygeia,109651 GBP,Paracetamol
+P034,,Male,36,,andrew60@example.com,,,20/05/1971,Diabetis,Dr. Walton,Orthopedics,366213 GBP,Unpaid,,1295919 USD,Insulin
+P480,Zachary Hall,Male,,8053537352,,,October 04 1981,,Stroke,Dr. Riddle,Cardio,3943 GBP,Paid,Hygeia,86276 USD,Ibuprofen
+P081,john reeves,Male,59,8088717538,gbrooks@example.com,,15/01/1991,,Flu,Dr. Lin,Cardiology,253721 USD,Pending,Leadway,297609 GBP,Amoxicillin
+P444,David Klein,Female,33,,,"213 Jill Street East Cindy, UT 24047",4/15/1990,16/11/1985,Fracture,Dr. Tate,Cardio,102431 NGN,Pending,Bupa,1560224 GBP,Paracetamol
+P257, Benjamin Murphy ,male,,8033507987,mortizexample.net,,,10/20/1984,Stroke,Dr. Davis,Ortho,2995 NGN,Pending,Bupa,1342473 GBP,Aspirin
+P369,james bradley,Female,,8036660204,,,,7/3/1993,Cancer,Dr. Cooper,General,447358 GBP,Paid,,1036261 NGN,Paracetamol
+P061, Jeffrey Acosta ,Male,84,080-341-2373,,,,,Typhoid,Dr. Weaver,Cardiology,796 NGN,Unpaid,Leadway,1054975 GBP,
+P431,MICHELE BARNES,FEMALE,60,080-629-8111,,,March 11 1988,1/6/2010,Flu,Dr. West,Cardio,2573 NGN,Unpaid,AIICO,1893482 NGN,
+P352, Matthew Young ,male,,080-979-9088,,,,2/5/1976,Cancer,Dr. Pittman,Cardio,558171 GBP,Paid,Bupa,1265889 GBP,Insulin
+P479, Joel Gray ,FEMALE,,,,,,20/12/2020,Cancer,Dr. Barry,General,76885 USD,Paid,,931632 GBP,Aspirin
+P400, Brian Barrett ,,,8080021606,sierra48example.org,,,10/27/2016,Cancer,Dr. Anderson,Emergency,2802 NGN,,Bupa,720529 NGN,Ibuprofen
+P186,ALEXANDER ROBERTS,Male,89,080-752-8797,,"174 Zamora Cliffs Apt. 357 Austinmouth, OH 71218",July 06 1983,28/03/2013,,Dr. Jones,ER,3019 USD,,AXA,272644 GBP,Aspirin
+P036,TYLER MELTON,,,5278159480,john06@example.com,"0468 Kevin Turnpike Turnerberg, MH 41682",April 05 1989,August 19 1971,,Dr. Murphy,Cardio,189 USD,Unpaid,Bupa,1221337 USD,Paracetamol
+P474,MARY COX,,,8074253574,lindsay22example.net,"9702 James Plains New Jasonview, ID 41419",11/17/2001,May 11 1975,Diabetes,Dr. Hanna,Cardio,1325 NGN,Pending,,1580938 NGN,Insulin
+P397,Ronald Evans,male,2,,,"173 Ingram Ridge West Dawnberg, MI 81936",October 02 2006,June 18 2006,Diabetis,Dr. Murphy,Orthopedics,2398 GBP,,Bupa,1399405 NGN,
+P247,mrs. kelli cox,Male,,8068571457,,,5/11/1993,,Typhoid,Dr. Nelson,ER,173 GBP,Paid,AXA,1946988 NGN,Amoxicillin
+P316,DANA SMITH,Female,,080-446-1968,,"89445 Brown Estates North Kathy, VI 50348",May 06 1987,6/26/2018,Malaria,Dr. Robertson,Ortho,260789 NGN,Unpaid,Hygeia,349025 GBP,
+P323,austin weber,FEMALE,,080-516-1588,,,September 26 1984,1/6/1982,Stroke,Dr. Gonzalez,Cardio,534402 GBP,Paid,AIICO,433196 GBP,Paracetamol
+P197,nicole smith,FEMALE,,,torreshannahexample.com,"4853 Philip Port North Steven, IL 25821",29/12/1983,9/12/1970,Flu,Dr. Robertson,Cardiology,4762 NGN,Unpaid,AXA,1762620 USD,Aspirin
+P031,tiffany massey,male,47,,,,,January 16 2016,Diabetes,Dr. Smith,Cardiology,310052 GBP,Pending,,1132256 USD,
+P481,,,,,,"10680 Tanner Burgs Holmeschester, ME 58796",8/12/2004,8/5/1994,Diabetes,Dr. Perkins,General,25506 NGN,Pending,Leadway,1787355 NGN,Aspirin
+P034,shannon clark,Female,,,christopher02@example.net,,12/13/1984,,Malaria,Dr. Grimes,Emerg.,1294 NGN,,,974547 GBP,Amoxicillin
+P371,william neal,,31,8048225000,,,,5/7/1971,,Dr. Scott,ER,78095 USD,,Bupa,580595 GBP,
+P430,tammy morris,Male,79,080-108-7231,,,February 29 1980,,,Dr. West,General,664 NGN,,Leadway,1265956 USD,Insulin
+P496, Lee Nguyen ,FEMALE,77,8077977967,,"7829 Rodney Knoll South Laurie, VI 82109",1/7/2014,10/24/2010,Diabetes,Dr. Sanders,Neuro,3064 NGN,Pending,Hygeia,883507 USD,Insulin
+P071,RICKY JACKSON,,24,080-259-4429,,,,September 29 1970,Flu,Dr. Griffin,Emerg.,2918 NGN,Unpaid,Bupa,334213 USD,Insulin
+P157,,,,2262078234,,,October 25 2014,22/11/1992,Malaria,Dr. Reed,Cardio,881907 GBP,,Bupa,1532464 GBP,Ibuprofen
+P490,,FEMALE,,,robert19@example.com,,,6/16/2021,Diabetis,Dr. Mata,Neuro,784896 USD,,AIICO,575998 NGN,Ibuprofen
+P033,larry lynch,male,,(571)656-5964x414,monicaoliverexample.net,,,,Cancer,Dr. Ramirez,Neuro,3797 USD,,AIICO,310074 USD,Paracetamol
+P325,TODD TUCKER,,,8046831636,,,6/4/1975,3/7/2017,Flu,Dr. Anderson,Neuro,4872 GBP,Paid,AIICO,1217274 GBP,Aspirin
+P184,,,,(861)577-6381x4992,,,,6/13/1997,Fracture,Dr. Oliver,Emerg.,3578 NGN,Pending,Leadway,759032 NGN,Ibuprofen
+P308,,FEMALE,,,,"5954 Mark Forest Suite 262 Seanview, DE 86900",6/1/1971,July 10 1982,Stroke,Dr. Yang,Cardiology,3710 USD,Unpaid,AXA,1234700 USD,Amoxicillin
+P391,darryl rodgers,FEMALE,,,smalljeanneexample.com,,4/10/1994,5/28/1978,Typhod,Dr. Ware,Orthopedics,1477 GBP,,,1448011 GBP,
+P207, Steven Clark ,,,8028042431,,"0425 Amy Shoal Suite 500 Reyesmouth, PA 06131",July 23 2015,,Fracture,Dr. Grant,General,1980 NGN,Paid,Leadway,1627633 USD,Ibuprofen
+P257, Ricardo Jones ,FEMALE,,526-539-5581,,,,7/8/1978,Cancer,Dr. Harris,Cardio,472292 NGN,,Leadway,1227315 USD,Paracetamol
+P111,,Female,,694.846.4090x84245,,,,4/3/1983,Flu,Dr. Sims,ER,790246 NGN,,Leadway,1597188 USD,
+P107,,,,080-454-7398,,,June 05 1975,,Typhod,Dr. Smith,Cardiology,978731 USD,Paid,AXA,1935571 USD,Aspirin
+P377,,,49,+1-689-935-9052x7610,xcarter@example.com,"063 Kristina View Kellymouth, MI 20185",,12/8/2015,Cancer,Dr. Yoder,Emerg.,4323 NGN,,Leadway,1743227 GBP,
+P121,Ian Bates,FEMALE,,8058028752,,"97430 Hicks Harbor South Brian, AR 74674",,7/2/1973,Typhoid,Dr. Cantrell,Emergency,620605 NGN,Paid,Hygeia,1488534 GBP,Paracetamol
+P447,Gregory Walters,Male,,,,"738 Cole Flats Apt. 667 Donnachester, ME 33340",,November 25 2009,,Dr. Benson,Emergency,3083 USD,Paid,AIICO,751575 USD,Ibuprofen
+P454,Tracy Jackson,Female,,8040022971,denise15example.org,"40884 Bryan Roads Suite 828 New Bradyview, VT 09232",16/09/2005,8/18/2014,Typhoid,Dr. Johnson,Emergency,20271 NGN,,AIICO,567404 NGN,Insulin
+P466, Ronald Keller ,Male,3,,loweryjames@example.org,,10/28/1973,24/08/1971,Malaria,Dr. Thompson,Orthopedics,4141 USD,,AXA,1697773 NGN,Amoxicillin
+P066,Nathan Carter,Female,,8019180250,charles15example.com,,,24/02/1993,Flu,Dr. Holloway,Emerg.,4526 USD,Unpaid,,1905711 GBP,
+P416,michael crane,Male,69,8083609370,,"716 Ruiz Circle Apt. 434 West Melissa, AZ 91367",,,Diabetes,Dr. Johnson,Emergency,4599 USD,Unpaid,AXA,1618945 GBP,
+P499,antonio smith,FEMALE,,8042737989,flemingalejandroexample.net,"159 Steven Oval Apt. 637 Port Jeremyborough, IN 53095",5/28/1990,,Malaria,Dr. Ho,Emergency,4026 NGN,Pending,Bupa,730784 GBP,Ibuprofen
+P026,Lindsay Lewis,male,,8030187664,arielmckay@example.org,,November 21 1991,March 02 2001,Flu,Dr. Hancock,Cardio,1051 USD,Paid,AIICO,1075391 NGN,Aspirin
+P419,lindsey reese,,,080-598-7318,ucareyexample.net,,January 24 1997,3/1/1970,Stroke,Dr. Johnson,ER,43068 NGN,,Bupa,668888 GBP,Insulin
+P330,,Female,,8075945805,aprilleeexample.com,,August 26 1983,6/5/1988,Flu,Dr. Leblanc,General,3059 USD,Unpaid,Hygeia,1273316 NGN,Insulin
+P405, Mr. Michael Ellis ,Male,51,899-800-7786,adamsjames@example.net,,14/01/2016,,Cancer,Dr. Allen,Neuro,720184 USD,Unpaid,AXA,1339181 USD,Ibuprofen
+P266,ALEX WOOD,male,,984.656.5767x85384,taylorbrianna@example.org,"3547 Sanchez Village Suite 599 New Thomasburgh, MD 05932",9/23/1983,6/4/1984,Typhod,Dr. Hart,Neuro,630435 NGN,,Bupa,1122942 USD,
+P476, Rachel Powell ,,,8037573685,riverarebecca@example.com,,,February 20 1998,Stroke,Dr. Roberson,Emergency,1983 GBP,Paid,,322589 NGN,Amoxicillin
+P495,,FEMALE,77,,,,June 20 1974,December 14 1986,Flu,Dr. Waller,Ortho,119711 USD,Paid,AIICO,1608411 GBP,
+P365,glenn pham,,,001-657-343-9498x7694,collinsmariaexample.com,Unit 5076 Box 3993 DPO AP 16236,,,Cancer,Dr. Clarke,Emergency,3476 GBP,Paid,Hygeia,748958 NGN,Paracetamol
+P406,Bradley Keith,Male,75,001-925-772-6938x2717,,,,26/07/1998,,Dr. Franklin,Cardiology,734492 USD,,AXA,934461 USD,Aspirin
+P326,Steven Ryan,,,8041266426,jeffrey81example.net,"638 Mcconnell Light Port Austinmouth, TX 64793",6/23/2011,9/21/1986,Typhoid,Dr. Kennedy,Emerg.,30321 USD,,Bupa,15538 GBP,Paracetamol
+P344,MATTHEW MOORE,FEMALE,,555.693.9544,josephalexanderexample.com,"732 Mark Point Nataliechester, KY 69257",May 23 1972,,,Dr. Jackson,Emergency,529888 NGN,,AIICO,246967 GBP,Ibuprofen
+P416,LESLIE AGUILAR,FEMALE,,080-599-3590,gabrielloweexample.org,,July 04 1971,25/03/1988,Malaria,Dr. Kirby,Emerg.,2470 NGN,,,1413527 NGN,Aspirin
+P441,carrie coleman,Female,88,8073964913,,"109 James Vista Apt. 788 East Reginabury, PA 08492",,November 26 1980,Flu,Dr. Sullivan,Cardio,149241 NGN,Paid,,1410981 USD,Amoxicillin
+P369,LINDA RIGGS,FEMALE,,,ithomasexample.com,,12/7/2000,,Malaria,Dr. Kent,ER,1897 USD,,Hygeia,1272884 USD,
+P391,,FEMALE,,8019675914,,,22/02/2017,,Diabetes,Dr. Mendoza,ER,3203 USD,,AIICO,1666340 NGN,Amoxicillin
+P188,Jay Anderson,Male,,001-757-599-6579x923,,,October 05 1971,15/11/1980,Diabetes,Dr. Walker,Cardio,507721 USD,Pending,AIICO,1903151 USD,Paracetamol
+P427,Chelsea Wong,FEMALE,38,8054732342,david37example.com,,11/6/1999,9/29/2024,Typhoid,Dr. Erickson,Cardiology,54101 GBP,Unpaid,AIICO,1130553 USD,Insulin
+P499, Devin Reilly ,male,,907-353-0565x0478,bryanttammy@example.org,,May 09 2015,3/29/1971,Flu,Dr. Elliott,ER,138350 NGN,Unpaid,AXA,887155 GBP,Paracetamol
+P272,Erin Griffin,,,080-942-1489,,,9/11/2022,March 31 1991,Typhoid,Dr. Cole,Cardio,2336 GBP,,Hygeia,1629831 USD,Paracetamol
+P365,Walter Tucker,FEMALE,21,001-753-570-4586,,,26/02/2006,6/10/1978,Fracture,Dr. Lozano,ER,1814 USD,,AIICO,329829 NGN,Ibuprofen
+P278,TROY DIAZ,Female,,,,,,19/07/2004,Typhod,Dr. Jenkins,General,100 NGN,,AIICO,521889 USD,Aspirin
+P197,Alexander Hicks,FEMALE,,+1-908-511-5468x45749,oliverjenniferexample.com,,,5/23/1983,Typhod,Dr. Clark,Emergency,1088 NGN,,AIICO,679487 GBP,Amoxicillin
+P203, Melissa Avila ,FEMALE,,8028553506,david28example.org,,30/03/2012,1/16/2011,Typhod,Dr. Clark,General,288362 NGN,,Bupa,1517886 USD,
+P216,renee fernandez,Female,62,,hardygeorgeexample.net,,9/29/2009,October 09 1982,Typhoid,Dr. Decker,Ortho,4001 GBP,Unpaid,AXA,1041706 NGN,
+P315,william farmer,Male,,080-251-1246,,,July 14 2025,5/22/1989,Diabetes,Dr. Gonzalez,General,922232 USD,Unpaid,AXA,1660413 GBP,Amoxicillin
+P229,,Female,,,eparkerexample.com,"552 Johnson Club Suite 249 Armstrongview, PA 14427",,6/12/2005,Diabetes,Dr. Haney,Ortho,3592 NGN,,Leadway,1083883 USD,Aspirin
+P459, Suzanne Thompson ,,,,,,7/22/1998,May 28 2023,Diabetes,Dr. Hall,Emerg.,3678 NGN,Unpaid,AIICO,1057269 GBP,Insulin
+P318,,Female,,080-420-1142,,"88285 Anita Mill North Helenshire, MI 18790",23/07/1989,11/21/2001,Diabetes,Dr. Dillon,General,3811 NGN,Unpaid,Hygeia,1089120 GBP,Ibuprofen
+P497,Daniel Davis,FEMALE,,8017904511,,,January 13 2025,,,Dr. Blevins,ER,718663 GBP,Paid,,1188127 USD,Ibuprofen
+P060,Grant Jacobson,Male,,080-492-4523,allenbethexample.com,,19/10/1990,September 30 2016,Flu,Dr. Garcia,Emerg.,2668 GBP,,Leadway,730774 USD,Insulin
+P492,john williams,FEMALE,,,jared18example.com,,,,Typhod,Dr. Harris,Emerg.,4812 GBP,,Hygeia,754317 NGN,Amoxicillin
+P111,Theresa Dalton,Male,76,8091339361,,,18/08/1992,2/24/1978,Cancer,Dr. Collins,Cardio,2668 GBP,,Hygeia,1759375 GBP,Paracetamol
+P093,,FEMALE,,080-929-4563,anthonypaulexample.org,,May 25 1998,,Cancer,Dr. Schaefer,ER,118263 NGN,Pending,Leadway,1098373 USD,Insulin
+P251,Michael Tyler,Male,,824-759-0529,charles34@example.net,"41536 David Drive West Elizabethshire, WV 97698",12/22/2009,,Diabetes,Dr. Sanchez,Cardio,567579 NGN,Paid,AXA,14684 GBP,Ibuprofen
+P340, Jared Schwartz ,Female,,(204)540-9590x186,izimmerman@example.net,,,,Stroke,Dr. Miller,Neuro,672639 USD,Unpaid,AXA,1043948 NGN,Aspirin
+P247,THOMAS GUERRERO PHD,Female,,8069768585,,,1/2/2024,,,Dr. Kramer,Emerg.,892863 NGN,,Bupa,250043 GBP,Insulin
+P238,ERICA BYRD,Female,,,diane95@example.com,,7/11/1973,June 15 1977,Flu,Dr. Frank,Cardiology,2332 USD,,Hygeia,174059 GBP,Aspirin
+P087, Susan Rogers ,,90,8062010467,,,January 03 2011,,Typhoid,Dr. Garza,ER,377 NGN,,AXA,687885 GBP,Insulin
+P322,paul avila,FEMALE,32,,shelbyfriedman@example.net,"96954 Julie Hollow Apt. 333 Port Julie, UT 30730",5/6/2020,6/11/1979,,Dr. Travis,Ortho,4681 GBP,Unpaid,AXA,867211 GBP,Amoxicillin
+P088,Lisa Allen,Male,,,,,November 26 1997,12/4/1994,Typhoid,Dr. Turner,Orthopedics,561036 USD,Pending,Leadway,1901963 NGN,Paracetamol
+P136,brandon prince,Female,,864.987.1163x577,elliottolivia@example.org,,7/4/2008,17/04/1989,Diabetis,Dr. Watkins,Orthopedics,3998 NGN,,AXA,1661235 NGN,Insulin
+P457,monica aguilar dvm,male,,080-181-5532,,,,,Typhoid,Dr. Gordon,ER,365 USD,Unpaid,AXA,741749 NGN,Amoxicillin
+P315,Melanie Ruiz,,,,blankenshipjessica@example.com,"5832 Laurie Islands Suite 109 Port Alexandratown, HI 55085",4/9/2023,June 13 1973,Typhoid,Dr. Hernandez,ER,2155 GBP,,Leadway,1612978 NGN,Insulin
+P074, Paul Gould ,Male,,080-940-5565,conneraaron@example.org,,8/9/1997,,Flu,Dr. Arellano,General,2807 GBP,Paid,AIICO,1257069 NGN,Amoxicillin
+P112,,Male,25,,,,February 14 1990,4/8/2015,Typhoid,Dr. Glass,General,3518 NGN,,,1072440 NGN,Aspirin
+P356,,Male,,,smithkenneth@example.net,"8985 Rebecca Tunnel Blackville, MP 29888",17/02/1995,12/29/2005,Stroke,Dr. White,Cardiology,101145 USD,Pending,Hygeia,1886276 USD,Aspirin
+P090,,Male,,080-157-7048,sabrina45@example.com,,5/11/1985,January 29 2006,Fracture,Dr. Lewis,ER,719048 NGN,Paid,Hygeia,939595 USD,Insulin
+P422, Corey Woods MD ,,,080-959-1794,christina47@example.net,,8/24/2007,,Typhod,Dr. Wiley,Ortho,722346 GBP,Paid,Hygeia,1626810 USD,Paracetamol
+P204,,Male,,8064998012,stoutjennifer@example.org,"7229 Lindsey Mills Suite 854 Port Lynntown, KS 69229",20/09/2022,2/7/1993,Stroke,Dr. Koch,General,802500 NGN,,Bupa,850125 USD,Ibuprofen
+P354,erik summers,FEMALE,9,(789)539-1081x614,,,,6/13/2004,Cancer,Dr. Hughes,Neuro,1030 NGN,Pending,,1025962 USD,Aspirin
+P402,Dustin Chung,FEMALE,,8057355191,brownaaron@example.net,,14/06/1995,12/24/1983,Diabetis,Dr. Armstrong,Cardio,367233 NGN,Pending,AXA,1183271 USD,Ibuprofen
+P071, Kimberly Phillips ,Male,,080-672-6758,,,9/10/2025,,Fracture,Dr. Wilkinson,ER,890557 NGN,Pending,,1561233 NGN,Amoxicillin
+P143,,male,,8022407198,snydermichaelexample.org,"1298 Sherman Trail Amandaborough, PR 86325",2/1/2019,February 06 1989,Flu,Dr. Rhodes,General,2369 GBP,Paid,Bupa,652066 NGN,Ibuprofen
+P399,,Male,,8084889809,heatherjohnsonexample.net,,2/12/1970,21/08/1980,,Dr. Gallagher,Cardio,1704 USD,,AIICO,1896678 NGN,Paracetamol
+P180,,Female,,,,,,18/02/1994,Typhod,Dr. Perry,Cardio,1454 GBP,Unpaid,AXA,141713 USD,Ibuprofen
+P385, Eric Wells ,male,,,,,6/7/1997,June 20 2011,Flu,Dr. Johnson,General,990763 USD,,AXA,1699124 NGN,Aspirin
+P404,jennifer mclean,FEMALE,9,957.239.4510,,,,,,Dr. Tucker,General,3375 NGN,,Hygeia,1241960 NGN,Amoxicillin
+P444,CHRIS VALENTINE,Female,,8022268911,newmankimberly@example.org,"0601 Cline Square Patrickport, DC 04591",,10/25/2009,Diabetes,Dr. Barnett,Neuro,790021 NGN,Unpaid,AXA,9254 GBP,Amoxicillin
+P050,Richard Sullivan,Male,65,080-137-3932,kathrynmatthewsexample.org,,22/11/2000,22/04/2009,Fracture,Dr. Nelson,Orthopedics,692995 NGN,Pending,AXA,636490 NGN,Aspirin
+P368,Jessica Durham,,42,080-281-4591,lbutler@example.net,,March 21 1984,,Malaria,Dr. Hart,Emergency,784489 USD,Unpaid,Hygeia,984730 GBP,Aspirin
+P258,Brendan Sheppard,FEMALE,33,,matthewssusanexample.net,,,December 05 2015,Diabetes,Dr. Smith,Orthopedics,3507 NGN,Paid,Hygeia,1597085 NGN,Insulin
+P137,,Female,,8049319838,,"9592 Jose Roads Apt. 962 Sosachester, MS 28567",June 29 1987,September 10 1972,Malaria,Dr. Duncan,Neuro,355367 USD,Paid,,350263 USD,Paracetamol
+P260, Russell Alvarez ,FEMALE,60,,,"98380 Foster Roads Apt. 589 Timport, DE 07265",December 02 1993,July 13 2017,Typhoid,Dr. Garner,Cardiology,916904 NGN,Unpaid,,1347701 GBP,Amoxicillin
+P052,ERIKA ADAMS,Male,23,8046239346,fraziersheilaexample.net,,10/1/2005,28/09/1996,Diabetis,Dr. Garcia,Cardiology,35021 NGN,,AIICO,26956 GBP,
+P077,brenda wilson,,,852.851.6280x120,omoody@example.net,,June 25 1997,January 07 2011,Diabetes,Dr. Scott,Orthopedics,623929 USD,Paid,,1976053 USD,Insulin
+P482, Kevin Paul ,Female,,,,,11/13/2022,3/10/1996,,Dr. Thomas,ER,2288 NGN,Unpaid,AIICO,430010 USD,Ibuprofen
+P454,Joseph Sanders,Female,,8086597346,jefferyleonardexample.com,,3/12/1981,2/13/1989,Diabetes,Dr. Morgan,Ortho,3168 USD,Pending,Bupa,466070 USD,Ibuprofen
+P346,LANCE RODRIGUEZ,FEMALE,40,080-507-9674,stephenhill@example.net,,,,Diabetis,Dr. Todd,Neuro,469114 GBP,Unpaid,Bupa,1342999 NGN,
+P174,Megan Webb,male,,-9989,john10@example.net,"PSC 0284, Box 2847 APO AA 26833",9/15/1993,May 01 2010,Fracture,Dr. Adams,Cardiology,2441 NGN,,AXA,1383428 GBP,
+P022,jeffrey ramos,Male,,,dunlapstacyexample.org,"557 Russell Ramp Apt. 656 North Jenniferside, MA 03622",5/16/2003,23/10/1983,Fracture,Dr. Harrison,General,381 GBP,Pending,AXA,1465485 GBP,Insulin
+P171,,FEMALE,,8088679055,,,17/06/2003,December 07 2021,Diabetis,Dr. Vazquez,Cardiology,907 GBP,Paid,Bupa,1352211 GBP,Amoxicillin
+P459,joseph guerra,Female,55,-9138,,,,November 05 2005,,Dr. Gordon,Neuro,1248 USD,Unpaid,AIICO,238799 NGN,Insulin
+P028,MIKE AUSTIN,FEMALE,6,,,"PSC 3753, Box 4002 APO AP 00671",,9/9/2024,Fracture,Dr. Wilson,General,887025 USD,Unpaid,,1268127 GBP,Insulin
+P419,PHILIP EVANS,FEMALE,73,8077528347,,,1/18/2003,,Diabetes,Dr. Harris,Emergency,4272 GBP,,Bupa,305638 USD,
+P038,Jason Miller,Female,,8017444885,,,8/2/2021,1/21/2022,Diabetis,Dr. Branch,Cardio,1932 NGN,Pending,AIICO,1277351 USD,Aspirin
+P407, Arthur Mccullough ,male,,,,"8875 Keith Junction East Cheryl, CA 85977",17/10/1993,26/03/1985,Diabetes,Dr. Brown,Neuro,530152 NGN,,Bupa,1984196 NGN,Aspirin
+P484,mark dennis,FEMALE,13,,eric26example.net,,9/4/1996,1/4/2014,Fracture,Dr. Miller,Orthopedics,4278 NGN,Pending,,295992 USD,Insulin
+P199,angela powell,Female,,(853)540-6055,leekevin@example.com,,10/11/1998,January 30 2022,Diabetes,Dr. Allen,Cardio,3907 GBP,Pending,,344875 GBP,Aspirin
+P367,Jacqueline Cole,,3,,pdavisexample.org,,,January 28 1995,Diabetes,Dr. Deleon,Cardiology,2800 NGN,,,79871 NGN,Paracetamol
+P079,BRYAN DONOVAN,male,,080-108-4482,,"6828 Clarke Isle Sandraport, WI 25463",9/13/1971,September 16 1991,Stroke,Dr. Parker,Ortho,3859 NGN,Pending,Leadway,1180011 GBP,Ibuprofen
+P109,scott mills,Male,61,(735)729-6464,elainefrancis@example.com,,5/21/2014,,Cancer,Dr. Williams,ER,2571 USD,Unpaid,Hygeia,501225 NGN,Paracetamol
+P035, Phillip Stevens ,Male,16,001-423-435-5601,,,23/06/2005,,Cancer,Dr. Williams,Cardiology,661607 NGN,Unpaid,Leadway,104164 NGN,Aspirin
+P271,OMAR VANG,male,,001-396-916-0791x679,frazierjessica@example.com,,December 21 1979,May 04 2022,Typhoid,Dr. Moore,Neuro,2308 USD,,,1729450 USD,Insulin
+P471,sylvia fitzpatrick,FEMALE,,080-785-1857,,"120 Kimberly Inlet Suite 532 North Kimberlyview, HI 02550",4/19/1997,June 09 1996,Diabetis,Dr. Johnson,General,611535 NGN,Paid,,164493 USD,
+P420,emily price dds,Female,,330.872.9377x609,hdickson@example.net,,1/11/2004,,Cancer,Dr. Taylor,Neuro,498948 USD,Pending,AIICO,1882817 USD,Ibuprofen
+P098,kevin reyes,,,,,,27/03/1989,12/30/1980,Fracture,Dr. Martinez,Emerg.,3433 USD,Paid,Hygeia,984904 GBP,
+P181,Shannon Davis,,,588.581.4715x372,,"19953 Veronica Harbor Jeremyburgh, GA 45857",,7/3/2017,Fracture,Dr. Adams,Emergency,878471 GBP,Paid,AIICO,795140 USD,Ibuprofen
+P380,Amanda Dalton,,19,(845)827-6458x355,,,,10/1/2003,Fracture,Dr. Rose,Ortho,1748 GBP,Paid,Leadway,777136 NGN,Paracetamol
+P341,MARIA VALENZUELA,FEMALE,71,080-192-6699,jennifermontgomery@example.org,"30263 Gregory Turnpike Pittmanfort, MT 75623",1/1/1975,February 23 1979,Diabetis,Dr. Beck,Cardio,3916 USD,Paid,AIICO,740549 USD,Ibuprofen
+P489,,Female,,8056294861,stephensanders@example.net,,October 29 1996,19/05/1980,Typhod,Dr. Paul,Cardio,406263 USD,Pending,,823879 NGN,
+P439,CHRISTINA COX,Female,32,080-244-6691,,"1625 Serrano Mountain Josephville, MI 43564",March 30 1972,,Typhoid,Dr. Jones,Emerg.,1325 GBP,Paid,Leadway,416863 GBP,Ibuprofen
+P386,,male,,080-641-6024,,"30407 Case Gardens Suite 696 North Whitney, KY 75526",November 05 2007,,Diabetis,Dr. Campbell,Neuro,352900 NGN,Pending,Bupa,126416 NGN,Aspirin
+P320, Victoria Davis ,,,,dnorris@example.net,,8/17/2024,,Diabetes,Dr. Hughes,Cardiology,635433 GBP,Pending,Hygeia,47486 NGN,Amoxicillin
+P422, Tanner Richards ,Male,,001-457-878-2811x00754,sbell@example.org,,November 10 1999,November 13 1974,Diabetis,Dr. Morales,Emerg.,254495 GBP,Paid,Bupa,1657575 GBP,Ibuprofen
+P113,Eric Gonzales,Female,,-5890,perezjonathan@example.org,,4/23/1985,December 18 2007,Typhod,Dr. Page,Ortho,519928 NGN,Paid,AIICO,1182215 NGN,
+P153,,male,,,thomasmcdowellexample.org,,19/08/1978,,Malaria,Dr. Washington,Emergency,5903 NGN,Unpaid,,237069 NGN,Aspirin
+P093,LOGAN SMITH,,,080-233-8148,james88@example.net,,,November 14 2006,Diabetes,Dr. Byrd,Cardiology,1021 GBP,Unpaid,Bupa,195859 GBP,Aspirin
+P041,,male,,823.589.7941x05662,yjones@example.com,,22/04/1970,4/16/1993,Diabetis,Dr. Greer,Neuro,3869 USD,Unpaid,AXA,1661988 GBP,Aspirin
+P170, Richard Benton ,FEMALE,,080-514-8114,dwright@example.org,,5/29/2008,18/04/2019,Stroke,Dr. Allison,ER,949 NGN,Pending,AIICO,129119 NGN,Ibuprofen
+P015, Samuel Smith ,FEMALE,,080-575-2505,benjamincastilloexample.com,"054 Phillips Gateway North Stephen, AK 22771",June 28 2014,25/12/1993,Flu,Dr. Hanson,Emerg.,582 GBP,Paid,AXA,1844346 NGN,Paracetamol
+P459, Willie Garza ,Male,,8041624073,,,,14/03/1983,Typhoid,Dr. Stevenson,General,4121 USD,Pending,Bupa,355221 USD,
+P153,TIMOTHY HARRIS,Female,,080-746-3269,dmeyerexample.com,"13726 Garrison Park Suite 838 Michaelview, HI 41138",18/07/1981,19/09/2000,Cancer,Dr. Armstrong,Emerg.,3833 NGN,,AXA,344027 GBP,Aspirin
+P162,,Female,,,hernandezdaniel@example.com,,February 08 1984,July 04 1992,Flu,Dr. Wilson,Ortho,24896 GBP,Unpaid,,1482966 GBP,Ibuprofen
+P051,,,,,,"72244 Kim Valleys Apt. 780 West Alyssaburgh, MN 80884",,,Fracture,Dr. Ryan,Orthopedics,562120 NGN,Unpaid,Hygeia,1178481 GBP,Insulin
+P246,Erica Hicks,,,,ralph95example.com,,22/07/2021,,Typhod,Dr. Payne,General,510128 NGN,Pending,AIICO,1825295 GBP,
+P262,CHARLES TURNER,Female,,080-726-4985,,,,,Diabetes,Dr. Scott,General,555898 USD,,AXA,1608240 GBP,Amoxicillin
+P365,Jessica Charles,,51,507-306-4028x6972,,,,24/06/2003,Diabetis,Dr. Palmer,Ortho,663 GBP,Paid,Hygeia,1467273 USD,Insulin
+P242,,,30,080-590-7488,pbyrdexample.net,"01580 Barry Estate South Paulport, IL 77400",5/12/2005,October 16 1983,Malaria,Dr. Schultz,Ortho,2649 USD,Unpaid,Hygeia,419755 NGN,Ibuprofen
+P474, Daniel Harvey ,Female,,080-373-5888,,,July 29 2016,,Typhod,Dr. Jones,Orthopedics,4374 GBP,Pending,Bupa,422269 NGN,
+P097,,Male,,080-161-5178,michaelcastro@example.net,"72039 Molly Motorway Apt. 795 Mosshaven, NY 89810",,27/09/2011,Diabetis,Dr. Combs,General,96468 GBP,Unpaid,AIICO,1437542 GBP,Amoxicillin
+P295,Yolanda Williams,Female,,080-263-3934,,,,5/31/1970,Malaria,Dr. Campbell,Orthopedics,640158 USD,Pending,Hygeia,60491 NGN,Insulin
+P470,Tiffany Conley,FEMALE,,8071875554,,,5/8/2025,13/10/1992,Diabetes,Dr. Martin,Cardiology,2431 NGN,,AXA,1310444 GBP,
+P136,MATTHEW LAWSON,Male,66,8013037720,,,,29/06/1977,Stroke,Dr. Williams,Orthopedics,1837 GBP,Paid,,1022744 NGN,Amoxicillin
+P383,Lori Alexander,,7,,wongkimberly@example.net,,September 18 2000,10/31/2008,Fracture,Dr. Banks,Cardiology,687917 NGN,Paid,Hygeia,819610 NGN,Amoxicillin
+P110,,Female,,(984)892-4834,,,2/25/1983,9/30/2014,Flu,Dr. Haney,ER,150261 NGN,,Leadway,1732638 NGN,Ibuprofen
+P282,kirsten herman,,,080-826-9514,,,,April 17 1997,Diabetis,Dr. Erickson,ER,300013 USD,Paid,Bupa,828779 GBP,
+P483, Jose Lee ,Male,25,080-479-3440,brian34@example.org,"6089 Rodriguez Crescent Lake Sandrastad, RI 83760",5/8/2013,February 22 1983,Typhod,Dr. Parker,Neuro,1234 GBP,Unpaid,Hygeia,469873 NGN,Amoxicillin
+P229,Mrs. Nicole Jackson,,55,8062279128,kimberlybrayexample.org,,30/11/2002,November 16 2022,Diabetes,Dr. Rodriguez,Cardiology,435043 NGN,Paid,,819454 USD,Aspirin
+P374,Meredith Allen,Female,3,374-903-0201,yvonnemendezexample.net,,4/12/1974,November 15 1970,Typhod,Dr. Smith,Orthopedics,747698 GBP,,AIICO,2335 USD,Ibuprofen
+P206, Ashley Owen ,Female,,,,,12/16/1996,6/15/1995,Typhod,Dr. Fields,Ortho,451934 NGN,Pending,,773564 GBP,Aspirin
+P243,VANESSA CALDERON,Male,,8013262443,,"146 David Station Suite 019 Williamsport, WI 03207",,15/10/1993,Flu,Dr. Gonzalez,Cardiology,57346 USD,Pending,,1923523 GBP,Paracetamol
+P123, Mr. Terry Shannon ,male,,8027069641,gatesmichaelexample.com,,18/09/2015,23/12/1989,Diabetis,Dr. Dalton,ER,2232 GBP,Paid,Leadway,417014 USD,
+P004,JESSICA LANDRY,male,46,(321)399-1602x70703,,"21183 Joseph Plain Suite 496 Garciaport, NV 14036",,,Flu,Dr. Evans,Emerg.,32867 GBP,Unpaid,,1628133 USD,Paracetamol
+P180,ASHLEY SMITH,,,,,USS Lopez FPO AP 92197,,,Flu,Dr. Wang,Emergency,276253 GBP,Paid,Bupa,1203007 GBP,Aspirin
+P235,thomas vargas,,,,anguyenexample.com,"38189 Mark Crescent Suite 333 West Christine, ID 23704",15/08/1975,,Typhod,Dr. Weaver,Emergency,457087 GBP,Pending,AXA,2793 GBP,
+P166,Rachel Mcdonald,Female,,,,,,4/8/1990,Malaria,Dr. Montgomery,Neuro,699869 GBP,Unpaid,,364274 NGN,Insulin
+P168, David Lawrence ,FEMALE,,8024267433,lindsey46@example.net,,8/27/1985,November 12 1995,Flu,Dr. Watkins,ER,999039 GBP,Paid,Bupa,459610 GBP,Amoxicillin
+P093, Courtney Martinez ,,,080-664-3285,hwilson@example.org,"312 Kline Cove Apt. 544 Patrickton, CT 92101",September 13 1987,,,Dr. Barker,Neuro,830190 USD,,AIICO,858226 GBP,Ibuprofen
+P113,charles williams,,,,arodriguez@example.org,"23734 Baker Knoll Apt. 159 East Jenna, KY 27507",10/24/1984,14/11/2021,,Dr. Haynes,ER,330 NGN,,AXA,1296199 USD,Insulin
+P310,austin willis,Male,65,8077369385,castrokennethexample.org,,26/06/1984,8/16/1997,Cancer,Dr. Joseph,Emerg.,4270 GBP,Pending,AXA,1339453 NGN,
+P451,ANN SIMMONS,FEMALE,,080-179-1375,,"8222 Schneider Cape Suite 212 Lambhaven, KY 38104",,2/24/2019,Diabetes,Dr. Ward,Cardio,1158 USD,Pending,Bupa,116736 NGN,Amoxicillin
+P489,Steven Massey,Male,,080-945-6710,,Unit 8022 Box 0668 DPO AE 25303,,9/30/2014,Stroke,Dr. Perez,Neuro,156941 NGN,Unpaid,Leadway,709291 GBP,Paracetamol
+P161, Ann Taylor ,,,080-907-6006,,"00242 Cynthia Walks Hillburgh, ME 13931",July 03 1993,28/01/2009,Stroke,Dr. Williams,ER,675755 GBP,Unpaid,,832051 NGN,Aspirin
+P040,Martin Hanson,Female,,080-993-8798,john48@example.com,,9/1/2015,3/31/1994,,Dr. King,General,2461 NGN,Unpaid,AIICO,1991299 NGN,Insulin
+P123,RYAN PHILLIPS,male,,,mary07example.net,,,May 29 2000,Typhoid,Dr. Evans,ER,464 USD,Paid,Hygeia,1910417 NGN,
+P057,Evan Jackson,,,8080759054,,,10/31/2003,,Diabetis,Dr. Lester,Emergency,400116 NGN,Pending,AXA,1476709 NGN,Amoxicillin
+P185,mario brown,FEMALE,,234-552-2529x09818,,"8084 Alexander Viaduct West Crystal, KY 15105",December 24 1975,January 31 1994,,Dr. Carroll,Neuro,1212 USD,Unpaid,Bupa,477358 NGN,Aspirin
+P199,,Female,28,8081685994,,,,February 02 1996,,Dr. Mcgee,General,1780 GBP,Paid,Leadway,291099 NGN,Ibuprofen
+P243,tiffany simmons,male,85,,rachaelgillexample.org,,,May 31 1984,Typhod,Dr. Fisher,Emerg.,2409 GBP,Paid,,1810942 NGN,
+P499,,,81,080-725-3423,andreacurtis@example.net,,6/8/1986,,Diabetes,Dr. Casey,Orthopedics,2360 NGN,Unpaid,AIICO,1687688 NGN,Aspirin
+P012,CASEY CLARK,male,,934.794.8137,wcampos@example.com,,3/14/1996,November 23 1971,Malaria,Dr. Thomas,Cardio,4899 NGN,,Leadway,1669535 GBP,Amoxicillin
+P375, Shannon Ferguson ,male,10,080-684-9521,,,,July 15 1993,Diabetis,Dr. Rodriguez,Cardio,476287 USD,Pending,,1435344 NGN,Aspirin
+P178,david oliver,male,90,,stewartfrankexample.com,,March 30 2005,,,Dr. Williams,Cardiology,4464 GBP,Paid,Bupa,1900139 GBP,Paracetamol
+P309, Christopher Bowers ,Male,,+1-378-333-8971x62289,william81@example.org,"35264 Autumn Gateway Priceside, VT 10857",9/5/1977,6/13/2003,Cancer,Dr. Johnson,Emerg.,820603 GBP,Paid,AIICO,195385 USD,Insulin
+P047, Laura Ford ,Female,,080-471-3611,stevengomezexample.org,,,10/1/1986,Diabetes,Dr. Brown,Cardio,1365 GBP,Pending,Bupa,1847473 USD,Amoxicillin
+P318, Denise Flores ,Male,,080-841-2666,hsimmons@example.org,"331 Krueger Courts Suite 115 Jeffreystad, GU 55416",May 26 2011,7/21/1986,Stroke,Dr. Williams,Orthopedics,504804 GBP,Unpaid,Leadway,860900 NGN,Amoxicillin
+P279,Chris Holland,,,521-500-4379,,,,June 28 2000,Typhod,Dr. Arnold,ER,897 NGN,Unpaid,AIICO,1863837 GBP,Aspirin
+P389,William Ellis,FEMALE,16,(286)335-9667,njohnson@example.org,,,8/29/1999,Diabetis,Dr. Olson,Cardiology,4948 GBP,Paid,Leadway,459967 NGN,Amoxicillin
+P452,sarah martinez md,FEMALE,63,,,,November 11 1971,3/29/1992,Diabetis,Dr. Williamson,Emerg.,339469 USD,Paid,AXA,446570 GBP,
+P053,LORI DAVIS,,,726.847.1282,weaverchristopher@example.net,,August 21 1980,,Flu,Dr. Michael,ER,315248 NGN,Unpaid,AIICO,1205371 NGN,Amoxicillin
+P438,,FEMALE,43,8024706413,smithmichaelexample.com,"PSC 6214, Box 2333 APO AP 16675",September 25 1989,25/03/2023,Fracture,Dr. James,Emerg.,986030 USD,Pending,Leadway,831985 NGN,
+P322, Philip Garza ,Female,,(912)751-1539,bradleyreilly@example.org,"30288 Mullen Valley North Hannahside, CT 61885",26/08/1984,9/11/1990,Typhoid,Dr. Swanson,Neuro,2124 NGN,,AXA,981237 USD,
+P055,sean contreras,FEMALE,,001-504-576-0702x7761,jessica04@example.net,,November 03 2000,,Malaria,Dr. Walker,Neuro,74016 NGN,,Bupa,1572285 NGN,Paracetamol
+P207,jeffery mcdonald,Male,40,080-662-9460,adriandanielexample.org,,,October 27 2002,Typhoid,Dr. Pena,General,349594 NGN,Unpaid,Hygeia,1671060 USD,Paracetamol
+P322,autumn carson,Female,59,8095657751,brian64@example.org,,5/2/1973,10/7/1989,Cancer,Dr. Johns,ER,1541 NGN,Unpaid,Hygeia,183222 NGN,
+P243,MICHAEL RODRIGUEZ,FEMALE,,,,,8/24/2007,25/10/1994,Flu,Dr. Waller,ER,867469 NGN,Unpaid,AIICO,717582 NGN,Aspirin
+P116, Sarah Salinas ,Male,,8091828492,,,January 22 2020,29/07/1994,Diabetes,Dr. Dawson,Cardiology,3615 USD,,Bupa,1641364 NGN,Ibuprofen
+P105,,FEMALE,50,,kdunnexample.com,,3/22/1976,13/06/2009,,Dr. Oneill,Orthopedics,992364 GBP,Unpaid,Bupa,1483706 USD,Amoxicillin
+P176,RUTH PEREZ,FEMALE,,8060169541,thomascarolyn@example.com,"31244 Poole Green Port Raybury, GA 52963",10/23/1976,6/8/1986,Fracture,Dr. Salazar,Orthopedics,3458 NGN,Pending,Bupa,787058 NGN,Aspirin
+P488, Jennifer Ferguson ,Male,54,080-258-3859,jeromesmithexample.net,,11/30/1973,June 01 1977,Diabetis,Dr. Grant,Emergency,4846 GBP,Paid,AIICO,1965861 NGN,Insulin
+P235,DEBRA HOPKINS,FEMALE,26,080-724-1246,,,29/09/2020,,Fracture,Dr. Brown,Orthopedics,2082 NGN,Unpaid,AXA,377726 USD,Insulin
+P138,Sandra Mcmahon,Male,,001-733-449-0329x822,,,,7/17/1970,Fracture,Dr. Wright,Emergency,213436 GBP,Unpaid,Bupa,1627763 USD,Insulin
+P100, Scott Winters ,male,,+1-741-919-9649x1171,crubioexample.com,,May 23 1976,12/9/2012,,Dr. Robinson,Emerg.,885314 USD,Paid,AIICO,394427 GBP,Aspirin
+P394,CHERYL ADAMS,,,080-933-3190,mmcleanexample.net,"3519 Lopez Estate Suite 089 East Whitneyberg, WY 70788",March 27 2016,3/23/1995,Flu,Dr. Bryan,Neuro,782225 GBP,,,805717 USD,Insulin
+P367,kyle burns,,24,930-695-3565x59701,,,,8/8/2024,Diabetes,Dr. Sanchez,ER,332 USD,Unpaid,,965447 USD,Aspirin
+P101,TYLER MCLEAN,,64,-10560,lamgregory@example.org,"21693 Vasquez Branch West Richard, CO 47945",,6/1/2015,Malaria,Dr. Dunlap,Cardiology,823055 GBP,,Leadway,282261 GBP,Paracetamol
+P413,johnny lane,male,,080-531-6634,rjacksonexample.net,,,,Fracture,Dr. Gibson,Orthopedics,161558 NGN,Unpaid,,267115 NGN,Amoxicillin
+P296,Paula Swanson,FEMALE,,237.447.0312x6185,patricia02@example.org,,6/29/1971,24/11/2016,Diabetes,Dr. Parker,General,3027 NGN,Pending,AIICO,1964366 NGN,Ibuprofen
+P272,michael espinoza,Female,79,8053314413,,"705 Mary Hills Suite 545 Amandaborough, ID 10999",,June 21 1980,Typhoid,Dr. Butler,Emerg.,2162 NGN,,,411877 NGN,Aspirin
+P320,,Male,,488-372-0982x765,,"865 Aimee Hill East Paul, GU 12363",11/15/1986,April 27 2000,Malaria,Dr. Jensen,Ortho,714 NGN,,,485288 NGN,Paracetamol
+P028,Juan Jordan,FEMALE,,7873285173,,,,2/2/2002,Typhoid,Dr. Sandoval,General,309 NGN,,Hygeia,179954 GBP,Paracetamol
+P493,CHRISTINE PEARSON,male,73,,,"778 John Loop West Anne, VA 40019",7/11/1998,5/24/2002,Typhod,Dr. Green,Cardio,697552 GBP,Pending,AIICO,1916828 USD,Ibuprofen
+P181,Geoffrey Nguyen,Female,49,080-776-7936,,"8418 Price Plaza East Debbieburgh, WI 72769",,5/7/2016,Typhod,Dr. Bonilla,Orthopedics,737042 USD,,AXA,1986400 USD,
+P428,brian haynes,,,8024669815,burnettchristina@example.org,,15/10/1995,6/17/2016,Stroke,Dr. Lynch,Emerg.,530704 USD,,Hygeia,1179741 NGN,Paracetamol
+P407, Colleen Gardner ,Female,,8043368363,,,March 07 1998,May 23 2010,Stroke,Dr. Jones,Cardiology,200647 USD,Paid,Bupa,581157 NGN,Amoxicillin
+P303,TAMMY THOMAS,male,85,887.525.0844,donna30example.net,,28/04/1973,,Flu,Dr. Austin,Emergency,3609 USD,,AXA,194372 GBP,
+P103,Jonathan Barr,,55,770.918.8456x178,christina35example.com,"2244 Andrew Stream Apt. 359 East Robertport, CO 76100",4/24/1974,5/25/2008,Typhod,Dr. Leon,Emerg.,3364 GBP,,AIICO,337257 NGN,Amoxicillin
+P134, Joyce Brown ,FEMALE,,8084282936,,,October 09 1971,June 15 1994,Stroke,Dr. Doyle,ER,564434 NGN,,AXA,192218 NGN,Aspirin
+P394,KEVIN SPENCE,Male,,8066316732,karen69@example.com,,,October 30 2010,Fracture,Dr. Gonzalez,Cardiology,1791 NGN,Unpaid,Leadway,1874791 GBP,Amoxicillin
+P245,,Female,,8010650348,melissa86example.com,"535 Sean Parkway Edwardsport, MP 21783",,,Typhoid,Dr. Wall,Emerg.,603 NGN,Pending,Leadway,471531 USD,Ibuprofen
+P258,MATTHEW MASSEY,male,,8044755313,,,1/7/2000,,Fracture,Dr. Edwards,General,878 NGN,Unpaid,,931299 NGN,Ibuprofen
+P170,Mr. Melvin Scott,Female,18,,tiffanyguzmanexample.com,,14/08/2010,12/22/2009,Malaria,Dr. Davis,Emerg.,2716 NGN,Paid,,181882 NGN,Aspirin
+P184, Justin Lewis ,Male,,(407)889-7396x866,whitecindyexample.net,,November 05 2003,,Fracture,Dr. Lambert,Cardio,64377 USD,Paid,AXA,1219261 NGN,
+P255, Nicholas Wood ,FEMALE,,8080432134,ryan71example.net,,April 18 1993,,Malaria,Dr. Scott,Cardio,1680 USD,,Bupa,1520923 USD,Aspirin
+P135,dustin reyes,FEMALE,51,333-567-0493x9271,austin77example.org,Unit 2312 Box 1208 DPO AA 61088,3/2/2016,3/10/1993,Stroke,Dr. Miller,Neuro,3398 USD,,AIICO,1373959 USD,Paracetamol
+P010,james braun,male,,080-381-7924,eric93example.com,,10/19/1970,24/09/1977,Fracture,Dr. Rodriguez,Cardio,682497 USD,,Hygeia,1590399 GBP,
+P171,cody munoz,Male,20,080-909-2637,,"05043 Banks Circle New Brittany, IA 67543",7/6/1988,,Cancer,Dr. Moss,Neuro,1678 NGN,,AIICO,464064 NGN,Paracetamol
+P225,,male,3,,,,,April 26 2023,Typhoid,Dr. Kirby,Neuro,253 GBP,Pending,Leadway,929005 USD,Ibuprofen
+P164, Tyler Weeks ,,,797-633-1730x1756,gholtexample.net,,August 23 1974,6/11/1979,Typhoid,Dr. Wright,Cardiology,631 USD,Paid,Leadway,841134 GBP,Amoxicillin
+P086,ashley baldwin,FEMALE,61,,,,October 20 2025,28/01/1973,Cancer,Dr. Rowland,Emergency,870710 USD,Pending,AIICO,1478138 GBP,Amoxicillin
+P148,Amanda Rodriguez,male,,(398)822-9683x79849,,"630 Rebecca Neck West Roberttown, NH 66442",7/8/2025,10/21/2016,Fracture,Dr. Campbell,Emerg.,4658 USD,,AXA,1212300 USD,Amoxicillin
+P118,Andrew Pitts,Female,,8059375027,,"81007 Christian Common Morenoberg, SC 71540",13/03/2021,6/6/2008,Typhod,Dr. Powers,Cardiology,4946 USD,Pending,Leadway,1362733 GBP,Insulin
+P221,GINA DAVIDSON,Male,84,080-117-6656,randolphnicholas@example.org,,September 26 1976,1/4/1971,Typhod,Dr. Hartman,Orthopedics,519402 USD,,AXA,1077053 USD,Insulin
+P092, Cory Silva ,,,,,,March 01 2012,13/12/2010,Malaria,Dr. Wilson,Emergency,131935 NGN,Paid,AIICO,923622 USD,Insulin
+P313,,male,89,,,,,November 27 2016,Typhod,Dr. Henderson,General,953577 GBP,Pending,AXA,470738 NGN,
+P224, Christina Wilkins ,Female,86,8039285803,dylan20example.net,,April 25 2003,1/6/2001,Diabetes,Dr. Sanders,Cardiology,2805 USD,Paid,Bupa,1881482 USD,Insulin
+P025,Micheal Rosales,FEMALE,28,080-636-3511,,"26195 Tiffany Ridge North Fernandoland, PA 69101",,,Malaria,Dr. Harris,Ortho,2360 USD,Unpaid,Hygeia,1668043 NGN,
+P105, Chelsea Mitchell ,male,,(941)685-2562x25619,,,March 26 1987,29/09/1973,Flu,Dr. Delacruz,Emergency,621000 GBP,Pending,Hygeia,1010396 NGN,
+P380,Eileen Dodson,Female,,8071607348,karengrant@example.com,"71012 Jennifer Gateway Port Charlesstad, MP 25657",June 21 1994,,Malaria,Dr. Cabrera,Cardiology,726025 NGN,Pending,AXA,156346 GBP,Paracetamol
+P343,Shelia Schwartz,Female,78,8038159025,,,December 10 2001,,Cancer,Dr. Sullivan,Emerg.,219624 NGN,Paid,Hygeia,652059 NGN,Insulin
+P043,,Male,,8019006401,,"0064 Tony Union Apt. 891 Stevensmouth, DC 32623",2/19/1971,,Typhod,Dr. Wilson,Ortho,1086 GBP,,Bupa,829679 GBP,Amoxicillin
+P054,shannon nixon,Female,15,8095015421,,"623 Rita Ford Suite 507 Lake Jeanette, ND 65979",2/24/1992,,Flu,Dr. White,Cardio,4843 GBP,,Leadway,1725657 GBP,
+P079,,Male,,321.252.7732,bradley45example.com,,,9/11/2011,Fracture,Dr. Lopez,General,97133 USD,,Hygeia,1223162 USD,Paracetamol
+P444,Wendy Mullen,FEMALE,,,meghanalexander@example.org,,12/1/2019,13/11/1975,Cancer,Dr. Clayton,ER,1068 USD,Paid,AXA,1009836 NGN,Insulin
+P187,eric jones,Male,,8021055959,,,6/16/2013,6/16/1981,Malaria,Dr. Nguyen,Emerg.,2773 NGN,Paid,Bupa,590034 USD,Aspirin
+P078,kenneth green,male,,080-948-1242,taylorryan@example.com,,3/5/1985,August 02 1994,Fracture,Dr. Mora,Neuro,59150 NGN,Pending,AXA,1521453 USD,Aspirin
+P382,Amy Bailey,Female,,8091183109,,,8/27/1979,15/04/2000,,Dr. Keller,Emergency,4982 GBP,,AXA,1612375 GBP,Aspirin
+P029, Dylan Luna ,,,080-681-8156,scottmarshall@example.com,USNS Wilson FPO AP 44309,22/11/2023,19/01/1987,Flu,Dr. Nguyen,General,3591 USD,,Hygeia,1834626 NGN,Insulin
+P102,Katie Villanueva,Female,,080-239-5304,epalmerexample.com,"052 Turner Fort East Patrick, AS 46463",8/1/1973,6/23/2011,Cancer,Dr. Winters,Orthopedics,2589 NGN,Unpaid,Hygeia,1782634 GBP,Aspirin
+P247,Tiffany Stevens,male,,8083268360,,,14/09/2002,3/9/2022,Stroke,Dr. Michael,Ortho,140846 NGN,Unpaid,Bupa,1063160 NGN,Insulin
+P162,,,,,,,May 02 1983,December 13 2013,Typhod,Dr. Rogers,Cardio,4571 GBP,Pending,AIICO,1515039 NGN,Ibuprofen
+P373, Brett Mendoza ,,,001-736-680-4359x925,,"3594 Russo Throughway Romeroland, NC 83611",5/3/1993,May 13 2013,Fracture,Dr. Rivera,ER,754065 NGN,Pending,Leadway,312780 NGN,Amoxicillin
+P141,Edward Harrell,Male,,8069475497,benjaminjosephexample.net,,June 03 2005,April 22 2012,Typhod,Dr. Vaughn,General,527642 USD,,Hygeia,741530 GBP,Ibuprofen
+P403,Jack Walker,Female,59,,,"034 Tran Knolls Suite 682 Nicolebury, ND 60778",,December 04 1973,Diabetes,Dr. Lester,Cardiology,3002 USD,Pending,,1215577 USD,Amoxicillin
+P481,,male,,,,,,May 02 1970,Fracture,Dr. Taylor,Cardio,848335 GBP,Pending,AIICO,1822724 NGN,Insulin
+P450,Zachary Huynh,Female,36,001-431-720-5942x648,aaronfisherexample.org,,,,Fracture,Dr. Cole,Cardio,1411 NGN,Unpaid,Leadway,615273 USD,Amoxicillin
+P325,DANNY HENRY,Male,39,(536)972-7616x2280,wagnerstephanieexample.net,"871 Daniel Gateway Suite 201 Kevinstad, PA 16069",,April 10 2013,Typhoid,Dr. Figueroa,Emerg.,554083 USD,Unpaid,Hygeia,1766617 NGN,Aspirin
+P073,Benjamin Brennan,Female,,8059529379,,,5/4/2013,10/25/2004,Flu,Dr. Daniels,Cardiology,3923 USD,Pending,AIICO,1101183 USD,Paracetamol
+P170,JAY OCHOA,Female,14,,,,1/2/2013,3/9/1985,Cancer,Dr. Jennings,Cardio,4821 GBP,Pending,AXA,668636 USD,Insulin
+P080,,male,,(876)827-7089x56844,seth27@example.net,"00520 Stanley Throughway Suite 499 East Andrew, TX 23356",4/16/2025,January 27 1981,Fracture,Dr. Valenzuela,Emerg.,875 NGN,,,1719762 USD,
+P179,lawrence rogers,,8,8084873510,,,August 01 1998,28/06/1997,Cancer,Dr. Mercado,Cardiology,193353 GBP,,,1013623 GBP,Aspirin
+P059, John Allen ,male,,,,,March 31 2003,12/30/1980,Diabetis,Dr. Mendez,Cardio,4214 GBP,Paid,AXA,965596 NGN,Aspirin
+P421,KEITH DUNN,Male,,923.773.5699x0531,,,March 14 1999,,,Dr. Ferguson,ER,2048 NGN,Unpaid,Bupa,9557 NGN,Aspirin
+P330,KIMBERLY WEEKS,Male,,080-176-9195,,,29/05/2009,,Flu,Dr. Bryan,Neuro,2996 NGN,,AXA,1445020 USD,Amoxicillin
+P087,,Male,89,080-501-6983,,,November 16 1989,,Cancer,Dr. Torres,Neuro,3634 GBP,Pending,,725295 NGN,Paracetamol
+P120, Rhonda Webb ,,,(516)223-9900x1134,,,11/25/1984,,Stroke,Dr. Williams,Orthopedics,1037 NGN,Pending,Leadway,1511712 USD,Aspirin
+P364,susan martinez,male,,080-910-8224,jamiewilliams@example.org,,,March 15 2001,Flu,Dr. Williams,Emerg.,677989 NGN,,AXA,1792031 USD,Ibuprofen
+P167,Lawrence Bowen,male,,8025917436,,,9/8/1975,,Typhod,Dr. Woods,Ortho,363529 NGN,Paid,Leadway,1456396 GBP,Paracetamol
+P322,Shane Brock,Male,63,,klopez@example.com,"4088 Gallagher Cape Port Katherine, TX 07894",11/15/2025,,,Dr. Vasquez,Emergency,560 NGN,Paid,AXA,1204806 NGN,Amoxicillin
+P032,ADAM STEVENS,male,21,080-915-3659,,,May 08 2013,9/20/2013,Flu,Dr. Morales,ER,589 USD,Pending,AIICO,754558 NGN,Paracetamol
+P228, Phillip Ballard ,FEMALE,,080-476-3798,deannasuttonexample.org,,27/07/1982,6/24/1999,Typhod,Dr. Yoder,Ortho,1418 NGN,Pending,AIICO,856580 NGN,Ibuprofen
+P345, Sharon Robles ,FEMALE,,080-687-8813,mroberts@example.net,,1/12/2024,4/27/1993,Diabetis,Dr. Shaffer,General,4589 USD,Paid,,959491 NGN,Ibuprofen
+P083,ADAM LIN,Male,,080-308-8123,,,22/11/1988,,Diabetes,Dr. Gonzalez,Cardio,3722 USD,Pending,,1707341 NGN,Amoxicillin
+P163,RACHEL DANIELS,,,080-131-6052,,,2/15/2005,,Typhod,Dr. Obrien,Emergency,4759 USD,Paid,Hygeia,1104200 NGN,Amoxicillin
+P397,,Male,,(322)832-8517x6760,hansenlisa@example.net,,12/8/1985,3/31/2014,Fracture,Dr. Matthews,Emergency,283 USD,Pending,Hygeia,1857969 GBP,Paracetamol
+P214, Alyssa Pratt ,male,,949.238.8767x8249,,,10/10/1970,11/3/1981,Typhod,Dr. Jordan,ER,142 NGN,Paid,,556762 GBP,Paracetamol
+P184,,Female,,080-921-5340,robertsonbethany@example.com,"192 Maria Club East Andrea, WY 74280",,,Cancer,Dr. Hartman,ER,401216 NGN,Unpaid,,1028059 USD,
+P306,HELEN RODRIGUEZ,Female,57,,,,12/17/1998,10/1/2020,Cancer,Dr. Barrera,Orthopedics,714862 GBP,,AXA,902492 NGN,Paracetamol
+P160,brandon sanchez,FEMALE,,080-214-3276,cbaker@example.net,,August 09 1985,February 23 2005,Malaria,Dr. Espinoza,ER,186021 NGN,,Hygeia,344624 GBP,
+P022, Jennifer Lopez ,Female,,8031471259,charles41example.com,,1/11/2014,November 21 1970,Cancer,Dr. Gonzalez,Cardiology,300573 USD,Unpaid,AIICO,344173 GBP,Paracetamol
+P038,,FEMALE,,,sfletcherexample.net,,6/3/1986,,Cancer,Dr. Brown,Cardiology,975537 GBP,Pending,Bupa,1667770 USD,
+P358,CHARLES GONZALEZ,Female,,,mpalmer@example.com,"07367 Carolyn Station Apt. 823 West Margaretside, MD 59190",January 16 2022,,Typhoid,Dr. Williams,ER,323 NGN,Pending,Bupa,444364 NGN,
+P056,Teresa Stephens,,,8093343966,murraywayneexample.com,,,1/28/1981,Fracture,Dr. Gomez,ER,168774 USD,Paid,Hygeia,1653656 NGN,
+P278,elizabeth garcia,Female,,080-835-9019,joe33example.org,,,,,Dr. Johnson,General,1160 USD,,AIICO,1386840 GBP,Aspirin
+P133,tanya stone,male,50,,,,24/07/2015,November 19 2017,Typhod,Dr. Tucker,General,859782 GBP,Paid,Hygeia,1834504 GBP,Aspirin
+P474,THOMAS THOMPSON,Female,,,eric72@example.net,,4/21/1997,December 21 2015,Diabetes,Dr. Weiss,Emergency,399157 USD,Unpaid,,173105 USD,Amoxicillin
+P475,,,,080-733-9146,,"PSC 0416, Box 5321 APO AP 18733",February 18 2002,March 12 1996,Typhod,Dr. Perez,Neuro,853015 NGN,Paid,Leadway,1921519 NGN,Insulin
+P296,,Male,,,,,July 19 2011,April 16 1970,Cancer,Dr. Blankenship,Neuro,1930 USD,Paid,AXA,1454608 NGN,Paracetamol
+P428,,,51,+1-552-493-4423x017,johnwalker@example.org,,November 04 1997,,Fracture,Dr. Hamilton,ER,426742 NGN,Paid,AXA,447573 USD,Amoxicillin
+P431, Sarah Anderson ,,63,080-244-2303,,"34812 Katie Fields Edwardview, CT 50597",,,Flu,Dr. Barron,Emerg.,982131 GBP,,Bupa,582939 NGN,
+P291,teresa schultz,Female,,080-482-8430,huntermichaelexample.net,,,7/25/2010,Malaria,Dr. Carter,General,3048 NGN,Paid,Bupa,39967 USD,Aspirin
+P234,,Female,,8012943821,heatherwilliams@example.org,,July 17 2015,May 23 1986,Typhoid,Dr. Carr,Ortho,486 NGN,Pending,,448479 USD,Paracetamol
+P133,Luke Stark,male,,8074274803,,"1712 Blake Bypass Lake Cameronfort, VT 80066",2/27/1976,7/29/2003,Stroke,Dr. Sanchez,General,3836 NGN,Paid,Leadway,1374825 NGN,Paracetamol
+P333,michele baker,Female,80,8099334248,jonathananderson@example.net,,18/02/1988,7/19/2018,Fracture,Dr. Hill,Emerg.,3775 USD,Pending,Bupa,1024713 NGN,Insulin
+P496,carla simon,Male,79,8040750718,,,,November 15 1986,Cancer,Dr. Richards,Cardiology,925 NGN,,Hygeia,548287 USD,Ibuprofen
+P288,,FEMALE,,348.317.5750x5163,,"30364 Lewis Station Port Maryland, LA 38295",1/6/1980,3/16/2018,Typhoid,Dr. Acevedo,Ortho,3446 GBP,Pending,Leadway,124161 GBP,Ibuprofen
+P298, Kara Mcmillan ,Female,,677-264-2424x834,stephen24@example.org,,,March 17 1982,Malaria,Dr. Smith,Cardiology,677059 USD,Paid,AXA,1162444 USD,Paracetamol
+P225,,Female,,+1-563-894-3775x83147,craiglivingston@example.org,,August 27 2005,November 06 2013,Stroke,Dr. Bond,Ortho,1304 GBP,,,1036300 GBP,
+P030,Kathleen West,FEMALE,,8092594273,nruiz@example.net,"434 Kimberly Coves Suite 878 Lake Mirandahaven, AZ 59072",April 07 1982,,Typhod,Dr. Lee,Cardiology,500970 USD,Unpaid,,514411 NGN,Aspirin
+P367, Denise Wilson ,male,79,080-100-8792,jameslandryexample.net,,7/5/2013,16/01/1985,Typhod,Dr. Ramos,Emerg.,308247 NGN,Pending,Leadway,1720398 GBP,
+P280,austin shaw,male,,,sellis@example.com,,March 06 2020,7/8/2011,Diabetis,Dr. Jensen,Cardio,1013 GBP,,Hygeia,1965523 USD,Ibuprofen
+P465, Jessica Andrews ,,8,-9599,,,16/02/1986,3/3/1991,Typhod,Dr. Herman,Neuro,1621 USD,Pending,Leadway,932655 GBP,
+P167, Angie Leon ,FEMALE,,,manningmario@example.com,"32267 Tina Forest South Ricky, NY 27048",1/11/2017,,Diabetis,Dr. Davidson,Neuro,3246 NGN,Unpaid,Bupa,1439485 USD,Amoxicillin
+P073,,FEMALE,80,805-489-4291,,,30/12/2005,13/08/1990,Cancer,Dr. Stevens,Cardiology,3165 NGN,Unpaid,Bupa,900340 GBP,Ibuprofen
+P432,Amy Gardner,FEMALE,,080-625-6180,cooperjaredexample.org,"568 Vicki Drive Suite 818 East Sean, NE 88110",23/07/1985,,Stroke,Dr. Bennett,Cardiology,413073 GBP,,Leadway,1052156 GBP,Paracetamol
+P169,ERICA ANTHONY,Male,,(367)344-9406,,"898 Thomas Stream Apt. 960 East Williammouth, CA 08055",8/1/2017,,Flu,Dr. Maxwell,Emerg.,956332 USD,Paid,AIICO,1384214 GBP,
+P281,Dean Fernandez,,,8025883801,,,October 08 1989,2/20/2006,Typhoid,Dr. Wise,Emergency,16037 USD,Unpaid,Bupa,909897 NGN,Ibuprofen
+P384,John Andrade,Female,16,080-469-4978,jsullivanexample.org,,9/4/2016,8/15/1995,Malaria,Dr. Williams,Emergency,1229 USD,Paid,,663254 NGN,Aspirin
+P499,,male,89,,qsawyerexample.com,,,,Malaria,Dr. Keith,ER,379 NGN,Pending,Hygeia,1836197 USD,Insulin
+P079,kelly stein,,,8033383464,sabrinahernandezexample.com,"455 Donald Street Apt. 902 Johnsonside, MD 00644",March 31 1976,July 12 2011,Fracture,Dr. Clements,ER,157468 USD,,AIICO,1767488 USD,Insulin
+P476,mary gordon,male,81,8034919303,,,,27/11/1986,Cancer,Dr. Evans,Emerg.,172443 NGN,Pending,Leadway,296209 GBP,Paracetamol
+P007, Michael Mullen ,male,,080-330-7920,ybirdexample.net,"84276 Fitzgerald Crescent Suite 660 East Jennifer, MN 55928",August 25 1988,April 12 1998,Malaria,Dr. Mitchell,ER,630577 USD,Pending,AIICO,846428 USD,Ibuprofen
+P125, Thomas Higgins ,Male,,8065127630,,,1/27/2005,3/11/2006,Typhoid,Dr. Long,ER,343740 USD,,AIICO,1942903 USD,
+P445,LOUIS BURNETT,FEMALE,68,080-948-7675,,,August 25 1973,31/05/1978,Flu,Dr. Nielsen,Emerg.,556327 NGN,Pending,Bupa,1992344 USD,Ibuprofen
+P127,TINA LIN,Male,,080-543-2279,,"36355 Walker Springs Maureenshire, WV 05445",10/16/1975,,Diabetes,Dr. Velazquez,Orthopedics,1348 NGN,Paid,,1160619 USD,Ibuprofen
+P098, Tyler Lee ,FEMALE,11,,emartinezexample.com,,21/11/1982,February 11 1977,Fracture,Dr. Holder,Emergency,602 NGN,Pending,Hygeia,1043520 USD,Amoxicillin
+P296,,FEMALE,,8021149520,,,June 27 2018,June 30 1977,Typhoid,Dr. Russo,Cardiology,2735 GBP,Paid,Hygeia,1571224 NGN,
+P255,Daniel Mercado,male,,,carolyn55example.com,,6/25/2007,April 16 2007,Diabetes,Dr. Williams,Emergency,577739 GBP,Unpaid,,1272784 USD,Ibuprofen
+P220,Michael Kelley,Male,,080-944-5664,,,5/11/1983,3/4/2013,Stroke,Dr. Prince,Cardio,3225 USD,Unpaid,AIICO,867143 NGN,Insulin
+P026,stacy conley,Male,,,xgarcia@example.net,,4/10/2023,5/18/1972,Typhod,Dr. Johnson,Ortho,528873 USD,Unpaid,AXA,1868999 NGN,Aspirin
+P199,,Female,,919-618-8249,,"4097 Lydia Parkways Hendrixberg, MH 07578",8/21/2016,May 23 1978,Typhoid,Dr. Porter,General,3571 USD,Paid,AIICO,526357 GBP,Ibuprofen
+P039,,male,,8081448608,,,12/1/1988,9/23/1975,,Dr. Martinez,Emergency,3103 GBP,,Hygeia,1099651 NGN,Amoxicillin
+P090, Michael Jones ,Female,54,001-329-797-5520x1717,,,October 08 2015,24/05/1989,Malaria,Dr. Mason,Neuro,1300 USD,,,1541382 GBP,Ibuprofen
+P043, Richard Holmes ,FEMALE,63,(936)618-1689,lucas51@example.com,,August 15 1970,12/23/1997,Diabetis,Dr. Frederick,Emerg.,897 USD,,AXA,1717330 GBP,
+P197,duane martinez,Female,,8093620090,maryrussell@example.org,"105 Parrish Valleys Apt. 694 Allisonmouth, MT 72938",,,Diabetis,Dr. Cline,Neuro,716 GBP,Paid,Bupa,1437413 GBP,
+P299,ADRIAN JOHNSON,FEMALE,,2998589023,jpalmerexample.org,,February 17 1990,14/09/2024,Fracture,Dr. Smith,Ortho,3287 USD,Unpaid,,1474237 USD,Aspirin
+P088,CHRISTOPHER SIMPSON,,,,allen03example.org,"337 Richard Parkway Apt. 996 Lake David, OH 72506",November 13 1994,,Fracture,Dr. Robertson,Ortho,4937 GBP,,Leadway,1958964 USD,Ibuprofen
+P075,bobby reid,FEMALE,,(976)819-6898,randynovak@example.net,,,,Typhoid,Dr. Williams,Cardiology,297278 NGN,,AIICO,102649 NGN,Amoxicillin
+P377,,male,48,8012583494,,,,December 10 2010,Typhod,Dr. Kane,ER,1275 NGN,Unpaid,AIICO,868700 NGN,
+P371, Shane Nguyen ,FEMALE,,080-175-4170,ipatelexample.com,"564 Edwards Extensions New Douglas, OK 51201",February 27 1991,August 16 1997,Malaria,Dr. Morris,Emergency,579324 USD,,Leadway,1605155 NGN,Ibuprofen
+P320,JONATHAN BAXTER,Female,,8048647640,ostewart@example.net,,June 01 2001,3/16/1983,Fracture,Dr. Baker,Cardiology,4679 NGN,,AXA,1637251 GBP,
+P072,christopher jones dds,Male,,909-896-9224x2879,,"60384 Sheila Branch North Alex, VT 16372",12/25/1980,4/1/2006,Typhoid,Dr. Harper,Ortho,172 USD,Pending,AIICO,1374783 GBP,Amoxicillin
+P471,Alexandra Anderson,Female,9,505.883.5482x2079,aprilwhiteexample.net,,,,Diabetes,Dr. Thornton,Cardiology,589734 GBP,Unpaid,Hygeia,1683113 USD,
+P289,STEVEN POWERS,FEMALE,,879.697.8334x0493,,"033 Rebecca Fork Port Robertburgh, CT 43831",,26/01/1982,Malaria,Dr. Powell,Neuro,3822 GBP,Paid,AIICO,1238161 USD,Ibuprofen
+P458,Sherry Ramirez,male,59,8071765392,,"70221 Wood Common Port Josephchester, IA 91802",,7/26/1977,Cancer,Dr. Alexander,ER,396 NGN,Pending,Leadway,1115680 USD,Paracetamol
+P435,,Female,,,,,,8/19/2007,Malaria,Dr. Hart,Neuro,833386 NGN,,AIICO,911175 GBP,Insulin
+P030,,Female,,(348)624-4272x3146,gerald40example.org,,May 24 1971,6/4/1994,Stroke,Dr. Moore,Ortho,1594 GBP,Pending,Bupa,255581 NGN,Paracetamol
+P466,,Female,,857-215-6930,jgrossexample.com,,10/9/1977,8/7/1979,Diabetis,Dr. Roberts,Emerg.,731894 USD,,AIICO,737674 GBP,Aspirin
+P111,Mark Smith,,,(325)315-9652,jamescherryexample.org,,28/07/2003,June 20 1975,Typhoid,Dr. Bryant,Orthopedics,650873 NGN,Pending,Bupa,1390355 USD,
+P398, Susan Leach ,male,6,8045886831,,"103 Tyler Way South Anthony, TN 71525",12/2/2017,3/8/1995,Stroke,Dr. Reed,Orthopedics,205481 GBP,Pending,,194389 GBP,
+P385,KAREN JOHNSON,,,080-904-2134,,,March 22 2002,April 26 1973,Stroke,Dr. Caldwell,Cardio,46703 NGN,,,1652103 NGN,Ibuprofen
+P016,benjamin thomas,,23,8080296277,athomasexample.com,,September 29 1999,3/1/1995,Diabetes,Dr. Rice,ER,4682 GBP,Pending,Hygeia,1123744 GBP,Paracetamol
+P039,,Female,,080-177-3608,,,5/2/1985,8/2/2023,Fracture,Dr. Stevens,Cardio,122688 GBP,Paid,Bupa,734168 GBP,
+P494,tammy mitchell,FEMALE,,,,"55042 Craig Mall Apt. 672 Villanuevaside, PA 67726",,April 10 2025,Stroke,Dr. Norton,General,69416 USD,Paid,AIICO,610159 GBP,Amoxicillin
+P332,,male,,,jessica13example.net,"9407 Baxter Plaza Suite 990 Port Kevintown, KY 18489",,,Fracture,Dr. Hendrix,Neuro,971176 GBP,Paid,,341810 USD,Aspirin
+P410,,,,8081890072,,,11/21/2009,23/11/2006,Diabetes,Dr. Esparza,Emerg.,419346 GBP,Paid,Hygeia,1692159 NGN,Insulin
+P398,,,,080-640-2084,,"3213 Sue Streets Apt. 366 Juliemouth, LA 58576",December 31 1972,28/04/1978,Typhoid,Dr. Miller,Emergency,1343 GBP,Pending,AXA,796534 USD,Ibuprofen
+P203,Nathan Salinas,Male,,8022680967,danielleflores@example.org,,,27/11/2008,Malaria,Dr. Mckee,Cardiology,4382 NGN,Pending,,1986817 NGN,Aspirin
+P350, Samantha Graves ,Female,,(983)462-6305x176,kduffyexample.com,"235 Sheila Valley Apt. 732 Davidville, VI 62595",August 27 1987,September 30 1985,Cancer,Dr. Johns,Emerg.,157415 GBP,Unpaid,Hygeia,1159775 NGN,Aspirin
+P089,STEFANIE WILSON,male,,892.360.2330,elizabeth88example.com,"30180 Sue Squares Sydneyhaven, WV 29322",25/08/1976,January 28 2011,Diabetes,Dr. Mcgee,Cardiology,1204 GBP,,Hygeia,1390004 NGN,Ibuprofen
+P357,Samuel Brown,Male,,8015549054,kallison@example.org,,,8/13/1990,Fracture,Dr. Lopez,General,2921 GBP,Paid,Bupa,861609 NGN,Ibuprofen
+P324,CRYSTAL MASON,FEMALE,78,,,"13631 Justin Corner Marissaborough, OH 62834",September 15 2010,28/03/2009,Malaria,Dr. Ramirez,General,4529 NGN,Unpaid,,1008369 NGN,Paracetamol
+P181,,,,8042466621,,,22/08/1985,,,Dr. Vega,Cardio,129788 GBP,Paid,,300225 USD,Insulin
+P003,ASHLEY FITZPATRICK,FEMALE,,080-846-4672,mvasquezexample.net,"0894 Robin Run North Thomas, SC 48558",,4/11/1976,Diabetes,Dr. Allen,Ortho,598867 USD,,Bupa,1083990 NGN,Insulin
+P383,JOHN CALHOUN,male,,8070030821,,"619 Christopher Canyon Port Brian, MH 34280",,September 09 1992,Malaria,Dr. Ramos,ER,302525 GBP,,AXA,403685 USD,Amoxicillin
+P039, Tina Brown ,male,,8056988490,,,12/5/1970,4/16/2009,Diabetes,Dr. Whitaker,Emergency,192369 GBP,Paid,AXA,731891 GBP,Paracetamol
+P261,jamie murray,Male,,080-554-1732,angelacampbell@example.com,"7392 Aaron Greens Suite 285 Port Robertbury, NV 65830",31/07/1988,17/10/1980,Malaria,Dr. Campbell,Cardiology,95094 NGN,,Leadway,433789 NGN,Insulin
+P269,,FEMALE,,8076883380,,"10839 Steven Circle Apt. 546 Brownland, AZ 97055",September 18 2008,1/25/2016,Cancer,Dr. Ward,Orthopedics,2174 NGN,Unpaid,,1633803 NGN,Aspirin
+P103,KENNETH DANIEL,Male,5,,,,12/24/2004,29/10/1985,Diabetes,Dr. Baker,Emerg.,4178 GBP,Pending,,1871656 USD,Aspirin
+P461,,FEMALE,,,,,,7/15/2016,Diabetes,Dr. Gonzalez,Cardio,1205 GBP,,Leadway,1689234 USD,
+P345,courtney kelley,Female,,8089722725,,,,22/10/2011,Diabetis,Dr. Barnett,Orthopedics,1401 GBP,Pending,AIICO,148607 USD,Ibuprofen
+P131, Charles Williams ,Male,,726-367-3875,jonathanlamexample.org,,5/26/2023,3/30/2000,Flu,Dr. Burch,Emergency,348472 GBP,Paid,Bupa,458556 USD,Ibuprofen
+P241,Tyler Nelson,FEMALE,,080-138-9326,,,,7/11/2002,Malaria,Dr. Anderson,Ortho,977775 USD,Paid,,1850527 GBP,
+P408,WILLIAM GARCIA,Female,36,212.395.9323x2898,,"23437 Beth Cliffs Barnesbury, NY 69605",16/07/1984,5/2/1990,Diabetes,Dr. Rivers,ER,1440 GBP,,,377781 GBP,Paracetamol
+P096,james fox,,43,080-336-2181,kingdonald@example.com,"9585 Anderson Loop Suite 784 Priceberg, MT 09587",February 23 2003,5/1/2005,Malaria,Dr. Butler,ER,100616 GBP,Pending,Bupa,1598021 USD,Amoxicillin
+P005, Mallory Harris ,Female,,080-608-6608,,"802 Kevin Run Rileyfort, UT 54022",January 24 1992,April 13 2000,,Dr. Ramirez,Cardiology,4977 GBP,Pending,Bupa,1832566 GBP,
+P068,Laura Cuevas,Male,,8078374335,,"165 Simmons Drive Nelsonberg, AL 45719",6/9/1991,,Malaria,Dr. Shepherd,Emergency,3582 USD,Pending,,74699 NGN,
+P489, Gloria Williams ,Male,,446-835-8565,,,,,Stroke,Dr. Riley,Cardiology,4124 NGN,,AXA,1307896 GBP,Insulin
+P489,THOMAS WILSON,,,,,,23/06/2016,20/11/1971,,Dr. Bailey,Cardio,3084 USD,,Hygeia,1617133 GBP,Aspirin
+P401,victoria bell,Male,35,,,"42601 Nelson Mountain Apt. 309 Leonardfort, WI 55999",18/05/2017,August 25 1999,Typhod,Dr. Shannon,Neuro,2385 USD,Pending,Bupa,1207615 NGN,
+P379,ashley dean,male,54,8031286988,stephaniemartinez@example.org,,26/11/1982,9/26/2009,Fracture,Dr. Rose,Cardiology,894816 NGN,,AIICO,1444369 USD,Ibuprofen
+P309,,male,,557.955.7005x79732,,,,,Typhoid,Dr. Romero,Cardio,826 GBP,Pending,Hygeia,967124 USD,Aspirin
+P400,jennifer jimenez,male,,(657)361-1539x27273,,"957 Christine Mills Chadville, ME 61334",7/15/1993,January 09 2021,Diabetes,Dr. Blanchard,Emergency,403219 USD,Unpaid,Leadway,1105292 USD,Ibuprofen
+P063, Mr. Matthew Walters ,male,25,(608)459-3288,jonescassie@example.com,,,,Diabetis,Dr. Aguilar,Emergency,4987 NGN,Pending,Leadway,259670 NGN,Aspirin
+P169,Matthew Wilson,FEMALE,,771.310.9778,hannah97example.net,,11/8/1983,May 12 2013,Diabetis,Dr. Brown,Orthopedics,2875 NGN,Unpaid,AXA,596273 USD,Ibuprofen
+P027, Grace Diaz ,,,080-459-6638,,,3/1/1975,,Diabetis,Dr. Nguyen,Cardiology,851329 GBP,,,1977810 USD,Insulin
+P302,BRANDI CHAN,male,,,,,5/1/2020,18/08/1989,Malaria,Dr. Cook,Neuro,4930 NGN,Paid,Hygeia,402575 USD,Paracetamol
+P104,AARON MARSHALL,,,080-110-5120,,"013 Jason Roads Suite 766 Lake Jessicachester, FM 63894",March 02 1988,,Diabetes,Dr. Costa,Cardiology,3717 USD,Paid,Hygeia,438363 USD,Insulin
+P022,,Female,79,8050924094,thompsonstephanie@example.net,,4/4/1996,November 04 1978,Cancer,Dr. Smith,Neuro,538018 GBP,Paid,AXA,179059 USD,Aspirin
+P480, Deanna Johnson ,male,,080-581-7505,,,4/6/1970,December 04 2017,Flu,Dr. Smith,Neuro,1802 NGN,Pending,,459734 GBP,Amoxicillin
+P074,,Male,,080-120-2425,davisronaldexample.net,"899 Phillips Manors Suite 725 Lake Samantha, MI 78613",February 18 2013,,Malaria,Dr. Hernandez,Orthopedics,2655 GBP,Paid,,528838 GBP,
+P183,Keith Hale,male,,080-332-5481,wrightwendyexample.net,"23175 Jean Mountains Apt. 008 Gomezmouth, MT 77655",June 07 1974,8/21/2022,Cancer,Dr. Carrillo,Orthopedics,248713 GBP,Pending,AXA,194663 USD,Ibuprofen
+P092, David Martin ,Male,,+1-432-736-2748x26135,,,2/19/1986,29/01/1998,Fracture,Dr. Wilson,Cardio,855 USD,Paid,Leadway,887961 NGN,Aspirin
+P080, Diana Porter ,Male,78,8072925677,jessicajonesexample.net,,6/26/1997,December 01 2016,Typhod,Dr. Lopez,Emerg.,4541 USD,Pending,Bupa,358638 NGN,
+P403,Ronald Johnson,Male,,,alexismartinexample.org,,7/11/1983,,Fracture,Dr. Young,Emerg.,756229 USD,Pending,Hygeia,1227136 GBP,Paracetamol
+P274,ann mahoney dvm,Female,,954-479-7043x7422,fgarciaexample.net,,December 20 2007,20/12/2010,Stroke,Dr. Archer,Cardiology,648570 GBP,Unpaid,Hygeia,602744 NGN,
+P015,MATTHEW CUMMINGS,FEMALE,,080-805-5176,,,,9/25/2012,Typhod,Dr. Wolfe,Ortho,784565 GBP,Unpaid,Leadway,649959 NGN,
+P226,,male,25,8015626639,,,7/25/1971,May 25 1975,Stroke,Dr. Pena,ER,3223 GBP,Unpaid,,1294830 USD,
+P428,,FEMALE,90,9052567569,murphymichael@example.org,"575 Elizabeth Run Apt. 263 Rayborough, CO 01458",,December 23 2004,Diabetis,Dr. Wood,Cardiology,1790 USD,,Bupa,1255073 NGN,Amoxicillin
+P053,matthew benson,Female,50,080-166-2849,johnsonduane@example.com,"27920 Norma Wells Suite 898 Stephanieburgh, AZ 46610",May 24 1988,,Cancer,Dr. Morris,ER,3158 NGN,,Hygeia,525559 NGN,Paracetamol
+P418, Kelly Khan ,FEMALE,59,080-731-4093,,"03503 Scott Shore Suite 561 Brooketon, NV 84623",3/6/1982,9/8/2003,Flu,Dr. Kennedy,Emergency,3928 GBP,Paid,Bupa,1671553 GBP,
+P095,kyle conley,Male,19,,kerri08example.com,,5/12/1981,,Typhod,Dr. Allen,Emergency,934732 GBP,Unpaid,Leadway,429248 USD,
+P177,lawrence salinas,male,,080-661-6550,,,,5/14/1978,Diabetes,Dr. Petty,Cardiology,917 NGN,Pending,Bupa,1603256 GBP,Amoxicillin
+P449,Sheila Spencer,Female,,910.689.3793x383,,,,,,Dr. Morrison,General,2200 GBP,Unpaid,,365500 NGN,Amoxicillin
+P498,sharon johnson,Male,,080-634-4859,,,8/5/2009,July 27 2011,Diabetis,Dr. Williams,General,355 NGN,Paid,AIICO,326537 USD,Amoxicillin
+P407, William Diaz ,FEMALE,80,,watkinsamberexample.org,,October 30 2003,December 25 1977,Malaria,Dr. Colon,Cardio,391690 NGN,Pending,AXA,1827016 NGN,Amoxicillin
+P331,andrew williams,male,,8086886004,,,30/12/1983,22/03/2012,Stroke,Dr. Campos,Emerg.,907303 USD,Unpaid,AXA,895975 USD,Aspirin
+P442, Kayla Zuniga ,,,001-686-849-7770x261,michelle67@example.com,"8852 Reed Lake Suite 661 New Michael, MN 93364",October 13 2000,June 28 1982,Diabetis,Dr. Kelly,Emergency,2710 NGN,Paid,Leadway,717511 NGN,Aspirin
+P360, Megan Patrick ,male,,080-365-6396,,"2635 Lambert Mountain Elizabethberg, SC 66104",7/7/2016,4/3/1980,Malaria,Dr. Arnold,Neuro,911456 NGN,Unpaid,Bupa,1756871 GBP,Insulin
+P488, Justin Green ,male,,001-234-322-2849x1425,,"6687 Ryan Prairie Suite 307 North Mercedeschester, WY 92864",10/5/1970,4/11/1994,Diabetes,Dr. Wood,ER,963755 GBP,Paid,Leadway,522675 USD,Ibuprofen
+P013,ricardo harrison,male,,,,,,2/3/1972,Malaria,Dr. Bauer,General,547291 NGN,Paid,Bupa,1858744 NGN,Insulin
+P037, Ann Vaughn ,,,549-488-8127x33297,,"1856 Norris Courts Suite 639 Matthewbury, MS 01372",,26/11/1982,Typhod,Dr. Smith,Emerg.,1160 NGN,Paid,AIICO,734454 USD,Aspirin
+P030,brittany adams,,,080-211-8221,,,10/16/2006,29/07/2018,Malaria,Dr. Williams,Neuro,984155 NGN,,AIICO,858389 USD,Amoxicillin
+P095,,Female,,8073239581,jessicariveraexample.com,,12/16/2025,21/01/2014,Fracture,Dr. Thomas,Cardiology,37447 GBP,Paid,Leadway,297294 NGN,Amoxicillin
+P042,Thomas Campos,male,,,nwhiteexample.net,"19962 John Field West John, HI 08359",,10/6/1977,,Dr. Simmons,Neuro,729034 USD,,,1326616 USD,Ibuprofen
+P005,AARON ALVARADO,male,29,080-477-9678,,,November 30 2015,,Diabetes,Dr. Trevino,Orthopedics,912967 NGN,Pending,AXA,138853 GBP,
+P262, William Beltran ,Female,,8057318253,,"7483 Summers Forges Suite 345 Adamston, MP 47561",,,Stroke,Dr. Pratt,Ortho,2585 GBP,Paid,AIICO,649145 USD,Ibuprofen
+P197,martin carson,FEMALE,,617.228.7454x29340,,,July 11 2004,,Stroke,Dr. Jacobs,General,2571 GBP,Pending,Bupa,1772075 GBP,Ibuprofen
+P208, Colin Hunt ,Female,,(544)843-6798x292,hvalencia@example.org,"6138 Garcia Forges Apt. 856 South Javierstad, OH 81880",November 09 2019,4/23/2023,Malaria,Dr. Mcpherson,Ortho,3233 USD,,,1234309 USD,Paracetamol
+P055,JAMES MARTIN,male,,080-446-5303,katelyncuevas@example.net,,1/11/2020,,Diabetes,Dr. Lewis,Emergency,911891 GBP,Paid,Leadway,1211564 USD,Aspirin
+P295,,Male,,8086306137,swansoncarlosexample.net,,8/13/2011,1/7/2002,Cancer,Dr. Edwards,Emerg.,607525 USD,Pending,Leadway,1164057 NGN,Insulin
+P250,,Female,,8072242522,,"5056 Henry Locks Apt. 283 East James, IN 78589",13/11/1979,,Fracture,Dr. Kim,Emergency,3318 USD,,Leadway,1059063 USD,Paracetamol
+P006,CORY MILLER,,,8099050821,amedinaexample.org,,20/11/2009,7/15/2015,Stroke,Dr. Schultz,Orthopedics,3140 NGN,Unpaid,Leadway,487373 GBP,Insulin
+P331,,Female,,8014354873,austin14@example.com,,7/5/1996,12/19/2020,Diabetis,Dr. Patel,Cardiology,669846 GBP,Pending,Leadway,296767 NGN,Aspirin
+P187,CURTIS SWEENEY,Male,36,,patricia42@example.com,Unit 5563 Box 1007 DPO AP 10706,,10/23/1976,Malaria,Dr. Munoz,Neuro,114620 NGN,Unpaid,Bupa,1632621 USD,Ibuprofen
+P180,colleen mitchell,Female,84,,oho@example.com,,,September 04 1989,,Dr. York,ER,887 GBP,Pending,,906583 NGN,Paracetamol
+P362, Renee Wade ,Female,,+1-729-833-7275x8518,,,7/23/2006,26/06/2018,Diabetes,Dr. Hernandez,Emerg.,822896 NGN,Pending,Hygeia,1203934 NGN,Amoxicillin
+P032, Rebecca Rodriguez ,male,,080-673-2282,,"8199 Whitaker Corner Suite 222 Jenkinsburgh, PA 38754",May 10 2004,2/9/2006,Fracture,Dr. Adams,ER,539676 USD,Paid,AIICO,485366 USD,Paracetamol
+P115, Craig Adams ,Female,,8052479285,darrell73example.net,,8/13/2005,May 30 1978,Flu,Dr. Miller,Cardiology,117 USD,Unpaid,AIICO,1881672 GBP,Insulin
+P443,ROBIN BRYANT,Male,,,,,December 25 1985,June 09 2003,Malaria,Dr. Mendez,Cardio,436974 GBP,Pending,AXA,109503 NGN,Amoxicillin
+P227, Bobby Jones ,male,,4596539798,joseph90@example.net,,,September 05 2005,Typhoid,Dr. Camacho,Cardio,4433 USD,,AXA,307174 GBP,Aspirin
+P275,jesse cruz,male,83,,,,November 29 1985,14/08/2003,Flu,Dr. Duran,Neuro,417934 NGN,,AXA,1516258 NGN,Amoxicillin
+P082,VALERIE HUBER,Male,61,570-968-8156,kfosterexample.com,,19/08/1970,October 16 1988,Diabetes,Dr. Johnson,Orthopedics,919 NGN,Paid,Leadway,1077777 GBP,Ibuprofen
+P017,,,,851.974.1903,davidsimpsonexample.net,"3166 Christy Ports Suite 234 South Timothy, MI 64174",11/1/1983,4/14/2003,Typhod,Dr. Gonzalez,Cardiology,246 NGN,,AIICO,826259 GBP,Aspirin
+P281,dana hall dds,FEMALE,,343-271-2813,gthomasexample.org,"0136 Jason Parkways Orrshire, MP 11055",,11/10/1975,Flu,Dr. Garcia,Cardiology,784346 NGN,Pending,AXA,1665556 GBP,Aspirin
+P169,,Male,,,,"49292 Scott Viaduct West Alicechester, TN 53736",8/14/2022,April 28 1983,,Dr. Johnson,Emerg.,884328 GBP,,AXA,1839907 GBP,Paracetamol
+P228,shawn stewart,Female,,8032212263,jessestarkexample.org,"69183 Elizabeth Estates Hannahside, RI 21755",April 11 2019,23/01/1979,,Dr. Johnson,Neuro,3452 GBP,Unpaid,,234792 NGN,Insulin
+P202,Stephanie Melendez PhD,Female,47,8033792215,jennifer12@example.com,,10/6/1980,11/1/2019,Diabetis,Dr. Ferguson,General,945622 USD,,Bupa,544949 USD,
+P270,Ryan Lindsey,FEMALE,71,8061701376,sandersonexample.net,"70120 Lindsay Falls North Randyfort, PA 08363",July 24 1994,,Typhod,Dr. Barrera,Neuro,559697 USD,Unpaid,AXA,789366 NGN,Aspirin
+P004,MARK LOPEZ,male,,8081661284,sharongonzalezexample.com,"73177 Larsen Key Justinfort, CA 10484",May 16 1990,August 10 2018,Diabetis,Dr. Warner,Emerg.,904 GBP,Paid,Hygeia,1072247 USD,Amoxicillin
+P322,,Female,,,david75example.net,,August 21 2021,March 18 2011,Diabetis,Dr. Cooley,Neuro,271 NGN,Pending,AXA,445198 USD,Ibuprofen
+P058,jerome douglas,Male,,080-998-2565,heather16@example.net,,,15/04/2017,Typhod,Dr. Merritt,Neuro,129110 USD,Unpaid,AIICO,1225374 NGN,Ibuprofen
+P154,ELIZABETH CRUZ,FEMALE,41,080-105-7865,rebecca86@example.org,,,4/8/2010,Typhoid,Dr. Frazier,Cardio,388750 USD,,Leadway,1414139 GBP,Amoxicillin
+P187,,Male,87,001-641-235-0232x7913,,,8/11/1988,3/3/2011,Typhoid,Dr. Fuller,Neuro,682488 NGN,Pending,AXA,609174 GBP,Aspirin
+P351,DOUGLAS MACK,Female,,001-348-919-2758,,,31/12/2003,4/9/1971,Malaria,Dr. Dalton,Neuro,314 USD,,Bupa,983329 NGN,Amoxicillin
+P058,carrie bray,Female,,726.948.1670x7599,derricksullivan@example.org,,March 02 1975,4/19/1992,Fracture,Dr. Johnson,ER,915574 GBP,Paid,AXA,1317474 NGN,Amoxicillin
+P384, Carl Turner ,Male,,,davidkingexample.net,"1379 Campbell Squares Apt. 356 Karenhaven, VT 11405",January 20 1977,10/7/2021,Cancer,Dr. Fuller,Orthopedics,4425 USD,Pending,AIICO,255369 GBP,
+P099,Robert Jones,FEMALE,,,,,,,Typhoid,Dr. Moore,Emerg.,1052 NGN,Pending,Leadway,48883 NGN,Paracetamol
+P056,,Male,,001-565-636-8424x1633,ryankingexample.org,"520 Johnson Glens Apt. 338 South Kimberly, DE 13447",5/15/1982,October 17 1981,Stroke,Dr. Hall,Emergency,3147 USD,,Bupa,1102735 GBP,Aspirin
+P127, Gina Lee ,Male,27,,,,27/11/2006,26/03/2019,Diabetis,Dr. Mueller,Cardio,4983 GBP,,AIICO,11415 NGN,Amoxicillin
+P475,,male,,,,,March 03 1985,22/05/2012,Diabetis,Dr. Carey,Neuro,2136 GBP,,,359838 GBP,Amoxicillin
+P453,James Fowler,male,,080-779-3021,toddbrian@example.org,"93017 Ramirez Summit Apt. 919 Davenportstad, GA 53786",2/26/1997,May 21 1976,Typhod,Dr. Mays,ER,503996 USD,Pending,,1465576 USD,
+P133,erin keller,,,080-328-2561,,,12/16/2013,June 13 2003,Fracture,Dr. Nichols,Ortho,4233 NGN,Paid,Leadway,1841650 NGN,Ibuprofen
+P240,Richard Scott,Female,,080-999-7234,,,6/12/1999,August 18 2013,Stroke,Dr. Waters,General,692 USD,Unpaid,AXA,1602233 GBP,Aspirin
+P400,,Female,23,,qalvaradoexample.net,,12/4/1987,,Malaria,Dr. Harrison,ER,1311 GBP,Unpaid,Leadway,1381521 NGN,Amoxicillin
+P288, Catherine Gutierrez MD ,male,66,080-632-5577,,"5086 Snyder Lake Apt. 945 New Dawn, GU 04106",,September 05 2018,,Dr. Mcgrath,Neuro,730667 GBP,Paid,Hygeia,1043691 GBP,Insulin
+P470,HEATHER WARE,Male,,,,,,,Fracture,Dr. Duncan,General,302704 USD,,Bupa,1170840 NGN,Insulin
+P470,SONYA BUTLER,Female,69,080-189-2986,,"111 Courtney Groves North Michael, NJ 08824",,1/18/1971,Typhoid,Dr. Patterson,Emerg.,1760 NGN,Pending,AIICO,1068503 USD,Insulin
+P083,TERRI MARQUEZ,Male,,8032149111,,,October 15 1987,,Typhoid,Dr. Robles,ER,1877 USD,Pending,AXA,1311921 USD,Ibuprofen
+P393, Keith Wilson ,Male,,080-179-8646,ashley03@example.net,,12/12/2018,6/5/1996,Malaria,Dr. Morales,Orthopedics,923 GBP,Unpaid,Leadway,1830520 GBP,Paracetamol
+P359, Valerie Brown ,Female,,,wilsonmichele@example.org,,1/2/1978,November 21 1977,Diabetis,Dr. Carr,Cardio,400227 NGN,,Bupa,713122 USD,Paracetamol
+P326, Jeffrey Curtis ,male,,080-591-3251,,"489 Todd Avenue Lake Trevorhaven, PR 12436",24/06/1973,August 11 1989,Diabetes,Dr. Dixon,Cardiology,630 GBP,Unpaid,Leadway,1822037 USD,Insulin
+P040,THOMAS WILLIAMSON,male,38,,joshuagrahamexample.net,,14/06/1979,February 15 1992,Stroke,Dr. Phillips,Emergency,3320 USD,,,1618828 NGN,Paracetamol
+P056,,FEMALE,3,,,"796 Terry Park New Brandonview, MO 70143",27/09/1980,28/10/1990,Fracture,Dr. Randall,Orthopedics,471805 USD,Unpaid,Hygeia,1765673 NGN,Paracetamol
+P141, Christine Mccarthy DDS ,Male,,080-879-5140,,,10/8/2003,9/13/1971,Cancer,Dr. Robinson,Cardio,121349 GBP,,,1321311 NGN,Aspirin
+P406,Maria Warner,FEMALE,30,080-493-4908,,"4021 Christopher Wells South Angelicamouth, AR 79655",6/8/2009,August 17 1998,Cancer,Dr. Lewis,Orthopedics,783882 NGN,,,1206424 USD,Aspirin
+P004,jason frazier,male,,080-574-3241,ashleyfuller@example.org,,,21/11/1972,Typhoid,Dr. Willis,Cardio,959448 USD,Paid,Hygeia,1704112 USD,Amoxicillin
+P471,Robin Miller,Male,,8031546151,,,,6/13/1976,Stroke,Dr. Huber,Cardiology,325468 NGN,Pending,Hygeia,238893 USD,Ibuprofen
+P393,eric moore jr.,FEMALE,,7877743986,,,November 02 1990,,Cancer,Dr. Edwards,Cardio,1322 USD,Paid,Hygeia,766299 GBP,Amoxicillin
+P301,,FEMALE,3,,,,,,Fracture,Dr. Rodriguez,Emerg.,447471 GBP,Paid,,1240517 NGN,Aspirin
+P418,robert moreno,Male,,5086887884,,,14/06/2022,6/1/1991,Stroke,Dr. Cruz,ER,2608 NGN,Paid,,436792 NGN,Amoxicillin
+P242, Tina Burns ,Male,,8069600471,,,March 27 2021,23/06/2002,Cancer,Dr. Nicholson,Ortho,853037 NGN,,AXA,1755164 GBP,
+P165,Jonathan Hawkins,Male,,8053961302,stephen94@example.com,,February 26 1981,,Fracture,Dr. Jacobson,General,987 GBP,Paid,AXA,951293 GBP,Ibuprofen
+P466,,Male,2,,fholmes@example.com,,April 02 1978,,Typhoid,Dr. Buchanan,Cardio,495 USD,Unpaid,Hygeia,23600 USD,Paracetamol
+P333,VINCENT WEST,male,32,8042637613,joyce06@example.org,,July 13 1988,25/07/1990,Fracture,Dr. Harris,Orthopedics,1081 USD,Unpaid,Hygeia,1846741 USD,Paracetamol
+P308,Audrey Shaffer,,,8014233042,washingtonlindaexample.org,,,6/20/1994,,Dr. Hoover,Ortho,210228 GBP,Pending,Bupa,1878055 NGN,Ibuprofen
+P402, Travis Hutchinson ,FEMALE,,080-146-8751,rowlanddavid@example.com,"25223 Randall Forest Davidview, KY 22352",,15/10/2023,Typhod,Dr. Cooley,Cardiology,463043 NGN,Pending,AIICO,1029448 GBP,Amoxicillin
+P492, Robert Park ,male,,,,,30/07/1974,May 18 2020,Fracture,Dr. Campbell,Emerg.,4905 USD,Paid,AXA,682977 GBP,
+P169,Kristina Braun,Male,,080-474-4545,,,,May 25 2003,Flu,Dr. Aguilar,General,4551 USD,Pending,Bupa,973944 USD,Amoxicillin
+P359,James Lamb,,,,andrewthomasexample.org,,24/06/2021,February 10 1977,Diabetis,Dr. Castro,Neuro,2081 USD,,,659 USD,
+P459,,FEMALE,,4535261853,jennifermorgan@example.com,"277 Morrison Divide Apt. 175 Mooreville, NV 05772",5/12/1999,,Cancer,Dr. Schwartz,Ortho,471785 NGN,Unpaid,Bupa,1013676 GBP,Ibuprofen
+P235, Matthew Walker ,FEMALE,55,8057358400,,,8/4/1980,June 16 2006,Flu,Dr. Sawyer,Emergency,880415 NGN,Unpaid,AXA,1215031 NGN,
+P336,REBECCA HAMMOND,Female,34,312-457-4967x89840,,,25/10/1995,November 01 2007,Typhoid,Dr. Harris,Emerg.,4617 USD,Paid,,1728197 NGN,Aspirin
+P256,terri oconnell,,73,(259)633-9580,,"724 Kelly Ranch Suite 471 Yatesmouth, ND 77703",11/3/1995,,Cancer,Dr. Davidson,Emergency,94359 USD,Paid,,1464383 USD,Paracetamol
+P328,,Male,,(302)980-4121,,"95032 Nicholas Crest Victoriaport, GA 23824",23/08/1991,January 09 2021,Stroke,Dr. Woodard,Emerg.,3119 NGN,Unpaid,Leadway,1617938 NGN,Ibuprofen
+P241,Thomas Riley,,,,ugraham@example.com,,April 26 1978,,Stroke,Dr. Gallegos,Neuro,4508 NGN,Pending,AXA,1450371 USD,
+P095, William Cummings ,Male,37,,alyssarojas@example.net,,27/08/2001,5/10/1985,Cancer,Dr. Pacheco,ER,4466 USD,,AIICO,628174 NGN,Amoxicillin
+P361,Mario Harper Jr.,Male,,080-801-5702,kayla47example.net,"23116 Palmer Mission Apt. 834 Lake Patriciabury, ND 09247",,22/10/1980,Typhod,Dr. Smith,Cardiology,2370 NGN,Paid,Leadway,429442 USD,Aspirin
+P354, Erin Garcia ,male,,(851)432-9778x14150,lanegregory@example.net,,24/05/2020,April 27 2014,Diabetis,Dr. Kelly,General,467013 USD,Pending,AXA,1963740 NGN,Amoxicillin
+P495,Karen Howell,male,,,brownlori@example.net,,9/2/1974,September 07 1986,Cancer,Dr. Johnson,Neuro,3122 NGN,Unpaid,,362115 GBP,Amoxicillin
+P389,anita hamilton,FEMALE,,080-196-6430,,,11/30/1996,11/4/1975,Fracture,Dr. Harris,Ortho,545 NGN,,AIICO,1546652 NGN,Paracetamol
+P292,Andrea Buckley MD,,50,868.613.1435,,,March 06 2012,2/16/1972,Fracture,Dr. Rose,Emergency,817362 USD,Paid,AIICO,1300372 GBP,Paracetamol
+P295,Barbara Adams,Male,,080-270-5436,joe14@example.net,,October 19 1999,,Flu,Dr. Lee,Orthopedics,460971 USD,Unpaid,Leadway,414472 USD,Ibuprofen
+P138, Eric Perry ,,,080-781-4250,jon49@example.com,,,,,Dr. Rodriguez,Ortho,94379 GBP,,Bupa,336248 NGN,Insulin
+P055,Duane Wallace,male,,,josephthompson@example.net,,March 06 2012,May 20 2006,Cancer,Dr. Scott,Orthopedics,338678 USD,Pending,Bupa,830482 GBP,Amoxicillin
+P357, Mark Stewart ,Female,,8053703502,julietorresexample.com,,August 06 1977,,Cancer,Dr. Mcgee,Orthopedics,2093 GBP,Paid,Hygeia,63851 USD,Amoxicillin
+P223,RHONDA HENDRICKS,Male,,8095879328,boltonandrewexample.net,,10/10/2009,2/17/2026,Cancer,Dr. Tran,Cardiology,268 NGN,Paid,AXA,90088 NGN,Ibuprofen
+P083,,Female,,,,,November 07 1982,3/1/1986,,Dr. Myers,Emergency,4004 NGN,Pending,Hygeia,1845894 GBP,Amoxicillin
+P078,maria daniels,FEMALE,,,,,2/8/2019,August 29 2024,Diabetes,Dr. Moore,Emerg.,748472 NGN,,Bupa,1082007 NGN,Insulin
+P302,Allen Adkins,Male,34,(692)386-5788,,,January 05 2022,12/1/1996,Cancer,Dr. Martin,Orthopedics,2159 NGN,Paid,,1763290 USD,Paracetamol
+P279,ERIC MURPHY,,,8085512918,zacharyrobinsonexample.com,,11/30/1971,24/06/1972,Diabetis,Dr. Blair,ER,306248 NGN,Unpaid,Bupa,145589 NGN,Insulin
+P315, John Garcia ,Male,89,001-275-515-7482,,,6/2/2010,7/29/1975,Cancer,Dr. Lee,General,174425 USD,Paid,Hygeia,368557 GBP,Ibuprofen
+P399,MATTHEW BALDWIN,FEMALE,,766.459.8424,apetersonexample.org,"7390 Poole Crossing Apt. 851 Lake Melindastad, AL 73480",,,Cancer,Dr. Reed,Neuro,3240 USD,Paid,AIICO,172996 GBP,
+P200, Juan Bridges ,male,,080-243-2057,rhondatucker@example.net,"6990 Vicki Center Apt. 375 New Kevin, DC 70757",,1/4/1992,Flu,Dr. Cruz,Neuro,933833 GBP,Pending,Leadway,931682 GBP,Ibuprofen
+P228, Caitlin Holt ,male,24,8054484238,,,6/18/2019,August 25 1980,Typhod,Dr. Mitchell,Cardiology,856616 NGN,Unpaid,Hygeia,1112547 GBP,Ibuprofen
+P432,dennis robinson,Male,,8033926650,wzavalaexample.org,,28/09/2018,4/8/2021,Stroke,Dr. Hamilton,Orthopedics,322069 USD,,Hygeia,610002 USD,Ibuprofen
+P342,michael petty,male,53,001-508-328-3048x7396,yaguirreexample.net,,November 11 1985,9/25/1984,Malaria,Dr. Fernandez,Cardio,4829 USD,Pending,Bupa,522076 GBP,Paracetamol
+P189,ALYSSA RUIZ,male,,469.954.5671x9672,elizabethmiller@example.net,"08752 Travis Course Lake Sandraview, WV 21875",,,Fracture,Dr. Oliver,Cardio,669519 USD,Pending,AXA,594580 USD,Ibuprofen
+P461,,,28,642.617.8567x9483,jtanner@example.org,"23255 Jody Haven Apt. 517 Allenland, SD 61248",January 31 2012,7/16/2000,Typhoid,Dr. Dyer,Neuro,2172 GBP,Pending,,1201264 NGN,Aspirin
+P318, Ian Mejia ,FEMALE,,8063913037,,,9/21/2007,12/23/1983,Stroke,Dr. Wilson,Emerg.,620926 USD,,Bupa,1283377 GBP,Insulin
+P340,HUNTER CAMPBELL,Male,,080-826-7575,,,,6/6/1979,Flu,Dr. Cunningham,Emergency,330361 USD,Pending,Bupa,1013472 NGN,Aspirin
+P314,robert miller,,51,(848)348-1122,,,,1/29/1997,,Dr. Parker,Emergency,4885 GBP,Pending,Hygeia,1785026 USD,Insulin
+P370,KIMBERLY YOUNG,Male,26,267-553-0437x8092,bbranchexample.net,"PSC 7741, Box 7641 APO AP 62317",July 06 1984,June 26 1977,Fracture,Dr. Smith,Emergency,1932 GBP,Unpaid,Leadway,660418 GBP,
+P145,JENNIFER NELSON,FEMALE,,264.832.9458,,"8117 Obrien Expressway Apt. 123 New Christine, SD 71926",17/07/1993,,Diabetis,Dr. Bautista,Cardio,2510 USD,,AIICO,44901 GBP,Amoxicillin
+P220,mrs. melissa mathis dvm,,,001-833-858-1495x297,andrewjonesexample.com,"535 Cheryl Vista Ramosfurt, MS 52489",30/06/1977,,Fracture,Dr. Robinson,Emerg.,225 GBP,Pending,Hygeia,1600718 USD,Amoxicillin
+P096,STACY BRADY,FEMALE,,210.840.6841,,"0996 Lynn Drive Suite 759 Drakeport, AK 56897",,,,Dr. Powell,Emerg.,948041 NGN,Unpaid,AXA,340860 GBP,Aspirin
+P027,carolyn schmidt,Female,28,,meredith78@example.com,,October 02 1974,May 12 1971,Cancer,Dr. Burch,ER,1002 USD,Paid,,761282 NGN,Aspirin
+P116, Elizabeth Alvarez ,Male,26,080-934-8504,,,8/30/2012,1/1/2018,Malaria,Dr. Prince,Emerg.,15809 GBP,Unpaid,Leadway,806342 NGN,Insulin
+P284,Karen Carter,Male,42,832.473.4501x204,,,2/6/1975,,Fracture,Dr. Pacheco,Orthopedics,318410 USD,,Bupa,593774 GBP,Insulin
+P459, Matthew Carter ,FEMALE,,8083325456,kimberly47example.net,Unit 5483 Box 5063 DPO AE 24069,October 23 1981,28/12/1980,Diabetis,Dr. Jackson,Cardiology,836923 NGN,,AIICO,44484 NGN,Amoxicillin
+P054,MRS. CAITLIN WELLS,male,12,-1545,,"9578 Robert Streets Suite 735 South Rachael, WA 12101",27/06/2003,2/8/1979,Malaria,Dr. Johnson,Orthopedics,1246 NGN,Paid,,1299947 USD,Insulin
+P134,,,7,001-508-907-4997x4796,carriemooreexample.net,"75562 Salas Place New Davidport, VA 41949",3/17/1982,22/05/2007,Flu,Dr. Clayton,Orthopedics,530 NGN,Paid,Hygeia,1014564 USD,Ibuprofen
+P491,,,,881-493-1633,carlos04@example.net,,23/04/1991,5/29/1995,Flu,Dr. Delgado,Neuro,839485 GBP,,AXA,381707 GBP,Aspirin
+P398,,Male,,,,,,,Cancer,Dr. Cruz,General,3715 GBP,Unpaid,,757029 GBP,
+P456,Jeffrey Calderon,male,,8090507149,beth75example.net,,,16/05/1999,Diabetis,Dr. Pacheco,General,3613 NGN,Paid,AIICO,27443 GBP,Paracetamol
+P148,james benjamin,,,(984)415-4680x1601,clarkmark@example.net,,2/9/2017,,Flu,Dr. Davis,Emerg.,521414 NGN,,Leadway,1407687 GBP,Paracetamol
+P306,christian green,male,,8074209746,,,June 03 1971,11/13/1980,Malaria,Dr. Bailey,Emerg.,2779 USD,Paid,Hygeia,772514 USD,
+P191,robert smith ii,male,,(264)972-7817,,,22/08/2024,,Fracture,Dr. Barber,General,847 GBP,Pending,Hygeia,1522212 USD,Aspirin
+P485,Theresa Mitchell,Male,,001-208-749-6613x739,cnelson@example.com,,3/19/1987,8/9/2016,Diabetis,Dr. Johnston,Emergency,522139 USD,,,673785 GBP,
+P411,karen berg,FEMALE,,-8075,,,May 28 1991,12/12/1988,,Dr. Rios,Emerg.,301483 USD,,Bupa,504217 GBP,Insulin
+P131,LORI BURNS,Female,,,,"7243 Kristina Drive Suite 317 Lake Jenniferborough, VI 94648",,8/8/1977,Cancer,Dr. Greer,Emergency,527809 GBP,,Leadway,1885708 GBP,Aspirin
+P221,SHAWN BOWMAN,Male,52,080-393-7965,,"0096 William Prairie Pinedafurt, AR 51129",11/29/2024,12/31/2017,Fracture,Dr. Baldwin,General,4667 NGN,Pending,Leadway,1544730 NGN,Aspirin
+P388,evan kirk,,,5773002132,genevazquez@example.org,"449 Sean Forges Ashleymouth, KS 09957",August 07 2017,6/24/1988,Flu,Dr. Young,Emergency,3157 NGN,Pending,Leadway,1087197 GBP,
+P283,KATHERINE ROBERTS,Male,,8058612534,,,8/9/1977,5/19/1999,Typhoid,Dr. Campbell,Cardiology,339066 NGN,,AXA,1186144 NGN,Ibuprofen
+P181,,male,,8063224794,warneramy@example.com,"333 Melanie Passage Maryside, ME 82504",6/20/2016,,Stroke,Dr. Torres,Neuro,21991 USD,Paid,,1822314 NGN,Aspirin
+P009,PAMELA MILLER,,,8083643827,,"923 Cohen Neck Suite 076 Port Gary, AS 95349",,July 29 1995,Typhod,Dr. Richardson,Cardio,2243 USD,Paid,AXA,364065 NGN,Paracetamol
+P209,,Female,,+1-307-561-9212x731,,,July 22 1972,9/9/1986,,Dr. Moore,Emerg.,646261 GBP,Unpaid,Leadway,1692389 USD,Amoxicillin
+P489,justin fletcher,male,,809.886.8200x7732,,Unit 1336 Box 4432 DPO AA 05520,3/14/1980,27/03/2010,Malaria,Dr. Adams,Emerg.,2850 GBP,Pending,AXA,784655 GBP,Ibuprofen
+P140,Carly Johnson,male,47,080-703-3527,vrose@example.org,,7/19/1992,,Fracture,Dr. Brown,Cardio,1430 USD,,Hygeia,1081765 GBP,
+P328,Michael Love,male,,637-303-7137x569,henry83@example.com,"12083 Veronica Lodge Suite 629 West William, FM 98597",,,Stroke,Dr. Hart,Ortho,867631 USD,,Bupa,1518548 GBP,
+P008,,Male,,,diana09example.com,,5/20/2009,9/7/2017,Fracture,Dr. Crawford,Cardiology,121058 NGN,Unpaid,Hygeia,1212380 GBP,Aspirin
+P428,paul gilbert,Female,69,8050422878,,"1987 Robinson Villages West Colton, AS 24155",,2/10/2004,Stroke,Dr. Trevino,Orthopedics,712528 GBP,Pending,Leadway,1166653 GBP,
+P233,danny campbell,Male,,080-621-1746,tbarnett@example.net,,January 02 1986,24/09/1984,Typhod,Dr. Miller,Emergency,2912 GBP,Unpaid,AXA,940870 USD,Insulin
+P193,JOSHUA CLARK,Female,,,hglassexample.net,"531 Emily Expressway Johnsonborough, NH 62522",,4/22/1978,Malaria,Dr. Zavala,ER,3510 NGN,,AXA,1274877 GBP,Insulin
+P067,Zachary Garrison,male,,8026711067,,"PSC 6129, Box 3421 APO AA 03785",,,Diabetis,Dr. Reed,Orthopedics,225213 GBP,,Bupa,1422900 GBP,Amoxicillin
+P118,,Male,39,8046791610,,,,January 11 1990,Stroke,Dr. Martin,Emergency,583734 GBP,Unpaid,AIICO,333926 NGN,
+P195,COURTNEY SMITH,Female,,8095051715,robinsonsarahexample.net,"94211 Coleman Villages Lake Joelton, MN 32029",,4/24/2006,Malaria,Dr. Jones,General,607445 GBP,Unpaid,AXA,477467 GBP,Aspirin
+P099,brittany vasquez,Female,88,8041283122,,,5/9/2005,5/7/1982,Flu,Dr. Warren,Orthopedics,38723 USD,Paid,Hygeia,1886575 GBP,
+P412,Anthony Vega,FEMALE,,,,,26/10/1999,11/27/1992,Stroke,Dr. Ryan,Emerg.,3472 USD,,Leadway,1231881 GBP,Aspirin
+P398, Timothy Lopez ,Female,,8075182776,,,5/7/1985,,Flu,Dr. Mullen,Ortho,4555 NGN,,,1033444 USD,Paracetamol
+P498, Julia Neal ,Female,,,bmcintoshexample.com,,26/06/1985,January 17 1974,Flu,Dr. Zimmerman,Cardio,3490 GBP,Paid,,1536947 USD,Aspirin
+P201,Karen Soto,male,,8085719845,jkelleyexample.com,"25619 Aaron Mills Apt. 765 Williamsshire, WY 42409",2/2/2017,2/24/1992,Typhod,Dr. Contreras,Emergency,990754 GBP,,Leadway,600895 GBP,Ibuprofen
+P263,CHARLES BURNS,male,73,967-633-7541x405,,,22/02/1975,18/12/2022,Flu,Dr. Evans,Emerg.,2644 GBP,Paid,AXA,864049 NGN,Amoxicillin
+P334,Jacob Lambert,FEMALE,13,080-366-9921,sharvey@example.org,"94988 Jeremy Bridge Waltonview, MO 28600",21/11/1974,10/14/1992,,Dr. Cruz,Neuro,177204 NGN,Pending,AXA,1364064 NGN,Insulin
+P036,Richard Brown,Male,,795.734.3167,elliottmartin@example.org,"99234 Frost Parkways Huntshire, MN 53300",5/27/1989,8/27/2018,Malaria,Dr. Villarreal,ER,468351 USD,,Bupa,467388 USD,Paracetamol
+P496,Taylor Austin,,41,,allison62example.org,USS Kelly FPO AA 88531,December 12 2025,,Malaria,Dr. Parker,Cardiology,951167 NGN,,AIICO,1476939 GBP,Insulin
+P356,Catherine Myers,FEMALE,,080-682-3942,jennacook@example.org,,18/06/2007,December 21 1984,Fracture,Dr. Brooks,Neuro,103018 USD,Pending,Bupa,187736 GBP,Ibuprofen
+P311,dustin brown,Male,,,cynthiabowen@example.org,,8/8/1991,March 28 2010,Diabetes,Dr. Alexander,Ortho,2546 NGN,Paid,Leadway,745142 USD,
+P401,MICHELLE ROWE,Male,22,8094625679,christophergarrett@example.net,,February 15 2025,October 31 2024,Typhoid,Dr. Simpson,Cardiology,1142 USD,Paid,,1166323 GBP,Aspirin
+P218,Eric Rollins,Male,,8096796703,,,5/27/2000,June 20 2010,Stroke,Dr. Serrano,Cardiology,873727 GBP,Pending,Hygeia,1731631 USD,
+P439,Jake Richardson,male,26,,,,October 11 1986,,Typhod,Dr. Olson,Ortho,820894 NGN,Paid,AIICO,1426948 GBP,Paracetamol
+P395,,Male,40,,ayersteresa@example.net,,9/6/1987,January 23 2000,Stroke,Dr. Hernandez,Emergency,3020 USD,,Leadway,59740 NGN,Aspirin
+P246,ANGELA KENNEDY,,52,001-550-614-2160x73664,,,,,Fracture,Dr. Gay,Cardio,2476 NGN,Unpaid,Leadway,1983584 NGN,Ibuprofen
+P482,elizabeth smith,Male,36,080-479-5642,,,20/02/2003,6/13/2020,Typhoid,Dr. Garcia,Emerg.,95077 USD,Pending,,668722 NGN,Amoxicillin
+P146,MICHAEL PARSONS,male,50,8029679940,,"PSC 3840, Box 4163 APO AA 19392",12/6/2010,,,Dr. Cook,ER,3610 USD,,AIICO,58898 NGN,Paracetamol
+P249, Joseph Briggs ,male,,080-978-3977,robert56@example.com,,2/8/1972,20/03/1995,Stroke,Dr. Massey,Ortho,601848 USD,Unpaid,AXA,1766221 NGN,Amoxicillin
+P120,JOHN MONTOYA,Male,7,8047503209,paulguzmanexample.org,"2731 Wood Islands Jasonmouth, NM 70990",,,Diabetis,Dr. Montgomery,Emergency,4425 NGN,Unpaid,AXA,31098 USD,Ibuprofen
+P007, Ms. Patricia Nichols ,Male,,,,,11/9/1971,,Typhod,Dr. Brown,General,21499 USD,,AIICO,969042 USD,Paracetamol
+P062,micheal yu,male,,965.309.1161x8243,,,9/24/1996,20/10/1970,,Dr. Collins,Orthopedics,1274 USD,Unpaid,AXA,168390 USD,Amoxicillin
+P380,CHLOE ROBERTS,FEMALE,5,080-619-2548,,"PSC 8174, Box 2318 APO AP 60095",19/08/1982,,,Dr. Leblanc,Orthopedics,632319 NGN,,Leadway,1441745 USD,
+P205,amanda johnson,male,58,+1-978-703-6721x191,,"4974 Roberts Track Suite 092 Jordanshire, DE 10733",October 11 1997,20/02/2025,Typhoid,Dr. Fletcher,General,1996 NGN,Unpaid,,43027 GBP,Amoxicillin
+P039,,male,12,8090507098,,"9458 Thomas Unions Jacquelinemouth, ND 23727",,December 22 2019,Diabetis,Dr. Morgan,Orthopedics,250732 GBP,Paid,AIICO,1310731 GBP,Aspirin
+P176, Darlene Williams ,Male,36,8089170052,amy03@example.com,"3713 Foster Plains West Rachel, NY 92642",December 20 1970,April 15 1970,Cancer,Dr. Ward,Cardiology,3404 USD,Unpaid,Bupa,1686528 GBP,
+P091,brianna castro,FEMALE,,080-244-2702,fedwardsexample.org,,July 01 2005,March 31 1975,Fracture,Dr. Green,Orthopedics,272063 USD,,AXA,1048865 USD,Amoxicillin
+P187,Paula Collins,,,080-165-9703,,,May 28 1975,2/11/1981,Typhod,Dr. Elliott,Orthopedics,329292 NGN,Unpaid,AXA,1894086 GBP,Insulin
+P346,Dennis Wilson,Female,,+1-901-574-5598x4876,maureen25@example.net,,1/1/2000,2/18/1980,Cancer,Dr. Richards,Neuro,240153 USD,Unpaid,Bupa,1762873 GBP,
+P205,dawn weber,Female,24,(706)567-8514x21266,adrian09example.net,,3/22/2008,8/6/1984,Malaria,Dr. Holland,Cardiology,1149 USD,,,1319943 NGN,Amoxicillin
+P141, Margaret Perez ,male,,080-458-9676,,,20/11/1982,26/04/1979,Diabetis,Dr. Hubbard,Emerg.,2015 USD,Paid,AIICO,1209718 NGN,Amoxicillin
+P328, Brittany Sanchez ,FEMALE,,080-351-2598,alexis17@example.org,,28/09/1978,8/17/2020,Flu,Dr. Arnold,Emergency,4944 GBP,Pending,AXA,1198302 GBP,Insulin
+P036,,male,,8072251597,,"7978 Richard Trail Suite 033 East Seanburgh, NH 86948",,19/07/1995,,Dr. Duran,General,600951 NGN,Pending,AIICO,1635623 GBP,
+P495, Anthony Potts ,Male,,8046758886,wendy98@example.org,,,23/12/2015,,Dr. Hernandez,Cardio,339404 NGN,Unpaid,Hygeia,1109181 USD,Insulin
+P476,ANDREA REYNOLDS,Female,,8036100369,kennethjohnsonexample.net,"45401 Murray Turnpike Apt. 802 North Williamfort, TX 86954",1/11/1970,10/16/2025,Fracture,Dr. Phillips,Orthopedics,4989 GBP,Pending,,740782 GBP,Amoxicillin
+P095,richard williams,FEMALE,,,jacquelinesmith@example.com,,November 10 2006,9/10/2024,Diabetes,Dr. Pierce,General,2063 NGN,,Leadway,1762561 GBP,
+P098,cynthia morrow,,,5997920505,bennettsarahexample.org,"72597 Anna Corner Rileyland, VI 91753",,,Malaria,Dr. Glover,Cardio,107036 USD,Paid,,204604 USD,Ibuprofen
+P227, Susan Newman ,male,,080-518-4291,johnsonharry@example.org,,,23/11/2014,,Dr. Parrish,Ortho,614694 USD,Pending,Leadway,610457 USD,
+P001,,Male,,080-226-5056,,"472 Mosley Isle Troyshire, GA 57923",,1/2/2010,Diabetes,Dr. Horn,Cardiology,44767 USD,,AIICO,46156 GBP,Insulin
+P194,,male,20,080-205-2712,,,January 19 1983,,Diabetes,Dr. Montoya,Cardiology,3203 NGN,Unpaid,AXA,1322703 GBP,Aspirin
+P090,Elizabeth Stephens,Male,46,8045407935,fwood@example.com,"324 Sue Mountains Jenkinsberg, CT 81739",May 26 2011,11/8/2017,Stroke,Dr. French,Cardiology,2748 GBP,Unpaid,Bupa,392757 GBP,
+P188,David Mullins,FEMALE,67,080-642-2470,,,6/9/1983,16/01/1979,Diabetes,Dr. Garcia,Emergency,4163 NGN,Paid,Bupa,1695290 GBP,Paracetamol
+P216,STEVEN ALVAREZ,FEMALE,,001-425-847-6544,riverateresaexample.net,,,7/30/2014,Cancer,Dr. Davis,Ortho,158121 GBP,,Leadway,1429123 USD,Amoxicillin
+P135,JULIE YATES,,66,,,"47851 Michael Alley Mitchellchester, WY 10231",12/4/2016,31/03/1972,Typhoid,Dr. Aguilar,Orthopedics,402706 GBP,Pending,AIICO,743151 NGN,Paracetamol
+P124,sean williams,male,25,(965)782-7195,bethsteeleexample.net,"80082 White Point Apt. 522 Port Bryce, NH 35099",11/28/1990,February 26 1998,Cancer,Dr. Jones,Cardio,899400 USD,,Hygeia,789936 NGN,Aspirin
+P409, Robert Gibbs ,male,45,657.978.3473x9736,,"8153 Ashley Field North Susanside, ND 61066",6/6/2013,February 13 2013,Typhod,Dr. Bass,Cardiology,2376 NGN,,Bupa,1606551 NGN,Insulin
+P184,,male,62,,,,17/12/1988,January 19 1975,Flu,Dr. Garcia,ER,155 USD,Paid,AXA,1373983 USD,Aspirin
+P315,mr. tracy sanders,Male,,8087485766,,,,,Typhod,Dr. Doyle,Ortho,659 GBP,Pending,Hygeia,1487404 USD,Ibuprofen
+P326,jerry walker,Male,,603.244.8985x37080,jenniferhillexample.com,"5137 Edward Burg North Tiffany, ND 16274",September 06 2011,28/08/1970,Fracture,Dr. Miller,General,4676 NGN,Paid,Leadway,1072896 GBP,Aspirin
+P337,PRISCILLA LEWIS,male,90,8036292303,brittneyphillips@example.org,,,November 07 1980,Diabetes,Dr. Gomez,Cardiology,879505 GBP,Unpaid,Leadway,1843806 NGN,Aspirin
+P271,Randy Harris,Female,64,8099357234,grichardsonexample.net,,,11/30/2005,Stroke,Dr. Reynolds,Emergency,115642 GBP,Pending,,744862 NGN,Ibuprofen
+P352,CHARLOTTE BERRY,male,55,,,"46957 Amy Place Suite 342 New Troy, SC 79458",,,Flu,Dr. Collins,Cardio,1043 NGN,Paid,Hygeia,1226537 USD,Ibuprofen
+P101, Evan Hahn ,Female,86,(756)225-8400x600,ethanbuchanan@example.com,"169 Tracey Stravenue Suite 665 Wellsshire, WA 01979",May 05 1976,,Cancer,Dr. Garcia,Neuro,25209 NGN,Paid,Hygeia,1713892 GBP,Insulin
+P169,LAUREN GARCIA,male,19,,,,6/16/2012,July 26 1992,Fracture,Dr. Taylor,Neuro,119654 NGN,Unpaid,Bupa,1484003 GBP,Insulin
+P289,Vanessa Davis,FEMALE,64,080-952-8116,,,12/24/2016,,Typhod,Dr. Davis,Ortho,1731 NGN,Pending,Hygeia,99335 GBP,Insulin
+P120,,Male,,8025209628,adavisexample.org,"183 Hector Circle West Jorge, NE 10474",8/30/2003,13/01/1970,Fracture,Dr. Oliver,Orthopedics,704325 USD,Paid,,223223 USD,Aspirin
+P255,,,,080-224-8051,,,June 14 2019,28/04/1989,Diabetes,Dr. Waters,General,4860 GBP,Pending,,1990949 GBP,Insulin
+P494,Kevin Levy,FEMALE,62,473.966.1657x490,wdiazexample.net,"451 Eric Coves Apt. 708 South Benjaminburgh, WI 17363",5/26/2008,,Stroke,Dr. Johnson,Ortho,351183 USD,,AIICO,1549431 USD,Aspirin
+P323,gerald mcintyre dds,male,,080-518-1683,diazjoshuaexample.org,,June 01 2019,,,Dr. Lynn,ER,672680 USD,,AIICO,1883756 GBP,Ibuprofen
+P142,leslie smith,,,8028512280,,,April 29 2006,21/09/1997,Typhod,Dr. Barajas,Emergency,985040 NGN,Pending,Hygeia,778491 USD,
+P396,MISTY FLETCHER,,,,,,August 19 1978,,Diabetes,Dr. Baker,ER,2428 GBP,Pending,,475855 NGN,Paracetamol
+P125,,Female,,080-610-9052,,USNV Donaldson FPO AA 86792,31/12/1974,,Typhoid,Dr. Ferguson,General,2123 NGN,Pending,,1133388 GBP,Aspirin
+P297,ANGELA BLANKENSHIP,,,080-115-4267,,"05101 Tony Branch Suite 018 South Timothyville, PA 37248",1/23/2011,,,Dr. Wagner,Cardiology,360275 NGN,Pending,AXA,1706627 GBP,Ibuprofen
+P109,jennifer miller,,17,(228)631-7819x64872,,,,November 23 2002,Diabetis,Dr. Douglas,Cardio,344129 USD,,Bupa,1274946 NGN,Aspirin
+P218,HENRY MURRAY,Female,,8094644143,,,,,Malaria,Dr. Gilbert,Neuro,9520 NGN,Pending,AIICO,1231227 GBP,Amoxicillin
+P206,Erica Smith,,,533-267-2168,,,May 23 2017,,Typhod,Dr. Hall,Cardiology,3503 USD,Paid,Hygeia,335634 USD,Paracetamol
+P281,Tanya Hernandez,FEMALE,,(387)209-4873,wsmithexample.com,,2/22/1984,,Typhod,Dr. Mccann,General,1005 NGN,Unpaid,,894126 NGN,Insulin
+P103, Steven George ,Female,82,(233)766-8044x8149,matthew58@example.net,,,,Fracture,Dr. Rivers,Emerg.,3590 NGN,Pending,AIICO,1660903 GBP,
+P098,Jennifer Rollins,male,60,+1-511-438-9078x85927,jacksonbrandon@example.com,,February 09 2023,,Flu,Dr. Yoder,Emergency,4951 USD,Unpaid,AIICO,592220 GBP,Insulin
+P202,Darin Anderson,Male,,,martinezjohn@example.net,"42296 Sara Pass Apt. 365 Jessicabury, MD 14420",,April 03 2018,Diabetis,Dr. Thompson,Ortho,762579 GBP,Pending,AIICO,1372963 GBP,Ibuprofen
+P065,Ashley Reed,FEMALE,,8085240088,,"1935 Hahn Cape Apt. 271 Williamfort, TN 04652",5/5/2013,17/07/2005,Cancer,Dr. Gibson,General,2373 NGN,Paid,,1102217 NGN,Ibuprofen
+P192, Dawn Pace ,Male,,7003451961,morriswilliamexample.net,,,14/01/1974,Typhod,Dr. Henderson,General,768 GBP,,AXA,1571474 NGN,
+P170,,male,,522.963.5324x558,,,October 06 2007,7/16/1982,Fracture,Dr. Heath,Ortho,4883 USD,Pending,AXA,906721 NGN,Amoxicillin
+P231,MATTHEW MORRIS,male,,-4602,,"2379 Ramirez Groves Jesseburgh, IA 39811",8/23/1975,November 30 1985,,Dr. Torres,Ortho,660001 NGN,,AIICO,1833933 GBP,Paracetamol
+P037,Tony Matthews,Male,,8093676061,davidgonzalez@example.net,,October 11 1982,February 09 2003,Typhoid,Dr. Greene,General,4597 USD,Paid,Bupa,423005 USD,Amoxicillin
+P312,,male,68,,kathleen84@example.net,"60985 Brian Crescent Suite 946 Port Wendy, NM 49549",,7/19/2007,Typhoid,Dr. Miller,Emergency,873405 USD,,Leadway,1831039 GBP,Amoxicillin
+P469,RAYMOND MEDINA,FEMALE,,,,Unit 2567 Box 6351 DPO AA 83778,1/12/1981,8/29/2015,Diabetes,Dr. Anderson,Orthopedics,1944 GBP,Unpaid,AIICO,1295056 GBP,Amoxicillin
+P382,selena smith,Female,,8098280959,riceaustin@example.org,,26/03/1987,5/12/1971,Cancer,Dr. Herrera,Ortho,563438 NGN,,AXA,1988885 NGN,Ibuprofen
+P459,,FEMALE,12,(562)729-0583,,,8/24/1985,,Malaria,Dr. Clark,Cardiology,535 USD,Paid,Leadway,1107482 NGN,Paracetamol
+P312,,FEMALE,,080-399-5117,murphychristianexample.com,,,,Malaria,Dr. Taylor,Orthopedics,486500 USD,Pending,AXA,1884219 NGN,
+P038,,Female,,,,"PSC 1971, Box 9419 APO AE 85958",8/29/1999,December 03 2025,Flu,Dr. Woods,Orthopedics,1376 GBP,Unpaid,,1374967 GBP,Amoxicillin
+P173, Kayla Smith ,Male,,,,"80432 Michelle Center Apt. 525 Mendezside, MA 98429",4/27/2011,June 02 1976,Typhoid,Dr. Andrade,Emerg.,4873 NGN,Paid,Leadway,29977 NGN,Amoxicillin
+P168,,FEMALE,,(209)515-0164x97241,,,October 30 1994,January 02 1970,Stroke,Dr. Lewis,Cardiology,616 USD,Paid,,1597696 GBP,Amoxicillin
+P308,,Male,,8037482384,,,7/10/2019,15/02/2000,Typhoid,Dr. Rogers,Neuro,1173 GBP,,,1417507 GBP,Paracetamol
+P222, Thomas Rhodes ,,,,,,12/7/1995,3/11/1980,Stroke,Dr. Howard,General,333 NGN,,Bupa,229351 GBP,Ibuprofen
+P123, Austin Cochran ,male,,8012149393,,"61536 Amanda Unions Suite 761 Hicksborough, ME 35255",February 18 2021,30/12/1970,Diabetis,Dr. Bailey,Cardiology,897143 NGN,Pending,,183433 GBP,Insulin
+P395,michael taylor,,,001-469-556-3078,,,8/22/1990,,Typhoid,Dr. Ferrell,Cardiology,4917 USD,Unpaid,Leadway,214640 USD,Paracetamol
+P209, Brandon Rodriguez ,Female,68,080-115-1422,,,26/04/1991,2/9/2018,Diabetes,Dr. Shields,Cardio,493969 NGN,Paid,AIICO,675712 NGN,Paracetamol
+P057,DR. CHLOE HARPER,FEMALE,24,(508)285-8793,pbrooksexample.com,,,9/3/2004,,Dr. Dennis,ER,104595 GBP,Unpaid,AXA,1125769 USD,
+P020,Howard Wilson,Male,81,080-346-4067,,"306 Katherine Cove West Dylanbury, MH 34418",,28/08/2012,Flu,Dr. Anderson,Cardiology,977 GBP,Pending,Bupa,140545 NGN,
+P040, Joseph Perry ,FEMALE,60,,johnstonmegan@example.com,"95729 Travis Fork Lake Michael, GU 69034",August 11 1985,August 06 1971,Stroke,Dr. Stein,Cardiology,1842 GBP,Unpaid,AXA,34231 NGN,Ibuprofen
+P108,KARA YOUNG,Female,,080-906-7352,ihardinexample.com,"787 Marcus Field Suite 920 Port Lisafort, KS 27703",8/3/1972,,Diabetis,Dr. Martinez,Cardiology,2324 GBP,,AIICO,1999163 GBP,Paracetamol
+P239,,FEMALE,34,080-711-7051,,"47083 Schneider Shoal Port Tamarahaven, MO 01549",,1/20/2018,Typhod,Dr. Lawrence,Orthopedics,2371 GBP,,Hygeia,1314117 USD,Paracetamol
+P401,,,,,,Unit 0596 Box 7799 DPO AA 97851,,,Typhod,Dr. Anderson,Cardiology,941608 USD,Unpaid,,28042 USD,Insulin
+P155,MICHELE WILKINS,Male,73,,,"35584 Williams Freeway Suite 810 Port Adam, PW 44030",,1/18/2015,Malaria,Dr. Edwards,Cardiology,3736 USD,,Bupa,1505018 GBP,Amoxicillin
+P068,michael daniels,Male,,8060238490,nhaas@example.net,,,3/28/1970,Malaria,Dr. Hernandez,Cardiology,571066 NGN,,Bupa,74468 USD,Aspirin
+P389,DAVID FREEMAN,Male,,8067496940,,"287 Dorothy Mountain Apt. 525 Amyville, RI 87726",,,Diabetes,Dr. Wilson,Emergency,969 NGN,Pending,AXA,947104 NGN,Aspirin
+P494,christopher arroyo,Female,,080-215-4144,,,May 14 1970,September 23 1973,Stroke,Dr. Wolfe,General,155544 GBP,Unpaid,Bupa,726373 GBP,Ibuprofen
+P437,,Male,,,jonathanskinner@example.org,"282 Michelle Divide Apt. 214 Delgadoborough, MP 07151",May 12 1989,9/30/1984,Cancer,Dr. Young,ER,190983 GBP,Pending,AIICO,1092868 GBP,Amoxicillin
+P160,ANDREW NGUYEN,male,,,david82example.org,,2/5/1981,12/12/1993,Cancer,Dr. Murphy,Emerg.,737587 USD,Pending,AXA,1575821 GBP,Paracetamol
+P066,karen hampton,male,25,+1-527-874-7254x45541,kellylarryexample.org,"2535 Ruben Garden Apt. 316 Deniseton, WA 04710",17/01/2025,8/7/1975,Diabetes,Dr. Hanson,Cardio,27647 GBP,Pending,Hygeia,485081 GBP,Ibuprofen
+P160,ANNETTE HENDRICKS,Female,,080-579-5860,,"0477 Dawson Forge Carriemouth, MI 61206",,September 10 2010,Cancer,Dr. Villanueva,Cardio,2908 GBP,Paid,Leadway,1704125 USD,Paracetamol
+P389,KAREN PARKER,,,001-808-454-1142x622,,"2315 Green Street North Jennychester, SD 67696",,3/8/2018,Flu,Dr. Pierce,ER,187062 NGN,Paid,Leadway,1736079 NGN,Amoxicillin
+P493, Nancy Bradley ,Male,,,,,8/3/1971,6/10/2014,Diabetes,Dr. Howard,General,307347 GBP,Unpaid,Hygeia,170125 GBP,Amoxicillin
+P057,,,,080-286-4385,ana62example.net,"64377 Ryan River Suite 757 Collinsport, WY 33046",,23/10/2021,Diabetis,Dr. Russo,Emergency,44542 NGN,Unpaid,Leadway,730900 NGN,
+P041,Ms. Stephanie Christensen,Female,,8075441627,brittany07@example.org,,5/12/1992,26/04/2010,Cancer,Dr. Odonnell,ER,4757 NGN,,Bupa,1393563 USD,Insulin
+P117,Brad Campos,,,8082096440,,,3/3/1995,18/06/1999,Flu,Dr. Hansen,ER,2415 NGN,,Leadway,1095184 NGN,Paracetamol
+P448,,male,68,217-375-6170x26008,,"521 Cox Skyway Apt. 852 East Kristinland, NY 84184",April 04 1991,27/11/2023,Malaria,Dr. Mathis,Emergency,103335 GBP,,AXA,421919 GBP,Ibuprofen
+P016, Alan Anderson ,Male,,080-351-3419,michael94@example.com,,4/23/1979,December 02 2005,Flu,Dr. Gonzalez,ER,862406 USD,Paid,Hygeia,93653 NGN,Paracetamol
+P130,tanya martin,FEMALE,,-10270,reedchadexample.net,,,8/1/1999,Flu,Dr. Good,Cardiology,585412 GBP,Pending,AIICO,102664 USD,Ibuprofen
+P478,JESSICA HOGAN,Female,,8070385933,bhernandez@example.net,USNV Walker FPO AP 44294,24/05/2020,October 11 2019,Cancer,Dr. Morse,Ortho,1525 GBP,,AXA,1255989 GBP,Paracetamol
+P448, Robert Parker ,FEMALE,,080-542-2729,,,11/5/1983,2/22/1993,Diabetis,Dr. Martin,Orthopedics,1764 GBP,Unpaid,Hygeia,1189796 NGN,Paracetamol
+P358, Penny Pratt ,Female,,,qcole@example.org,,May 14 2003,,Typhod,Dr. Williams,Neuro,3183 USD,Pending,Bupa,233388 USD,Aspirin
+P416,michelle grant,Female,,8042663193,nathan52@example.net,"1459 Peterson Crescent Stevenburgh, GU 73454",November 26 2018,9/20/2019,Stroke,Dr. Allen,ER,2660 NGN,,Bupa,53610 USD,Paracetamol
+P406,RILEY YOUNG,Female,,392-422-0336x826,idavisexample.net,,August 23 2004,,Cancer,Dr. Chavez,Emerg.,1441 NGN,Unpaid,AXA,1459574 NGN,Ibuprofen
+P040,Tracy Morgan,male,,080-419-4972,stephen46example.org,,3/7/1992,12/16/2002,Diabetes,Dr. Ryan,Orthopedics,109741 USD,Paid,Hygeia,1117581 USD,Amoxicillin
+P292,,,,080-322-8662,ruben65@example.net,,8/10/1975,January 24 1977,Diabetes,Dr. Brown,Ortho,4440 GBP,Unpaid,Hygeia,1156343 USD,Aspirin
+P120, Adam Jackson ,Male,,080-588-7040,,,29/04/2025,,Diabetes,Dr. White,Emerg.,806926 USD,Paid,Hygeia,922069 NGN,Amoxicillin
+P153,ELIZABETH BOONE,FEMALE,,8032692368,,"1817 Phillip Summit Suite 675 New Lindsey, VA 63539",6/12/2021,8/20/2007,Typhoid,Dr. Espinoza,Cardiology,599182 USD,Paid,,613170 USD,Insulin
+P474, Jason Santos ,FEMALE,,+1-661-363-3185x829,,"891 Fisher Brook Port Dakota, AK 63717",September 20 2018,20/06/2003,Diabetis,Dr. Rodriguez,Cardio,41773 GBP,,Hygeia,388909 USD,Amoxicillin
+P345, Abigail Edwards ,Female,,8050060283,tsantanaexample.net,,September 16 1989,,Stroke,Dr. Martinez,Cardio,4033 NGN,Unpaid,Leadway,848547 NGN,Paracetamol
+P009,Brian Williams,,,569.759.2662,jimmysmithexample.com,,January 26 1995,12/9/2010,Stroke,Dr. Wilson,Ortho,9068 NGN,Paid,Bupa,1013677 USD,
+P239, Scott Gilbert ,male,,,,,November 25 1985,9/24/1989,Cancer,Dr. Lopez,Ortho,1965 NGN,Paid,,1299293 NGN,Insulin
+P409, Randy Hunter ,male,57,(285)220-6297x797,,,,July 15 1987,Flu,Dr. Rodriguez,Emergency,2734 GBP,Paid,AXA,77867 USD,Paracetamol
+P005,,male,,,,,10/27/2009,9/4/1997,Stroke,Dr. Miller,Emerg.,455162 USD,Paid,AIICO,1251872 USD,Ibuprofen
+P151,KENNETH LAWSON,Male,31,+1-249-901-3615x5613,jonathanwatson@example.net,,January 25 1971,April 08 2002,Fracture,Dr. Curry,Ortho,284072 GBP,Unpaid,AXA,267511 NGN,Aspirin
+P099,,FEMALE,,080-456-8160,flawrence@example.net,,,12/15/2011,Flu,Dr. Santos,Cardio,748588 GBP,,AIICO,1856183 USD,Aspirin
+P120,roy perry,FEMALE,,8030052702,nancy04@example.com,"133 Baxter Mountain East Mikayla, CT 59022",,30/06/1978,Typhod,Dr. Smith,Emergency,2527 NGN,,,756342 NGN,Paracetamol
+P451,george henderson,Male,,080-293-1457,,,March 17 2013,2/11/2016,Fracture,Dr. Young,Cardio,4473 USD,Pending,Leadway,1714681 GBP,Insulin
+P255,MICHAEL SWEENEY,Male,69,555.604.0741x4476,sandrabrooksexample.com,"71629 Brandon Mission East Theresa, LA 19210",9/10/1983,April 14 2024,Diabetes,Dr. Martin,Cardiology,236495 USD,Pending,Hygeia,1941530 GBP,Amoxicillin
+P222,Whitney Hamilton,,,080-849-6362,,,12/5/1991,1/8/1988,Flu,Dr. Tate,Emerg.,4320 NGN,Unpaid,AXA,244473 USD,
+P206,,Male,34,,,,July 31 1995,8/25/2007,Fracture,Dr. Murray,Neuro,961268 USD,,AIICO,226325 GBP,Amoxicillin
+P171,,FEMALE,,8091290698,munozmichaelexample.com,,June 21 1994,February 25 1983,Diabetis,Dr. Weaver,Ortho,531089 NGN,Pending,AIICO,1280533 USD,
+P165,craig henry,male,,,,"2186 Rice Common Michellebury, WA 54108",January 19 2020,,Stroke,Dr. Roberts,Emergency,725747 NGN,Paid,AIICO,997603 GBP,
+P287, Mr. Thomas Johnson ,male,,+1-723-806-1057x48490,,"77506 Charles Branch Apt. 443 West Johnshire, OR 39444",November 22 2004,26/01/2009,Diabetes,Dr. Hansen,Emergency,2545 USD,Paid,Bupa,1888809 GBP,
+P198,THOMAS LEONARD,FEMALE,,080-764-5869,turnerpatrick@example.net,"1510 Tina Drive East Michelle, PW 81514",1/13/1987,30/01/2014,Flu,Dr. Velasquez,ER,707077 USD,Paid,Leadway,576851 NGN,Amoxicillin
+P073, Hannah Griffin ,Male,,,victoria64example.org,Unit 1238 Box 7275 DPO AP 08349,May 06 1971,5/1/1999,Flu,Dr. Simon,Neuro,983992 GBP,,AIICO,970340 USD,Paracetamol
+P455,becky ortiz,Female,,8055468475,ramosjeremyexample.net,,August 22 1980,4/12/1982,Typhoid,Dr. Williams,Orthopedics,371360 USD,Pending,AXA,1261042 GBP,Aspirin
+P033,SONYA SINGH,,,,gary88@example.net,,21/10/1970,9/3/1987,Fracture,Dr. Thompson,Cardiology,1261 GBP,,Leadway,1708716 USD,Amoxicillin
+P332, Allison Rodriguez ,Male,,080-384-3815,,,October 30 1986,4/13/1978,Typhod,Dr. Reyes,Ortho,3380 GBP,Paid,AIICO,201457 GBP,Insulin
+P309, Elizabeth Dixon ,,,,,,May 20 2018,,Diabetis,Dr. Zamora,ER,1822 GBP,,Hygeia,525252 NGN,
+P153, Anita Flynn ,Male,,349.537.6962x235,katherinebarker@example.com,USNS Bowman FPO AE 51586,7/26/2013,March 28 1995,Diabetis,Dr. Lee,Emerg.,1019 USD,,Leadway,291557 NGN,Insulin
+P003,,,,8054923358,,,22/06/2010,12/6/2002,,Dr. Booth,ER,1797 USD,,Hygeia,599788 NGN,
+P399,WILLIAM REED,FEMALE,,8022707247,rodriguezalex@example.net,,,February 04 2008,Malaria,Dr. Proctor,General,760176 NGN,Unpaid,,1988516 GBP,Paracetamol
+P186,kevin williams,,22,080-312-6436,omatthewsexample.com,,,,,Dr. Cruz,General,1532 USD,Pending,AIICO,463431 USD,Insulin
+P141,Brian Combs,male,,8013032662,,"9498 Waters Prairie Suite 232 Davenporttown, PR 89547",1/2/2019,,Stroke,Dr. Gilbert,Cardiology,877290 USD,Unpaid,Leadway,181683 GBP,Paracetamol
+P065,TRACY LEON,Male,,8098662767,jameswarren@example.net,"3341 Jasmine Route Suite 078 Williamsville, CA 04832",17/06/1997,,Diabetes,Dr. Cruz,ER,397455 USD,,AXA,131527 USD,Ibuprofen
+P287,RICHARD JOHNSON,FEMALE,,,joseph25@example.org,,1/6/1982,16/03/2026,Typhoid,Dr. Wright,Cardio,3944 NGN,,Leadway,222348 USD,Aspirin
+P452,CHRISTOPHER MORRIS,,,,ksanchezexample.net,"2152 Jonathan Circles Apt. 627 Jonesburgh, SD 34781",5/5/1995,8/9/1982,Typhod,Dr. Jennings,Neuro,2486 GBP,,AXA,1706353 USD,Amoxicillin
+P363,Kristi Scott,Male,,,nsmithexample.net,,December 18 1994,9/5/2025,Diabetis,Dr. Martinez,Emergency,856009 USD,,Bupa,1997463 USD,Aspirin
+P393,TAMMY CARTER,male,,080-279-9976,,"77815 Friedman Centers Apt. 638 Davisbury, WY 41707",19/12/1970,15/12/2017,,Dr. Valdez,Ortho,2171 USD,,Leadway,1415114 USD,Ibuprofen
+P457, George Williams ,male,34,8062898982,michael60example.com,,July 28 2012,,Stroke,Dr. Mathis,Cardiology,3544 NGN,Pending,AIICO,418219 GBP,Ibuprofen
+P035,Miguel Gould,,,677-747-8945x243,,,October 22 2014,,Typhod,Dr. Marks,Ortho,304350 USD,Unpaid,Bupa,237963 NGN,Ibuprofen
+P043, Mr. David Tyler ,Female,,080-450-3387,,,,,Fracture,Dr. Davis,Cardio,134 GBP,Unpaid,Hygeia,1483952 NGN,Paracetamol
+P070,,male,14,(590)287-7416x66162,,,December 18 2024,7/20/1984,Stroke,Dr. Wilson,Cardio,974653 NGN,,Bupa,1980058 GBP,Ibuprofen
+P199,Erik Rogers,FEMALE,30,080-651-9991,,,,5/6/1988,Diabetes,Dr. Johnson,Cardiology,1434 USD,,,308914 NGN,Paracetamol
+P398,KEVIN FITZGERALD,Female,67,080-203-3654,carlos37@example.org,,,,Flu,Dr. Lee,Cardiology,3697 GBP,Unpaid,,1687389 NGN,
+P373,Jeffrey Flynn,male,84,,,,21/08/2020,2/1/2023,,Dr. Perez,General,2694 USD,Pending,,1603618 USD,
+P486,Kimberly Wilkins,Male,,080-430-6489,xstone@example.net,"983 Holly Canyon Murrayborough, UT 38163",6/28/1991,8/12/2018,Stroke,Dr. Osborne,Ortho,850 NGN,Unpaid,,13449 GBP,
+P254, Michael Dawson ,Male,29,872-403-2473x42319,reyesdavid@example.com,,,,Cancer,Dr. Wallace,Emergency,956382 NGN,Pending,AIICO,918190 GBP,Insulin
+P062, Hannah Howard ,,,080-509-7594,,,,1/24/2003,Flu,Dr. Reese,ER,329788 NGN,Pending,Leadway,640454 NGN,Ibuprofen
+P187,MICHAEL HUBBARD,Female,,(219)451-1695,xalexanderexample.net,"9292 Mendez Landing Katherineshire, NM 63839",September 22 1971,6/4/1975,Diabetes,Dr. Wagner,Cardio,2615 USD,Pending,Hygeia,718651 NGN,Aspirin
+P240, Lisa Estes ,Male,,001-686-635-9676x631,,"631 Lowe Meadows East Jillburgh, NV 20866",1/21/1993,May 09 1974,,Dr. Lucas,ER,831563 GBP,Unpaid,Bupa,729947 USD,Ibuprofen
+P259,,FEMALE,,204.469.5331,,,June 14 1989,8/6/2004,Diabetes,Dr. Wilson,Ortho,697746 NGN,Pending,,271011 GBP,Paracetamol
+P103,DAVID SAWYER,male,,(602)477-9934x045,amy77@example.org,,,,Typhoid,Dr. Salas,Cardiology,2796 GBP,,Bupa,438335 GBP,Amoxicillin
+P403, Lisa Harmon ,Male,66,080-311-8930,rhodesloriexample.net,"61322 Cooper Shores Carrtown, CA 43997",25/06/2001,1/12/2026,Malaria,Dr. Martinez,Emergency,3999 USD,,Hygeia,134247 NGN,
+P454,robert pacheco,FEMALE,,,,"62714 James Ferry Apt. 310 Gomezchester, WY 97577",March 01 2002,May 17 1990,Diabetes,Dr. Kennedy,Cardio,4649 GBP,,AXA,1312659 USD,Aspirin
+P078,Zachary Carter,,61,001-891-439-0501x75401,erobbins@example.org,,,,Stroke,Dr. Rodriguez,ER,745728 GBP,Paid,Bupa,150958 NGN,Ibuprofen
+P233,,FEMALE,,(437)973-0940,romerojennifer@example.org,,,11/3/2014,Typhod,Dr. Foster,Neuro,820 GBP,Pending,Hygeia,1893146 GBP,Aspirin
+P387,devon aguilar,male,,,,"013 Hall Parkways Port Paulland, MT 93137",June 09 1996,4/7/1983,Typhod,Dr. Lucas,Neuro,459776 GBP,Pending,Leadway,612446 GBP,Ibuprofen
+P225,ERIC CORDOVA,male,,,jameshunterexample.net,,March 12 1996,22/01/2002,Typhod,Dr. Murphy,General,868086 GBP,Pending,AIICO,1714717 GBP,Ibuprofen
+P043,Victoria King,,47,,,"83306 Callahan Extension Port Allen, MS 54880",29/08/1979,12/26/1983,Flu,Dr. Good,Neuro,244 USD,Unpaid,,495824 NGN,Ibuprofen
+P426,,FEMALE,64,519-754-1313x5104,,,,1/4/1984,Diabetis,Dr. Shepherd,Ortho,145754 NGN,Paid,Leadway,942490 NGN,
+P158,DONALD CRANE,Male,,080-415-7557,,Unit 8912 Box 9014 DPO AP 12528,June 07 2020,3/3/2005,Stroke,Dr. Nielsen,Cardio,1556 GBP,Unpaid,AXA,617987 USD,Paracetamol
+P338,paul livingston,,53,080-681-1618,,USCGC Knight FPO AE 95118,30/08/2007,,Diabetes,Dr. Mckenzie,Neuro,3063 USD,,Leadway,493016 NGN,Ibuprofen
+P408,Anne Walker,FEMALE,6,,john14example.net,"663 Diana Branch Apt. 639 South Albert, CO 66891",November 19 2003,2/8/1984,Typhod,Dr. Morales,General,528279 USD,,AXA,299872 USD,Aspirin
+P121,Danielle Saunders,Female,,(821)427-9115x129,usmith@example.org,,31/07/1987,May 08 1981,Fracture,Dr. Anderson,Cardiology,3718 GBP,Pending,Leadway,1822503 NGN,
+P154, Chad Edwards ,Female,36,001-754-967-1135x140,,,11/2/2015,7/14/1996,,Dr. Mann,Neuro,220450 USD,Pending,Leadway,299668 GBP,Ibuprofen
+P217, Jacob Schneider ,,,,stevesmith@example.org,,10/4/1995,May 06 1970,Flu,Dr. Wheeler,General,4741 USD,,Leadway,1860783 NGN,Aspirin
+P486,ELIZABETH BROWN,Female,49,(703)965-3671x594,,,11/11/1992,4/17/2001,Cancer,Dr. Harper,ER,45005 GBP,Paid,Bupa,1383908 USD,Amoxicillin
+P086, Valerie Martin ,Male,76,080-464-5215,,,,12/14/1998,,Dr. Dixon,Cardio,4265 USD,Paid,AXA,1221527 USD,Ibuprofen
+P457,Lauren Singh,Female,,584.341.0603x765,,,6/5/2021,March 31 2023,Fracture,Dr. Williams,Neuro,215239 USD,,AIICO,922179 NGN,
+P408,Sara Moore,Female,,080-357-3077,gregory29@example.com,,7/22/2007,6/10/1971,Cancer,Dr. Kaiser,General,637577 USD,,Bupa,492439 NGN,Insulin
+P175,KAYLA HAMMOND,FEMALE,,,michaelchavezexample.net,"3519 Jared Rapids East Emily, HI 20920",January 29 2012,,Stroke,Dr. Lyons,Emerg.,188025 NGN,Unpaid,Bupa,1524962 USD,Insulin
+P398,natalie andrews,male,39,080-441-1560,levi91example.org,,,,Typhoid,Dr. Todd,General,3939 USD,Pending,Bupa,601648 NGN,Amoxicillin
+P023,samuel clark,Male,,886-850-7780x816,jaclyndavisexample.net,"954 Gordon Roads Georgechester, GU 84932",3/10/1991,,Diabetes,Dr. Vega,Emerg.,397716 NGN,Unpaid,AIICO,330932 GBP,Insulin
+P110,Jennifer Jordan,,,263-865-7890,russellryan@example.net,,November 15 2023,August 10 1970,Typhod,Dr. Banks,Emergency,177295 GBP,Unpaid,AXA,500693 NGN,Aspirin
+P201,jesse castillo,male,,001-264-656-9099x390,,,,,Flu,Dr. Bradford,Emerg.,912442 USD,,Bupa,412659 GBP,Ibuprofen
+P109, Lori Peters ,male,,080-854-7095,henrycharles@example.com,"63606 James Hill Suite 400 East Justinport, TX 18708",January 13 2010,12/1/1988,Stroke,Dr. Keller,Neuro,4666 NGN,Paid,Bupa,674802 GBP,
+P364,regina koch,Female,,,ikeller@example.org,,May 12 1993,8/5/2011,Cancer,Dr. Mendez,Cardio,2775 USD,,AIICO,1901909 USD,Aspirin
+P264, Rebecca Carrillo ,FEMALE,90,,herrerarobert@example.com,,1/3/2024,3/10/1970,,Dr. Murphy,Cardio,59156 USD,,,227029 USD,
+P018,mark lee,,,(877)888-5541x8726,daviesjenniferexample.com,"816 Elliott Villages Suite 390 Robertmouth, CT 69162",28/09/1970,,Malaria,Dr. Crawford,Orthopedics,530778 NGN,Pending,Bupa,1613403 USD,Insulin
+P227,SIERRA WERNER,Female,,080-348-4501,ballardangelaexample.com,,8/27/2017,,Diabetis,Dr. Pruitt,ER,407465 USD,Unpaid,Hygeia,1523562 USD,
+P301,BRUCE GOMEZ,male,,8073338902,harold25@example.net,,29/06/1985,,Cancer,Dr. Simpson,Neuro,4658 GBP,Paid,,125599 USD,
+P192,FRANCES GIBSON,,,,jesse38example.org,"4844 Bender Ferry Apt. 966 Brooksport, WV 84246",22/10/2025,18/01/2014,Cancer,Dr. Brooks,Cardiology,568018 GBP,Paid,Bupa,899598 NGN,Amoxicillin
+P120,,FEMALE,,080-663-3666,,,9/16/1977,March 13 1978,Typhoid,Dr. Anderson,ER,811522 USD,,,1704382 USD,Amoxicillin
+P061,,,,080-256-8063,kimberly56example.net,,1/21/1976,March 30 1987,Typhod,Dr. Kelly,Emergency,500231 NGN,Paid,Leadway,345847 USD,Ibuprofen
+P491,,,,+1-337-814-3553x837,michaeljones@example.org,,2/8/2008,August 21 2001,Stroke,Dr. Jensen,Emergency,370957 NGN,Paid,AIICO,1524307 NGN,Insulin
+P256,,male,85,8045611485,,,17/05/1997,12/2/2011,Malaria,Dr. Jensen,ER,62328 USD,Paid,Hygeia,501841 GBP,
+P380,Cheyenne Barnes,FEMALE,,8075187800,,"563 Gordon Prairie West Sabrinaland, UT 19164",September 13 1981,,Stroke,Dr. Cook,Ortho,198238 GBP,,AXA,1840718 USD,Amoxicillin
+P370,Margaret Murphy,Male,,,,"6652 Nash Meadows Apt. 897 Dennischester, VT 33585",February 08 1982,3/28/1998,Typhoid,Dr. Branch,Emergency,137917 GBP,Paid,AXA,955528 GBP,
+P394,,,,,susanscott@example.com,,21/01/2002,,Malaria,Dr. Gilmore,Emergency,161520 USD,Pending,Leadway,276570 NGN,Aspirin
+P218,,FEMALE,33,,amy08@example.org,"07597 Mejia Trail Suite 342 Perryborough, MN 79028",5/11/1997,8/23/2019,,Dr. Kennedy,ER,657284 USD,Paid,Hygeia,517981 NGN,Amoxicillin
+P223, Ashley Johnson ,,,8011597650,,,8/10/2012,January 08 1972,Cancer,Dr. Wolf,Cardio,1397 NGN,Pending,,596489 USD,Paracetamol
+P115, Amanda Luna ,Female,,080-117-1375,,,May 20 2013,8/28/2000,Typhod,Dr. Walker,General,962786 GBP,Paid,AIICO,669489 NGN,Amoxicillin
+P402, Laura Butler ,Male,,382-682-7630x394,,,September 02 1970,October 05 1995,Malaria,Dr. Preston,Emerg.,850581 USD,Pending,AIICO,1183176 GBP,Paracetamol
+P035,,male,51,,,,13/01/1994,26/02/2013,Diabetes,Dr. Butler,ER,2396 NGN,Pending,AXA,1715870 GBP,
+P463,,,,8086388570,,"91914 James Estate West Nathanielshire, IL 14692",November 08 1973,February 12 1996,Fracture,Dr. Bryant,Cardio,4217 GBP,Paid,Bupa,530017 NGN,Paracetamol
+P107,Dr. Logan Jones,Female,,080-753-1259,larakyle@example.net,,March 17 1979,8/7/1993,Fracture,Dr. Sullivan,ER,598767 USD,,Hygeia,444907 NGN,
+P351,,Female,,812.262.9495x7443,,"PSC 4186, Box 4608 APO AP 79768",15/07/1970,,Flu,Dr. Wade,Cardiology,188156 GBP,Pending,AIICO,885025 USD,Paracetamol
+P458,,,,,rachelharris@example.org,"825 James Loaf Wilsonfort, NE 16476",18/12/1989,September 04 1977,Malaria,Dr. Carlson,Ortho,1324 USD,,Hygeia,1779169 GBP,Ibuprofen
+P017,VERONICA LEE,male,,080-755-9459,,,12/18/2025,7/18/2025,Flu,Dr. Clayton,Neuro,227781 GBP,Paid,AIICO,1758991 NGN,Insulin
+P496,ZACHARY WRIGHT,Female,,,,"456 George Pines Sotomouth, OR 78895",8/11/2025,9/10/1985,Diabetis,Dr. Kirk,ER,870634 GBP,Unpaid,Hygeia,64981 USD,Amoxicillin
+P071,ANTHONY KENT,FEMALE,,,ajohnsonexample.net,,21/10/2013,2/14/1994,Stroke,Dr. Lyons,Orthopedics,4691 NGN,Paid,Hygeia,1837816 USD,
+P402,jeffrey shaw,male,,001-926-520-1801x8865,,"5651 Olivia Centers East Jeffreyland, GA 47243",October 05 1977,6/11/1973,Diabetes,Dr. Chavez,Cardio,605690 GBP,Paid,Hygeia,452876 USD,
+P412,,Male,20,8045531893,heather84@example.org,,April 12 2016,25/06/1999,,Dr. Paul,ER,1313 NGN,Unpaid,Bupa,826511 GBP,Aspirin
+P370,Tina Thomas,,,080-867-4040,,,4/10/1989,,Typhoid,Dr. Garrison,Cardio,250556 USD,Paid,Hygeia,460028 GBP,
+P341,phillip armstrong,FEMALE,,,ericpierce@example.org,,6/7/1984,January 16 2025,Diabetis,Dr. Price,Ortho,3524 GBP,Pending,Leadway,980165 GBP,
+P424,Samuel Sexton,Male,59,001-796-422-6865x30692,jimmylawrence@example.com,,24/07/1982,7/28/2010,Stroke,Dr. Clark,Cardiology,817173 GBP,,AIICO,1045080 USD,Amoxicillin
+P328, Jessica Watson ,male,34,001-828-973-3818,austinswansonexample.net,"6656 Tony Plaza West Jamestown, VT 98487",11/13/2008,6/21/2010,Cancer,Dr. Bell,Ortho,352608 GBP,Pending,,311932 NGN,
+P306,mary barnes,male,42,080-248-5978,blewisexample.com,,11/7/2014,November 07 1984,Stroke,Dr. Thompson,Cardiology,1464 NGN,Paid,AIICO,1906845 NGN,Insulin
+P229,,Female,,,,,,11/4/1980,Cancer,Dr. Baker,Emerg.,899015 USD,,Hygeia,1759314 USD,
+P120, Samantha Krause ,Female,,324-511-3970x370,,,,28/03/1994,Flu,Dr. Contreras,Neuro,4111 NGN,,Bupa,610108 GBP,Aspirin
+P002,melanie clark dds,Female,30,080-794-1789,gregory94example.net,,,,Flu,Dr. Leonard,Neuro,177867 USD,Paid,AXA,64675 USD,Ibuprofen
+P100,Susan Hardy,Male,,080-523-3826,caitlinjackson@example.org,,29/05/1999,March 05 2012,Cancer,Dr. Alexander,General,983462 NGN,Paid,AIICO,587276 NGN,Aspirin
+P149,Dennis Mcclain,,,,,,11/2/2024,21/07/2002,Diabetes,Dr. Hanson,Ortho,362517 NGN,Paid,AIICO,785862 NGN,Paracetamol
+P159,,,20,865.785.5668,johnsoncory@example.org,,10/11/1993,4/8/2019,Diabetes,Dr. Miller,Emergency,197 NGN,Paid,Bupa,957239 USD,Aspirin
+P377,,,49,,pcookeexample.net,"3946 Franklin Dam Apt. 516 Lake Christianport, MN 76242",10/16/1979,,Cancer,Dr. Lewis,Cardiology,379997 NGN,Unpaid,,1479667 GBP,Insulin
+P299,MICHELLE ANDERSON,male,,,kevinmartinezexample.com,"950 Perez Vista New Sharonland, LA 58158",,3/31/1970,Diabetes,Dr. Steele,General,311555 GBP,,,353547 NGN,Paracetamol
+P065,SARA WILLIAMS,Male,,080-578-3939,,,December 17 2001,September 01 2022,Malaria,Dr. Ford,Ortho,150390 NGN,Paid,AXA,1919004 USD,Ibuprofen
+P067,,male,,,,,9/25/2020,,Diabetis,Dr. Warner,Orthopedics,1528 USD,Pending,Bupa,831503 NGN,Aspirin
+P084,BIANCA GONZALEZ,FEMALE,,8066087449,njackson@example.net,,18/09/1996,16/01/2009,Diabetis,Dr. Harrison,Emergency,1357 USD,Pending,Leadway,1161925 USD,Insulin
+P183, Mary Schmitt ,male,,8095220645,joshua94example.net,,25/02/1971,,Diabetis,Dr. Ferguson,Cardiology,206345 USD,Paid,AXA,526793 GBP,Aspirin
+P183,,,,080-916-8027,,,7/6/2009,October 05 2025,Diabetis,Dr. Davis,Cardiology,2663 USD,,AXA,1786199 GBP,Insulin
+P092, Jenny Maldonado ,Male,,,samuel21example.net,,24/08/2025,,Fracture,Dr. Rose,Emergency,1619 NGN,Unpaid,AIICO,1621253 USD,Aspirin
+P421,,Male,,,,,17/08/2008,,Fracture,Dr. Miller,Cardiology,746 NGN,Paid,,357834 NGN,Insulin
+P210, Paul Hinton ,Female,3,,salinasmichelleexample.net,"92481 Jasmine Pike Petersonborough, NM 85003",4/5/1984,,Diabetes,Dr. Ferguson,Emerg.,716932 NGN,Paid,Bupa,1058663 GBP,Aspirin
+P385, Rebecca Richardson ,,8,080-566-1606,hallelizabeth@example.net,,January 14 2025,31/03/1977,Malaria,Dr. Gibbs,Emergency,275939 GBP,Pending,Hygeia,489036 USD,Aspirin
+P380,,Female,,8088683678,,"154 Lindsey Ridge Cruzmouth, IL 76715",March 05 1983,6/8/1995,Diabetis,Dr. Weber,Neuro,231039 USD,Pending,,1986221 GBP,
+P242,Cameron Anderson,male,,080-734-7232,tespinozaexample.net,,8/2/1991,,Fracture,Dr. Ortiz,Ortho,807208 GBP,Paid,,1249179 GBP,Amoxicillin
+P108,,Male,,,millertoddexample.org,"273 Hopkins Road Suite 371 Joshuaberg, MD 60440",August 01 1973,12/1/2014,Typhod,Dr. Turner,ER,553888 NGN,Unpaid,Hygeia,595230 USD,Amoxicillin
+P308, Christopher Bruce ,,,080-229-8629,,,September 15 1972,31/05/1986,,Dr. Williams,General,919375 GBP,,Bupa,583717 GBP,Amoxicillin
+P112,,FEMALE,90,001-399-287-5678x284,williamsjessica@example.com,,8/24/2013,10/12/2017,Typhod,Dr. Griffin,Cardio,4500 GBP,Unpaid,Bupa,975198 GBP,Insulin
+P470,alyssa johnson,FEMALE,,,,,,,Diabetis,Dr. Hess,Cardio,4905 GBP,Pending,Hygeia,949513 NGN,Amoxicillin
+P168,kara lee,male,,080-386-7713,,,5/11/1987,August 17 1971,Stroke,Dr. Smith,Orthopedics,4900 NGN,Unpaid,Leadway,395721 GBP,Amoxicillin
+P220,CRAIG WHITAKER,Female,,8090527284,williammcleanexample.org,"28802 Erin Ford North Williamhaven, IL 47961",5/23/2011,,Stroke,Dr. Robinson,General,416606 GBP,Unpaid,Hygeia,1436676 GBP,Aspirin
+P373,jenna rogers,FEMALE,34,001-799-572-2245,katrinaterryexample.com,,18/04/2000,11/8/1990,Typhoid,Dr. Ortega,Ortho,239731 USD,Pending,AIICO,1155940 GBP,Aspirin
+P104,NATALIE HANCOCK,FEMALE,,646.695.6412x335,allisonpughexample.net,"99627 Rachael Lights Apt. 138 Jacksonmouth, ID 29616",1/12/2024,,Typhod,Dr. Collier,Orthopedics,471079 USD,Pending,Hygeia,1477195 NGN,Amoxicillin
+P009,Cody Harrison,FEMALE,13,080-175-7737,,,October 14 1981,15/01/2025,Flu,Dr. Andersen,Ortho,600 GBP,Unpaid,Leadway,819059 NGN,Ibuprofen
+P008,,,,8071816183,andersenstanleyexample.org,,6/8/2023,28/11/2025,Diabetes,Dr. Powell,Cardiology,245018 NGN,Paid,Leadway,1139119 NGN,Aspirin
+P208,,Male,,8069152349,april31example.org,,5/5/2016,December 24 1996,Fracture,Dr. Jefferson,Ortho,185326 USD,Unpaid,Bupa,826183 USD,Amoxicillin
+P037,,Male,46,,,,12/30/1986,,Stroke,Dr. Ortega,Cardiology,503111 USD,Unpaid,AXA,158929 USD,Ibuprofen
+P461,Joshua Butler,,,8076977532,pottsallisonexample.org,"24177 Thompson Cliff West Lydia, AK 07563",October 22 1999,9/8/1990,Diabetes,Dr. Schmidt,Orthopedics,554628 NGN,Pending,AIICO,756504 USD,Amoxicillin
+P382,Alvin Burke,Female,,,leekennethexample.net,,17/03/2009,9/10/1987,Typhoid,Dr. Rodriguez,Ortho,1320 USD,Unpaid,,1063327 USD,Aspirin
+P022,Anthony Moore,Female,,560.276.3494x77442,millerjeffreyexample.org,,,4/27/1984,Flu,Dr. Hartman,ER,2107 GBP,Paid,Hygeia,1886235 NGN,Ibuprofen
+P386, Paula Thomas ,,25,001-749-815-8297,hsmith@example.com,,10/13/1991,3/4/1975,Cancer,Dr. Stanton,Cardio,479747 USD,,Hygeia,1530994 GBP,Amoxicillin
+P475, Nicole Weaver ,Female,,080-980-2910,,,,10/6/1971,Flu,Dr. Marshall,Ortho,255157 NGN,Unpaid,AIICO,875835 NGN,Insulin
+P141,,Female,,8014411172,,"3755 Hudson Shore East Ronald, MP 17504",11/10/2000,,Cancer,Dr. Chavez,ER,4849 USD,Pending,Bupa,181470 USD,Ibuprofen
+P416,ALEXANDRIA SHARP,Female,87,080-213-7234,,"4824 Diana Route Apt. 500 South Meganville, FL 40521",24/05/1995,,Typhoid,Dr. Anderson,Neuro,890092 GBP,Pending,,1082550 NGN,Insulin
+P395,Laura Valdez,Female,,8052046760,huffzachary@example.net,USS Miller FPO AA 88089,4/5/1987,,Cancer,Dr. Vasquez,Orthopedics,434663 GBP,,Bupa,1910612 USD,Aspirin
+P319,,Female,,(322)372-4890x32685,,,4/15/2006,March 28 2024,Typhoid,Dr. Brown,General,3251 NGN,Unpaid,AIICO,1926135 USD,Paracetamol
+P312,NATHAN SHAW,Female,,(700)212-5522,xcookeexample.org,,10/7/1981,13/11/1981,Malaria,Dr. Martin,Emergency,2957 GBP,Paid,AXA,951424 USD,Aspirin
+P004,Dr. Gregory Wood,FEMALE,,,,"083 Christopher Lodge Suite 002 Lake Brianna, NM 09462",12/9/2001,,Typhod,Dr. Mitchell,Ortho,655341 USD,Paid,Bupa,1601799 USD,Insulin
+P049,JOSHUA WHITE,Female,59,8072955648,,"3529 Mike Circle West Emilyville, WI 87449",6/25/1977,30/11/1984,Fracture,Dr. Young,Neuro,189122 NGN,Pending,Hygeia,1429943 GBP,Ibuprofen
+P175,,male,90,523.851.4493x62944,,"72067 Waters Prairie Apt. 115 Boylehaven, AR 99576",April 28 2019,27/09/1978,Diabetis,Dr. Lozano,Neuro,380788 NGN,Unpaid,AXA,856033 NGN,Paracetamol
+P406,,,,001-321-746-5497x947,robertscory@example.net,,8/9/1976,11/2/1971,Typhoid,Dr. Wilcox,Emerg.,632456 GBP,Paid,,731714 NGN,Paracetamol
+P303, Steven Simon MD ,FEMALE,,080-442-3256,rachelduncan@example.net,"04613 Kyle Trafficway Suite 635 East Patricia, CT 93112",13/01/2004,February 16 1992,Typhoid,Dr. Holt,Cardiology,3295 USD,,Leadway,1152835 GBP,Insulin
+P382,Troy Contreras,,,(843)738-6020,,"90444 Ashley Ways Suite 978 East Amanda, AZ 67731",3/28/2008,,Stroke,Dr. Barnett,Cardiology,1670 USD,Unpaid,AIICO,1325964 GBP,
+P394, Katrina Nguyen ,FEMALE,65,080-547-8779,,,7/26/2002,8/6/2005,Malaria,Dr. Ortega,Cardio,635143 GBP,,AIICO,1332017 USD,Aspirin
+P376,Michael Horne,FEMALE,,8036459851,,"196 Long Square Suite 201 Albertborough, GU 71067",9/4/2016,July 18 2012,Typhod,Dr. Allen,ER,4367 NGN,Paid,AIICO,1611343 USD,Amoxicillin
+P468,daniel barrett,male,45,080-199-7409,amandathompson@example.net,,6/6/1989,,Diabetes,Dr. Ray,Emergency,349578 NGN,Paid,AXA,1982514 NGN,Paracetamol
+P471,,FEMALE,,,carolcamposexample.com,USCGC Salazar FPO AE 71940,October 23 2002,June 09 2008,Cancer,Dr. Holloway,Emergency,4800 USD,,AXA,692102 GBP,Ibuprofen
+P095, Ashley Chavez ,Male,54,8055888086,ramirezangelicaexample.net,,,August 01 1970,Stroke,Dr. Thompson,Orthopedics,3533 GBP,Pending,AXA,961453 NGN,
+P207,Robert Peterson,FEMALE,,080-952-1606,,,25/10/1982,May 10 1992,Cancer,Dr. Taylor,Neuro,90967 NGN,Unpaid,AXA,529623 USD,Ibuprofen
+P277,,FEMALE,18,080-496-5318,nancy34@example.net,,,25/05/2003,Stroke,Dr. Jones,Orthopedics,2514 GBP,Pending,AIICO,135424 NGN,
+P445, Sandra Howard ,FEMALE,,8029290305,hernandezashleyexample.com,"137 Joanna Way Apt. 646 Christineburgh, MS 33775",,8/18/1976,Diabetes,Dr. Turner,Emerg.,425118 USD,Paid,Leadway,1695909 NGN,
+P333,michelle martinez,FEMALE,,,,,8/2/1975,6/12/2008,,Dr. Jensen,Ortho,307838 NGN,Paid,,1020698 GBP,Insulin
+P151,,,52,,,,21/08/1980,June 02 1972,Diabetes,Dr. Novak,Neuro,3767 NGN,Pending,Hygeia,1242199 GBP,Amoxicillin
+P271,miss madison washington,Female,86,080-269-1262,vanessawilliams@example.org,,August 11 1997,7/12/1980,Typhoid,Dr. Thomas,ER,10701 GBP,Pending,AXA,758945 USD,Paracetamol
+P431,ABIGAIL ARROYO,male,,8053073189,bakerjulie@example.org,"64726 Walker Pass Lake Amanda, MS 95916",26/06/2017,September 27 1999,,Dr. Joseph,Emerg.,714073 GBP,Paid,Bupa,1654597 GBP,
+P281,BRIANA KNAPP,Male,,080-246-8875,,,March 30 2018,8/8/1974,Fracture,Dr. Chung,General,4379 USD,Pending,Leadway,381077 USD,Ibuprofen
+P228,Donald Mcintosh,FEMALE,73,3763247169,richard97@example.com,"86818 Jennifer Court Apt. 732 West Markberg, NV 98507",6/11/1976,,Fracture,Dr. Cohen,General,4323 USD,Pending,,844991 NGN,Aspirin
+P338,AMANDA MCINTYRE,FEMALE,,,,,,January 12 1976,Diabetis,Dr. Jackson,ER,2344 NGN,Pending,Bupa,1256797 USD,Ibuprofen
+P193, Lisa Williams ,Male,,,elizabeth01@example.net,"7437 Scott Skyway North Sarahshire, OR 46625",December 13 1988,9/12/1983,Typhoid,Dr. Taylor,ER,1395 NGN,,,1746340 NGN,Aspirin
+P102,Mr. Craig Smith,Male,,001-430-639-2112x007,harmonjoshua@example.org,,12/4/2006,August 26 2003,Malaria,Dr. Evans,General,518428 USD,,,217875 NGN,
+P098,VERONICA STRONG,Female,,8029905315,wilsonseanexample.com,,March 28 2021,1/1/1987,Stroke,Dr. Baldwin,Emergency,936471 USD,Paid,Bupa,1810095 GBP,
+P362, Charles Brown ,,,(291)331-4188x3998,danielhancock@example.net,,December 07 1989,1/19/2017,Typhod,Dr. Moore,ER,680957 USD,Unpaid,Leadway,209766 USD,Aspirin
+P174, James Higgins ,Female,,8019476828,,,6/2/2007,,Cancer,Dr. Cruz,ER,771287 GBP,,Leadway,171267 GBP,Ibuprofen
+P332,Johnny Pham,male,55,080-293-3607,,"247 Melanie Stravenue Apt. 477 South Mariemouth, IA 56176",12/10/1981,8/23/2020,Typhod,Dr. Dunlap,ER,118331 GBP,Unpaid,AIICO,1741187 GBP,Ibuprofen
+P324, Nathaniel Page ,male,,080-278-4116,,"528 Richard Keys Suite 024 South Michael, KS 41060",10/29/2014,11/6/1993,Diabetes,Dr. Riley,Neuro,408877 GBP,,Hygeia,293721 USD,Paracetamol
+P183,kimberly grant,Male,,608.795.7711,jeremyburch@example.com,,March 01 2023,7/2/1995,Typhoid,Dr. Chandler,Emergency,3192 NGN,,AIICO,193321 NGN,Paracetamol
+P136,DAVID HALL,Male,,8061994190,hallsean@example.org,,5/25/1996,July 04 2005,Cancer,Dr. Mitchell,General,530944 USD,Pending,,1664522 USD,
+P468,aaron larsen,Male,35,,timothystrickland@example.org,,3/21/1989,10/4/2020,Flu,Dr. Torres,Cardiology,732 NGN,Unpaid,AIICO,1476643 GBP,
+P024,,FEMALE,,(525)284-3048x15206,,,September 18 2000,19/02/2010,Diabetes,Dr. Young,ER,4442 GBP,,AXA,32955 NGN,Ibuprofen
+P344,,Female,,080-654-5208,,,7/9/1970,3/9/2016,Diabetis,Dr. Warren,ER,697071 GBP,Paid,,629317 USD,Insulin
+P078, Anthony Olsen ,FEMALE,,8020182297,jacksonmollyexample.org,,10/17/1990,1/7/1987,Fracture,Dr. Barron,Orthopedics,252387 GBP,,AXA,614054 GBP,Paracetamol
+P381,,Male,,994-791-3747,,,,July 21 1975,Typhoid,Dr. Lucas,Ortho,1210 GBP,Pending,,61474 NGN,Amoxicillin
+P274, James Torres ,,28,8025139454,,Unit 3136 Box 0504 DPO AP 27167,,1/23/2004,Diabetis,Dr. Moore,Cardiology,1950 NGN,Pending,AXA,1461885 USD,Ibuprofen
+P189,Chad Brown,Female,68,,,,,,Malaria,Dr. Graham,Emergency,1869 USD,Unpaid,AXA,448272 GBP,Ibuprofen
+P357, Christina Thomas ,Female,,8097441015,,,6/14/2017,December 11 1976,Typhod,Dr. Leach,Ortho,202942 USD,,Leadway,1796744 GBP,Ibuprofen
+P273,christina king,FEMALE,,8078987917,adamsanthonyexample.net,,12/13/2006,,Diabetis,Dr. Lowe,Emerg.,2620 GBP,Pending,,232827 GBP,Aspirin
+P053, Laura Davidson ,male,,8074664447,crangel@example.com,,February 13 1985,January 20 2011,Flu,Dr. Henderson,Cardiology,2094 USD,Pending,Bupa,776861 NGN,
+P344,,,,080-231-1979,jake00example.net,,August 16 1990,22/05/2003,Diabetes,Dr. Rodriguez,Neuro,664312 GBP,Unpaid,AIICO,1911743 GBP,Aspirin
+P049,,Female,,8954356634,hollandtammyexample.org,"4449 Angela Prairie Suite 531 Port Meagan, MN 74088",6/7/1995,15/06/1993,Diabetes,Dr. Peters,Cardiology,623408 NGN,Pending,Leadway,852620 GBP,Ibuprofen
+P307,KEVIN NELSON,Male,40,426-505-1428,kaitlyn48example.org,"593 Kelley Row Apt. 307 Mckenziefurt, CT 93515",10/10/1993,19/05/1984,Flu,Dr. Griffin,Cardiology,761706 USD,Paid,,1863564 NGN,Ibuprofen
+P480,laura lambert,FEMALE,,080-147-4187,,,11/26/1979,7/9/2017,Typhoid,Dr. Hartman,Orthopedics,147841 NGN,,,526334 NGN,Paracetamol
+P020,Kaitlin Nelson,FEMALE,,,zachary37@example.net,"0108 Matthew Extensions South Alan, VI 26768",4/2/2002,February 06 1987,Flu,Dr. Gonzalez,Neuro,874368 NGN,Paid,AIICO,1082808 NGN,Aspirin
+P275,,Female,,8041851443,,"54891 Jo Walks Port Richardborough, GA 01986",September 06 2012,31/07/2006,Diabetes,Dr. Erickson,Ortho,476774 NGN,Unpaid,,1210738 GBP,Ibuprofen
+P466, Bobby Harrison ,Female,65,8011510569,,,8/18/2007,,Flu,Dr. Mata,ER,77228 GBP,Paid,,1923416 NGN,Paracetamol
+P332,ELIZABETH SNYDER,Female,,949.613.8524x355,racheljones@example.org,,,February 26 1992,Fracture,Dr. Knox,Ortho,4172 USD,Unpaid,Bupa,1706445 NGN,Insulin
+P286,Jennifer Davenport,,78,080-922-6663,tristan47example.net,,11/26/1974,August 11 2002,Fracture,Dr. Sherman,Neuro,31536 GBP,Unpaid,Bupa,898914 GBP,Amoxicillin
+P229,,Female,,8021040424,vmillsexample.org,,16/04/2000,7/9/1994,Typhoid,Dr. Weiss,Emergency,2833 NGN,Paid,Leadway,443601 GBP,Aspirin
+P043,nancy miles,,,570-877-9578,wyattdavidexample.com,,,10/15/2001,Diabetes,Dr. Johnston,Emerg.,964509 NGN,Pending,Hygeia,753360 GBP,Ibuprofen
+P415, Anthony Barry ,male,8,,,"627 Griffin Freeway Barnesview, SD 35085",April 10 1974,,Typhod,Dr. Cole,General,86411 GBP,Unpaid,Leadway,1990146 USD,Insulin
+P150,Dana Garcia,Female,,544.526.7158x19165,,,31/07/2002,4/2/2003,Cancer,Dr. Dickerson,Cardio,819209 GBP,Paid,Hygeia,421833 USD,Paracetamol
+P190,michael thompson,,67,654-364-8093x0408,adavisexample.com,,,21/01/2026,Typhod,Dr. Miller,Emergency,3099 GBP,Unpaid,Leadway,845622 USD,Aspirin
+P002,Scott Fox,Male,,080-811-9382,,"31113 Delgado Common Suite 766 East Danielborough, TX 24510",11/4/1999,March 20 1992,Typhod,Dr. Lee,ER,4580 USD,Pending,Hygeia,1498228 NGN,Insulin
+P182,Debra Cruz,male,,080-449-7127,wellsmaxexample.net,,,1/25/2021,Typhoid,Dr. Clark,Ortho,297 NGN,Paid,AXA,1243072 USD,Insulin
+P156,KATIE GLENN,Female,,8046342611,,"70321 Holmes Parkways Apt. 569 Roberttown, SD 49728",August 25 1987,6/23/2017,Flu,Dr. Kennedy,Cardio,374 NGN,Unpaid,AIICO,515156 GBP,Ibuprofen
+P019,Jimmy Collins,FEMALE,,601.380.5565x85435,,,April 10 1977,10/7/2015,Diabetes,Dr. Tran,ER,241989 USD,,Hygeia,860078 NGN,Ibuprofen
+P484,,,,+1-823-219-7780x71033,wday@example.org,,23/10/1978,June 24 1993,Stroke,Dr. Scott,Neuro,707 GBP,Pending,AXA,1167589 NGN,Ibuprofen
+P331, Mr. Michael Gordon Jr. ,,,080-530-3087,,,4/27/2019,9/2/1991,,Dr. Johnson,Cardio,535736 USD,Paid,,741 GBP,Amoxicillin
+P271,Tricia Hines,Male,13,8056464866,patrickstephen@example.net,,12/7/1992,10/5/2025,Flu,Dr. Mitchell,Orthopedics,2224 NGN,Unpaid,,1935953 NGN,Paracetamol
+P367,Derrick Jones,,,8098335065,christina20example.org,,,2/8/1986,Flu,Dr. White,Cardio,961650 USD,Unpaid,AIICO,1658165 GBP,Aspirin
+P395,,male,,080-514-4214,travis77example.org,"02423 Knight Crescent Suite 182 East Cynthia, KY 56975",13/09/2000,10/30/1998,Diabetis,Dr. Bowen,Emerg.,933446 NGN,Paid,Hygeia,56601 NGN,Insulin
+P424,,FEMALE,,,,"26741 Jackson Summit East Jamesborough, NH 08361",,2/28/1983,Typhoid,Dr. Waller,Neuro,374732 NGN,Paid,,463942 USD,Aspirin
+P326,STEVEN BOWERS,Male,,,julia75@example.org,,26/01/2021,,Diabetes,Dr. Foster,Cardio,4117 GBP,Unpaid,AIICO,161447 USD,Insulin
+P333,Jonathan Robinson,Female,39,,,,October 09 1991,June 06 1981,Diabetis,Dr. Rogers,Cardiology,444 GBP,Unpaid,AIICO,1440939 NGN,Paracetamol
+P263, Melissa Brown ,,,080-732-5544,,"48358 Michael Stream Suite 675 Turnerton, MD 61010",12/5/2000,9/13/1970,Diabetis,Dr. Ryan,Ortho,3542 USD,Paid,AIICO,40008 NGN,Ibuprofen
+P098,,Male,,(320)654-2561,,,,3/4/1979,Malaria,Dr. Chen,Emergency,784728 NGN,Pending,,1412542 NGN,Insulin
+P425,Matthew Adams,Female,,(556)600-8751x09082,edward21@example.com,"69958 Olivia Place Apt. 822 North Hannahtown, WY 95261",December 10 1983,April 13 1973,Typhoid,Dr. Henderson,ER,657025 NGN,Paid,Leadway,823831 GBP,Aspirin
+P084, Kathy Giles ,Female,34,8055604055,michael93@example.org,"4775 Bryant Causeway Apt. 140 Delgadoton, GA 93749",21/12/2004,4/11/2022,,Dr. Jones,General,2437 GBP,Paid,,1692558 USD,Aspirin
+P100,TIMOTHY EATON,Female,,4857609341,uberry@example.com,"6226 Ricardo Flats Santosfort, WI 47884",2/10/1986,20/02/2004,Fracture,Dr. Moore,Emerg.,2849 NGN,,Bupa,1321990 USD,Ibuprofen
+P112,,Male,,080-204-4305,crawfordluisexample.net,,June 11 2001,4/11/2000,Fracture,Dr. Miller,Cardio,2734 GBP,Paid,Hygeia,461395 USD,Insulin
+P260,brian alexander,male,,,yleonardexample.com,,6/4/2024,March 18 1975,Flu,Dr. Anderson,ER,356527 USD,Unpaid,Bupa,409558 USD,Aspirin
+P187,KAREN CARPENTER,,16,080-478-4641,,"8097 Julie Isle Whitneymouth, CA 49276",16/02/1985,6/21/1995,Malaria,Dr. Harris,ER,1220 USD,Pending,Hygeia,1988370 USD,Paracetamol
+P201, Eric Roberts ,FEMALE,17,(456)590-5960,,"48148 Kyle Island Suite 215 Port Charlesmouth, KS 68959",2/12/1976,,,Dr. Brown,Cardio,3301 NGN,Unpaid,,1549564 GBP,Amoxicillin
+P096,katherine wilson,Female,48,080-177-3860,james57example.net,,October 12 2002,,Typhod,Dr. Parks,General,1414 NGN,Paid,AXA,1496803 GBP,Amoxicillin
+P136,PATRICK PAGE,Male,65,8099919094,ellisonwilliamexample.net,,,,,Dr. Singleton,Ortho,400394 NGN,,AIICO,1351984 NGN,Insulin
+P125,wayne turner,male,,080-292-6530,nmaldonado@example.org,,July 25 1970,11/14/2012,Diabetis,Dr. Johnson,ER,1171 GBP,,,1618497 NGN,Amoxicillin
+P180,jeffrey freeman,,65,080-368-8082,,"36622 Hendrix Village Apt. 045 Powellchester, MO 14953",December 02 1971,6/2/2025,Diabetes,Dr. Cabrera,Emergency,589335 NGN,,AXA,1319907 NGN,Paracetamol
+P010,,,,8098965046,,,December 09 1981,10/6/2022,Cancer,Dr. Williams,General,680467 GBP,Paid,Leadway,213650 NGN,Aspirin
+P041,renee patel,,,8046092222,,"356 Kane Terrace Suite 131 East Juanville, ND 76872",,10/7/2015,Typhod,Dr. Sampson,Emerg.,1385 USD,,Leadway,1655529 GBP,Amoxicillin
+P407,troy tapia,Male,,080-428-1403,kirbyjoshuaexample.com,,3/6/2002,22/01/1980,Flu,Dr. Decker,Emergency,979527 GBP,Pending,,1887706 GBP,Paracetamol
+P360,,,77,080-128-2502,,"25382 Logan Run Granthaven, AZ 78991",,6/13/1988,Stroke,Dr. Mills,General,2207 NGN,,AIICO,1113217 GBP,Paracetamol
+P051,Dr. Herbert Stevens DDS,Female,61,,sawyerraymond@example.com,,May 18 2000,,Fracture,Dr. Meyer,Orthopedics,2687 NGN,Pending,,38697 USD,
+P263, Harry Jones ,male,,8095013460,mariostanton@example.org,,January 10 2010,August 06 2017,Diabetes,Dr. Thomas,ER,777016 NGN,,,428196 NGN,Ibuprofen
+P086,,FEMALE,,8062127748,,,December 30 1986,9/20/1977,,Dr. Goodwin,Orthopedics,717655 GBP,Unpaid,,1920143 USD,Insulin
+P170,brandon obrien,Male,,(381)260-4533x67038,,"125 Garcia Well Suite 658 Walkermouth, LA 41870",6/4/2008,7/1/1998,Typhoid,Dr. Moore,General,594770 USD,Unpaid,AIICO,25724 GBP,Insulin
+P453, Thomas Huerta ,,,8083891072,,,June 03 1981,,Diabetes,Dr. Ellis,ER,244377 USD,Unpaid,Bupa,991418 NGN,Insulin
+P184,randy thomas,Female,71,8052062862,nunezdawnexample.org,"813 Dawn Ports Port Anthony, TN 99298",July 30 1970,September 25 1988,Cancer,Dr. Newman,Orthopedics,4187 USD,,AXA,484653 USD,Ibuprofen
+P265,Alexandra Nelson,FEMALE,32,080-439-9591,mlopez@example.org,,10/22/1993,7/6/1981,,Dr. Lambert,Emergency,1618 USD,Unpaid,Leadway,1387898 NGN,Ibuprofen
+P113,,,25,+1-212-603-5233x56277,,"466 Allen Knolls Jonathanport, NV 12083",2/26/1991,5/2/1981,Stroke,Dr. Moon,Cardiology,2716 GBP,Pending,,406503 NGN,
+P023,JOSEPH FLOWERS,Female,,,zunigamaria@example.com,,September 11 1972,,Diabetis,Dr. Black,Emerg.,683536 GBP,Paid,,173035 GBP,Aspirin
+P059,Lisa Clark,,,844-848-1505,eharrisexample.com,"3702 Gray Cape Suite 939 Lake Michael, MN 84640",November 20 2017,August 01 2011,Typhod,Dr. Newman,ER,2352 USD,Unpaid,AIICO,527843 NGN,Paracetamol
+P437,Kevin Morales,FEMALE,,,shelia32@example.net,"3394 David Path South Brett, MH 74070",8/8/2014,5/3/2003,Diabetis,Dr. Armstrong,Emergency,538333 GBP,Paid,AIICO,251191 USD,Aspirin
+P135,Rebecca Green,male,,,bryan53@example.com,"06912 Mooney Divide Apt. 160 South Timothyside, TX 30951",December 07 2010,,Cancer,Dr. Ortiz,Emerg.,4455 NGN,Unpaid,AIICO,585257 NGN,Ibuprofen
+P462,,Female,,080-804-7971,olsonjillianexample.org,,12/8/2016,12/17/1993,Flu,Dr. Woodard,Emerg.,4095 NGN,Pending,Hygeia,1073115 NGN,Aspirin
+P292,,,,8080661594,,"685 Guzman Estates Rodriguezbury, MH 24825",24/11/2022,4/16/1998,Cancer,Dr. Figueroa,Emergency,891265 USD,,Leadway,1753774 GBP,
+P089,MORGAN FISHER,FEMALE,,,,,7/9/1970,2/21/1988,Diabetes,Dr. Allen,ER,4152 USD,Paid,Bupa,1533912 USD,Paracetamol
+P370,Nathan Collins,,6,,,,July 17 2014,September 15 1998,Diabetis,Dr. Martin,Cardiology,3476 NGN,Pending,Leadway,761072 NGN,Paracetamol
+P156,,Female,,8060131934,,,December 13 1972,March 30 2021,Typhod,Dr. Riley,Cardio,305 NGN,Paid,Bupa,557787 USD,Ibuprofen
+P281,ALBERT PITTS,FEMALE,,,,,February 24 1987,,Cancer,Dr. Mendoza,Ortho,2076 GBP,,AXA,106481 GBP,Amoxicillin
+P208,James Hansen,FEMALE,,8038716609,,,2/8/2025,7/15/1983,Diabetis,Dr. Hanson,Neuro,1239 USD,Unpaid,Hygeia,1545334 USD,Insulin
+P415,,male,,,,,November 14 1984,12/28/2010,Typhod,Dr. Cain,Neuro,511764 USD,Unpaid,AIICO,1171041 NGN,Insulin
+P378, Jerome Oliver ,Female,,080-887-3366,lorifreeman@example.net,,December 25 1981,12/11/2009,Typhoid,Dr. Kennedy,Neuro,738799 GBP,Unpaid,AIICO,1523177 GBP,Aspirin
+P156,Brianna Poole,Female,88,6915330658,,,25/06/2020,,Stroke,Dr. Sanchez,Neuro,173055 NGN,Unpaid,Leadway,124369 GBP,Paracetamol
+P483,Jeffery Lynch,male,90,8011583415,diazbrittany@example.com,,November 21 1993,3/9/1982,Malaria,Dr. Valenzuela,Cardio,1873 USD,Paid,AXA,1935316 GBP,Paracetamol
+P023,Christopher Griffin,Male,,080-400-6011,,"98627 Smith Rue New Annaport, PA 33272",18/01/1991,,Malaria,Dr. Choi,Neuro,579087 NGN,Unpaid,Hygeia,1153922 USD,
+P429,Adam Lee,Male,,,mary23example.org,"3184 Farley Parkways Port Daniel, PR 86636",,,Stroke,Dr. Torres,Cardiology,2053 GBP,Pending,Leadway,1353423 NGN,Paracetamol
+P174,laurie simmons,FEMALE,,080-596-2353,jackharper@example.com,"94175 Lopez Drives Apt. 844 North Brookechester, VT 47166",4/2/2007,30/09/1998,Cancer,Dr. Christensen,ER,3119 USD,Unpaid,,1603682 NGN,Amoxicillin
